@@ -1,20 +1,37 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
   {% include head.html %}
+<body>
 
-  <body>
-
+  
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+    <!-- Page Content -->
+    <div id="content" class="container">
+
+      {{ content }}
+
     </div>
 
-    {% include footer.html %}
+    <!-- Footer -->
+    <footer>
+      <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <p>Copyright &copy; Your Website 2014</p>
+        </div>
+	<div class="col-lg-2">
+	  {% include footer.html %}
+	</div>
+	
+      </div> </div>
+    </footer>
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 
-  </body>
+    </div>
+
+</body>
 
 </html>
