@@ -52,7 +52,7 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 
 Blaine- a Warden Raslav- a mysterios and deadly alien criminal mastermind.
 
-<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-right img-responsive " /></a>
+<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-centre img-responsive " /></a>
 
 
 <div class="clearfix">&nbsp;</div>
