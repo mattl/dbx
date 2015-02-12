@@ -2,7 +2,7 @@
 layout: page
 title: Blaine
 sub: yes
-permalink: /factions/blaine/
+permalink: /sponsors/blaine/
 ---
 
 <!-- for each faction -->
