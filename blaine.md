@@ -21,21 +21,18 @@ The prison planets of the GCP area never ending pool of desperate and dangerous 
 <h2>Runner</h2>
 <a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
-<a class="btn btn-default" href="#">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h2>Thug</h2>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
-<a class="btn btn-default" href="#">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h2>Con</h2>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
-<a class="btn btn-default" href="#">More Info</a>
 </div>
 <!-- /.col-md-4 -->
 </div>
