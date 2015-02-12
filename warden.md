@@ -40,6 +40,8 @@ The prison planets of the GCP area never ending pool of desperate and dangerous 
 
 <h2>Free Agents</h2>
 
+As well as the two different teams, there is a wide range of crazy aliens, vicious mercenaries and assorted scum that a Sponsor can hire to help them win the game, each with their own individual skill and strengths.
+
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
