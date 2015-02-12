@@ -27,7 +27,7 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 <h2>Blaine</h2>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>A mysterious and deadly alien criminal mastermind.</p>
-<a class="btn btn-default" href="blaine/">More Info</a>
+<p><a href="blaine/" class="btn btn-default">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
