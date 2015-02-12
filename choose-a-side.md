@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Choose a side
+title: Choose a Sponsor
 permalink: /factions/
 ---
 
