@@ -18,7 +18,7 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 <div class="row">
 <div class="col-md-4">
 <h2>The Warden</h2>
-a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<a href="zees/"><img src="../img/Zee Pirate_color-head.png"</a>
 <p>Warden Raslav- a sadistic prison overseer with an endless supply of hardened prisoners.</p>
 <a class="btn btn-default" href="#">More Info</a>
 </div>
