@@ -20,7 +20,7 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 <h2>The Warden</h2>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>A sadistic prison overseer with an endless supply of hardened prisoners.</p>
-<a class="btn btn-default" href="blaine/">More Info</a>
+<a class="btn btn-default" href="warden/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
