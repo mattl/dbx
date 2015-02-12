@@ -17,8 +17,14 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
-<h2>Heading 1</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.</p>
+<h2>The Warden</h2>
+<p>Warden Raslav- a sadistic prison overseer with an endless supply of hardened prisoners.</p>
+<a class="btn btn-default" href="#">More Info</a>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h2>Blaine</h2>
+<p>Blaine- a Warden Raslav- a mysterios and deadly alien criminal mastermind.</p>
 <a class="btn btn-default" href="#">More Info</a>
 </div>
 <!-- /.col-md-4 -->
@@ -28,7 +34,7 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 
 <h2>The Warden</h2>
 
-Warden Raslav- a sadistic prison overseer with an endless supply of hardened prisoners.
+<p>Warden Raslav- a sadistic prison overseer with an endless supply of hardened prisoners.</p>
 
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 
