@@ -7,7 +7,7 @@ permalink: /the-game/
 The best way to begin playing Dreadball Xtreme is to get yourself a copy of the awesome, fun boxed game.
 It contains everything that you will need to start playing:
 
-<h3>Fantastic Miniatures<h3>
+<h3>Fantastic Miniatures</h3>
 <ul>
 <li>Sponsor: Blaine</li>
 <li>Sponsor: Warden Rasulov</li>
@@ -22,7 +22,7 @@ It contains everything that you will need to start playing:
 
 <div class="clearfix">&nbsp;</div>
 
-<h3>Brilliant Gaming Arena<h3>
+<h3>Brilliant Gaming Arena</h3>
 <ul>
 <li>Detailed colour rubber gaming mat</li>
 <li>4 Strike posts</li>
@@ -30,7 +30,7 @@ It contains everything that you will need to start playing:
 <li>2 Dreadballs</li>
 </ul>
 
-<h3>Rules Materials<h3>
+<h3>Rules Materials</h3>
 <ul>
 <li>Full colour, detailed rule book</li>
 <li>‘Special Move’ Card Deck</li>
