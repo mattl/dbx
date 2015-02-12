@@ -32,6 +32,7 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h2>Players</h2>
+<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.</p>
 <a class="btn btn-default" href="#">More Info</a>
 </div>
