@@ -34,6 +34,8 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 <a class="btn btn-default" href="#">More Info</a>
 </div>
 <!-- /.col-md-4 -->
+</div>
+<!-- /.row -->
 
 <h2>The Warden</h2>
 
