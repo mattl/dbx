@@ -40,7 +40,7 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 </div>
 <!-- /.row -->
 
-<h2>Coming Soon</2>
+<h2>Coming Soon</h2>
 
 <!-- Content Row -->
 <div class="row">
