@@ -48,7 +48,7 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 <h2>Dr Kain</h2>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>Requires Text</p>
-<a class="btn btn-default" href="#">Coming Soon/a>
+<a class="btn btn-default" href="#">Coming Soon</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
