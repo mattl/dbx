@@ -2,7 +2,7 @@
 layout: page
 title: Warden
 sub: yes
-permalink: /factions/warden/
+permalink: /sponsors/warden/
 ---
 
 <!-- for each faction -->
