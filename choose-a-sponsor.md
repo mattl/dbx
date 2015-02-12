@@ -17,21 +17,21 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
-<h2>The Warden</h2>
+<h3>The Warden</h3>
 <a href="warden/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>A sadistic prison overseer with an endless supply of hardened prisoners.</p>
 <a class="btn btn-default" href="warden/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h2>Blaine</h2>
+<h3>Blaine</h3>
 <a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>A mysterious and deadly alien criminal mastermind.</p>
 <a class="btn btn-default" href="blaine/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h2>Players</h2>
+<h3>Players</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 <a class="btn btn-default" href="blaine/">More Info</a>
@@ -43,21 +43,21 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
-<h2>Dr Kain</h2>
+<h3>Dr Kain</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>Requires Text</p>
 <a class="btn btn-default">Coming Soon</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h2>Kraato Gon</h2>
+<h3>Kraato Gon</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>Requires Text</p>
 <a class="btn btn-default">Coming Soon</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h2>The Shojuun</h2>
+<h3>The Shojuun</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>Requires Text</p>
 <a class="btn btn-default">Coming Soon</a>
@@ -66,17 +66,9 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 </div>
 <!-- /.row -->
 
-<h2>The Warden</h2>
-
-<p>Warden Raslav- a sadistic prison overseer with an endless supply of hardened prisoners.</p>
-
-<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-
-
-
 <div class="clearfix">&nbsp;</div>
 
-<p><a href="blaine/" class="btn btn-success btn-lg">Learn more about Blaine</a></p>
+<p><a href="blaine/" class="btn btn-success btn-lg">How to Play >></a></p>
 
 <div class="clearfix">&nbsp;</div>
 
