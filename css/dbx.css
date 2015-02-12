@@ -4,9 +4,13 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+@import url('../fonts/younger-than-me.css');
+
+html {background: url(../img/bgm.png);}
+
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
-        background-image: url(../img/bgm.jpg) !important;
+        background: transparent url(../img/bgm.jpg) no-repeat!important;
 color: white !important;
 }
 
@@ -30,8 +34,16 @@ min-height: 400px;
 padding-bottom: 170px;
 
 }
+
+.post-title {line-height: 75px; background: yellow; color: black; font-size: 64px; font-weight: bold; padding: 3px;}
+
+.col-md-4 h1, .col-md-4 h2, .col-md-4 h3, .post-content h2, .btn,  .post-title, .nav li { text-transform: uppercase; font-family: "Flaticon", sans-serif}
     
 @media(min-width:768px) {
+
+
+html {background: transparent;}
+
     body {
         padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
         background: white url(../img/bg.jpg) top center !important;
@@ -41,7 +53,11 @@ padding-bottom: 170px;
         padding: 15px 0;
     }
 
-.post-title {line-height: 75px; background: transparent url(../img/yellow.png) no-repeat; color: black; font-size: 64px; font-weight: bold; padding: 3px; text-transform: uppercase;}
+.post-title {line-height: 75px; background: transparent url(../img/yellow.png) no-repeat; color: black; font-size: 64px; font-weight: bold; padding: 3px;}
+
+.col-md-4 h1, .col-md-4 h2, .col-md-4 h3, .post-content h2, .btn,  .post-title, .nav li { text-transform: uppercase; font-family: "Flaticon", sans-serif}
+
+.btn {font-size: 140%;}
 
 .navbar-nav a {
   font-size: 20px;
@@ -70,7 +86,6 @@ right: 0;
 height: 100%;
 overflow: hidden;
 background: transparent url(../img/xtreme-architecture-side.png);
-z-index: 1040;
 }
 
 }
