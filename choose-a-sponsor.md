@@ -31,7 +31,7 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h3>Players</h3>
+<h3>Rathmar Ul-Iheq</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 <a class="btn btn-default" href="blaine/">More Info</a>
