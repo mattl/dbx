@@ -4,6 +4,27 @@ title: The Game
 permalink: /the-game/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam posuere nunc nibh, vel pulvinar metus dapibus et. Morbi non dui mollis, aliquet eros eu, vehicula libero. Aenean nunc nibh, elementum nec bibendum feugiat, rutrum et ligula. Nullam laoreet convallis ultrices. Quisque consequat blandit nisi id tincidunt. Nullam quis velit luctus, lacinia augue sed, ultricies velit. Sed efficitur lectus vitae ante semper, eu consectetur neque fermentum.
+The best way to begin playing Dreadball Xtreme is to get yourself a copy of the awesome, fun boxed game.
+It contains everything that you will need to start playing:
 
-Maecenas efficitur mi elit, sed sodales ex pellentesque eget. Nam ultricies diam nec semper lobortis. Suspendisse vulputate, diam sit amet porta tincidunt, magna eros lacinia diam, mattis ullamcorper tortor est nec urna. Quisque metus mi, posuere at venenatis in, dignissim a nisl. Aenean placerat ligula in nibh rutrum luctus. Pellentesque vitae ex ac enim rutrum interdum. Morbi sit amet arcu ut lorem commodo aliquam vitae ut tellus. Curabitur pulvinar rhoncus odio molestie semper. Curabitur at egestas odio, id aliquet nulla. Proin at nisi ante. Aliquam bibendum leo non leo molestie, vel dignissim ipsum tempus. Mauris facilisis mattis condimentum. Mauris massa dui, auctor sed elementum non, gravida non mi. Suspendisse quam lorem, viverra eu sagittis eget, suscipit nec arcu. Sed vel velit ut eros laoreet vehicula.
+Fantastic Miniatures
+•	Two Sponsors (Blaine and the Warden)
+•	10 Convict Players
+•	10 Kalyshi Players
+•	9 Free Agents
+
+Brilliant Gaming Arena
+•	Detailed colour rubber gaming mat
+•	4 Strike posts
+•	Obsticles ad exploding crates
+•	2 Dreadballs
+
+Rules Materials
+•	Full colour, detailed rule book
+•	‘Special Move’ Card Deck
+•	‘’Sabotage’ Card Deck
+•	Counters
+•	14 coloured dice
+
+END
+
