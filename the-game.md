@@ -23,17 +23,20 @@ Fantastic Miniatures
 <div class="clearfix">&nbsp;</div>
 
 Brilliant Gaming Arena
+<ul>
 <li>Detailed colour rubber gaming mat</li>
 <li>4 Strike posts</li>
 <li>Obstacles and exploding crates</li>
 <li>2 Dreadballs</li>
+</ul>
 
 Rules Materials
+<ul>
 <li>Full colour, detailed rule book</li>
 <li>‘Special Move’ Card Deck</li>
 <li>‘’Sabotage’ Card Deck</li>
 <li>Counters</li>
 <li>14 coloured dice</li>
-
+</ul>
 END
 
