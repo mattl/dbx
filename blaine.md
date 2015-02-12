@@ -9,29 +9,23 @@ permalink: /factions/blaine/
 
 REQUIRES TEXT WRITING
 
-<h2>Convicts</h2>
+<h2>Asterian Kalyshi</h2>
 
 <!-- for each faction -->
 
-The prison planets of the GCP area never ending pool of desperate and dangerous individuals who, with no future or hope of release, are willing to risk everything in the unlicensed arenas. With such easy access to these scum it is easy for unscrupulous wardens to recruit their teams from amongst them- and there is always the high explosive blast-collars that they wear to keep them in line (and maybe take out opponents with a well-timed detonation!)
+The blue skinned Kalysians are an aggressive and wild sub sect of the Asterian race. Fast moving, elegant and skilful their natural athleticism is enhanced by warrior skills which they have honed since they could walk. This makes them ideal players in fast paced and deadly game of illegal Xtreme.
 
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
-<h2>Runner</h2>
-<a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<h2>Striker</h2>
+<a href="warden/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h2>Thug</h2>
-<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>REQUIRES TEXT WRITING</p>
-</div>
-<!-- /.col-md-4 -->
- <div class="col-md-4">
-<h2>Con</h2>
-<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<h2>Jack</h2>
+<a href="warden/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
 </div>
 <!-- /.col-md-4 -->
