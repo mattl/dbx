@@ -7,7 +7,7 @@ permalink: /the-game/freeagents/
 
 <!-- for each faction -->
 
-REQUIRES TEXT WRITING
+As well as the two different teams, there are a wide range of crazy aliens, vicious mercenaries and assorted scum that a Sponsor can hire to help them win the game, each with their own individual skill and strengths.
 
 <!-- Content Row -->
 <div class="row">
