@@ -51,7 +51,7 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 
 <div class="clearfix">&nbsp;</div>
 
-<p><a href="zees/" class="btn btn-success btn-lg">Learn more about The Zees</a></p>
+<p><a href="blaine/" class="btn btn-success btn-lg">Learn more about The Zees</a></p>
 
 <div class="clearfix">&nbsp;</div>
 
