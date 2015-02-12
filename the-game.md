@@ -31,7 +31,7 @@ Every model comes match-ready and can be used straight out of the box – no ass
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Free Agents</h3>
-<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<a href="freeagents/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
 </div>
 <!-- /.col-md-4 -->
