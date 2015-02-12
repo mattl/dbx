@@ -14,6 +14,13 @@ Fantastic Miniatures
 <li>10 Kalyshi Players and 2 Prone Figures</li>
 <li>9 Free Agents</li>
 </ul>
+
+<div class="clearfix">&nbsp;</div>
+
+<p><a href="blaine/" class="btn btn-success btn-lg">Learn more about Blaine</a></p>
+
+<div class="clearfix">&nbsp;</div>
+
 Brilliant Gaming Arena
 •	Detailed colour rubber gaming mat
 •	4 Strike posts
