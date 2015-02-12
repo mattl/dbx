@@ -116,12 +116,29 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <!-- /.row -->
 
 <h3>Rules Materials</h3>
-<ul>
-<li>Full colour, detailed rule book</li>
-<li>‘Special Move’ Card Deck</li>
-<li>‘’Sabotage’ Card Deck</li>
-<li>Counters</li>
-<li>14 coloured dice</li>
-</ul>
+
+<!-- Content Row -->
+<div class="row">
+<div class="col-md-4">
+<h3>Rulebook</h3>
+<a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<p>REQUIRES TEXT WRITING</p>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Counters</h3>
+<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<p>REQUIRES TEXT WRITING</p>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Dice</h3>
+<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<p>REQUIRES TEXT WRITING</p>
+</div>
+<!-- /.col-md-4 -->
+</div>
+<!-- /.row -->
+
 END
 
