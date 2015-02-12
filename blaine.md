@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Blaine
-permalink: /Blaine/
+sub: yes
+permalink: /factions/Blaine
 ---
 
 <!-- for each faction -->
