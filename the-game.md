@@ -21,18 +21,21 @@ Every model comes match-ready and can be used straight out of the box – no ass
 <h3>Blaine Sponsor</h3>
 <a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
+<a class="btn btn-default" href="blaine/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Warden Rasulov Sponsor</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
+<a class="btn btn-default" href="warden/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Free Agents</h3>
 <a href="freeagents/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
+<a class="btn btn-default" href="freeagents/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
 </div>
@@ -49,6 +52,7 @@ Every model comes match-ready and can be used straight out of the box – no ass
 <h3>Kalyshi Team</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
+<a class="btn btn-default" href="warden/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
