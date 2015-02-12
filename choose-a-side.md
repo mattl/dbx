@@ -14,11 +14,6 @@ Each of these is an individual who is looking to get quick rich through exploiti
 
 Different Sponsors have natural preferences and allegiances and so while they are free to hire whoever they want, the costs of players vary depending upon who is buying them.
 
-
-
-<div class="clearfix">&nbsp;</div>
-<p><a href="zees/" class="btn btn-success btn-lg">Learn more about The Zees</a></p>
-<div class="clearfix">&nbsp;</div>
 <h2>The Warden</h2>
 
 Warden Raslav- a sadistic prison overseer with an endless supply of hardened prisoners.
