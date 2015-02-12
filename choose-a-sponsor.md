@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Choose a Sponsor
-permalink: /factions/
+permalink: /sponsors/
 ---
 
 <!-- for each faction -->
