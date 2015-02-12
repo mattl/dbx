@@ -22,8 +22,13 @@ color: white !important;
 
 footer {
     padding: 30px 0;
-    margin: 100px 0 0 0;
-    background-color: red;
+}
+
+#content {
+
+min-height: 400px;
+padding-bottom: 170px;
+
 }
     
 @media(min-width:768px) {
@@ -36,12 +41,7 @@ footer {
         padding: 15px 0;
     }
 
-#content {
-
-min-height: 400px;
-padding-bottom: 570px;
-
-}
+.post-title {line-height: 75px; background: transparent url(../img/yellow.png) no-repeat; color: black; font-size: 64px; font-weight: bold; padding: 3px; text-transform: uppercase;}
 
 .navbar-nav a {
   font-size: 20px;
@@ -53,14 +53,24 @@ padding-bottom: 570px;
   line-height: 34px;
   display: block;
 }
-footer {
-        background: transparent url(../img/footer.png) top center !important;
-height: 176px;
-position: fixed;
-bottom: 0;
-width: 100%;
-padding-top: 100px;
+
+
+
 }
 
+@media(min-width: 950px) {
+
+#content {padding-right: 90px;}
+
+#foo {
+width: 160px;
+position: absolute;
+top: 0;
+right: 0;
+height: 100%;
+overflow: hidden;
+background: transparent url(../img/xtreme-architecture-side.png);
+z-index: 1040;
+}
 
 }
