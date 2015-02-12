@@ -2,12 +2,10 @@
 layout: page
 title: Blaine
 sub: yes
-permalink: /factions/Blaine
+permalink: /factions/blaine
 ---
 
 <!-- for each faction -->
-
-<h2>Blaine</h2>
 
 Text
 
