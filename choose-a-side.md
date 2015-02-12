@@ -19,14 +19,14 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 <div class="col-md-4">
 <h2>The Warden</h2>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>Warden Raslav- a sadistic prison overseer with an endless supply of hardened prisoners.</p>
+<p>A sadistic prison overseer with an endless supply of hardened prisoners.</p>
 <a class="btn btn-default" href="#">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h2>Blaine</h2>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>Blaine- a Warden Raslav- a mysterios and deadly alien criminal mastermind.</p>
+<p>A mysterious and deadly alien criminal mastermind.</p>
 <a class="btn btn-default" href="#">More Info</a>
 </div>
 <!-- /.col-md-4 -->
@@ -40,19 +40,6 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 
-
-
-<div class="clearfix">&nbsp;</div>
-
-<p><a href="zees/" class="btn btn-success btn-lg">Learn more about The Zees</a></p>
-
-<div class="clearfix">&nbsp;</div>
-
-<h2>Blaine</h2>
-
-Blaine- a Warden Raslav- a mysterios and deadly alien criminal mastermind.
-
-<a href="zees/"><img src="../img/Zee Pirate_color-head.png" align=center /></a>
 
 
 <div class="clearfix">&nbsp;</div>
