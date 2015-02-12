@@ -1,14 +1,17 @@
 ---
 layout: page
-title: Choose a Sponsor
+title: Choosing a Sponsor
 permalink: /factions/
 ---
 
 <!-- for each faction -->
 
-<h2>The Zees</h2>
+<h2>Sponsors</h2>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam posuere nunc nibh, vel pulvinar metus dapibus et. Morbi non dui mollis, aliquet eros eu, vehicula libero. Aenean nunc nibh, elementum nec bibendum feugiat, rutrum et ligula. Nullam laoreet convallis ultrices. Quisque consequat blandit nisi id tincidunt. Nullam quis velit luctus, lacinia augue sed, ultricies velit. Sed efficitur lectus vitae ante semper, eu consectetur neque fermentum.
+In the Dreadball Xtreme you will take on the role of a Sponsor, the organiser of the team.
+Each of these is an individual who is looking to get quick rich through exploiting those desperate or unhinged enough to play in this most savage of sport, paying them to risk their lives in the arena. Each Sponsor has a budget of credits to hire these dregs and they choose to balance the quality of elite players against the quantity of no talent grunts they can put onto the pitch in search of that illusive win.
+Different Sponsors have natural preferences and allegiances and so while they are free to hire whoever they want, the costs of players vary depending upon who is buying them.
+
 
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-right img-responsive " /></a>
 
@@ -20,9 +23,9 @@ Maecenas efficitur mi elit, sed sodales ex pellentesque eget. Nam ultricies diam
 
 <div class="clearfix">&nbsp;</div>
 
-<h2>The Zees</h2>
+<h2>The Warden</h2>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam posuere nunc nibh, vel pulvinar metus dapibus et. Morbi non dui mollis, aliquet eros eu, vehicula libero. Aenean nunc nibh, elementum nec bibendum feugiat, rutrum et ligula. Nullam laoreet convallis ultrices. Quisque consequat blandit nisi id tincidunt. Nullam quis velit luctus, lacinia augue sed, ultricies velit. Sed efficitur lectus vitae ante semper, eu consectetur neque fermentum.
+Warden Raslav- a sadistic prison overseer with an endless supply of hardened prisoners.
 
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 
@@ -34,9 +37,9 @@ Maecenas efficitur mi elit, sed sodales ex pellentesque eget. Nam ultricies diam
 
 <div class="clearfix">&nbsp;</div>
 
-<h2>The Zees</h2>
+<h2>Blane</h2>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam posuere nunc nibh, vel pulvinar metus dapibus et. Morbi non dui mollis, aliquet eros eu, vehicula libero. Aenean nunc nibh, elementum nec bibendum feugiat, rutrum et ligula. Nullam laoreet convallis ultrices. Quisque consequat blandit nisi id tincidunt. Nullam quis velit luctus, lacinia augue sed, ultricies velit. Sed efficitur lectus vitae ante semper, eu consectetur neque fermentum.
+Blane- a Warden Raslav- a mysterios and deadly alien criminal mastermind.
 
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-right img-responsive " /></a>
 
