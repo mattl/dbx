@@ -18,19 +18,19 @@ Every model comes match-ready and can be used straight out of the box – no ass
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
-<h2>Blaine Sponsor</h2>
+<h3>Blaine Sponsor</h3>
 <a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h2>Warden Rasulov Sponsor</h2>
+<h3>Warden Rasulov Sponsor</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h2>Free Agents</h2>
+<h3>Free Agents</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
 </div>
@@ -40,19 +40,19 @@ Every model comes match-ready and can be used straight out of the box – no ass
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
-<h2>Convicts Team</h2>
+<h3>Convicts Team</h3>
 <a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h2>Kalyshi Team</h2>
+<h3>Kalyshi Team</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h2>Coloured Hex Bases</h2>
+<h3>Coloured Hex Bases</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
 </div>
@@ -73,19 +73,19 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
-<h2>Arena</h2>
+<h3>Arena</h3>
 <a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h2>Strike Posts</h2>
+<h3>Strike Posts</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h2>Exploding Crates</h2>
+<h3>Exploding Crates</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
 </div>
@@ -95,19 +95,19 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
-<h2>Specials Moves</h2>
+<h3>Special Moves</h3>
 <a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h2>Sabotage Cards</h2>
+<h3>Sabotage Cards</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h2>2 DreadBalls</h2>
+<h3>2 DreadBalls</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
 </div>
