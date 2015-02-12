@@ -8,11 +8,12 @@ The best way to begin playing Dreadball Xtreme is to get yourself a copy of the 
 It contains everything that you will need to start playing:
 
 Fantastic Miniatures
-•	Two Sponsors (Blaine and the Warden)
-•	10 Convict Players
-•	10 Kalyshi Players
-•	9 Free Agents
-
+<ul>
+<li>Sponsor: Blaine</li>
+<li>10 Convict Players and 2 Prone Figures</li>
+<li>10 Kalyshi Players and 2 Prone Figures</li>
+<li>9 Free Agents</li>
+</ul>
 Brilliant Gaming Arena
 •	Detailed colour rubber gaming mat
 •	4 Strike posts
