@@ -10,6 +10,7 @@ It contains everything that you will need to start playing:
 Fantastic Miniatures
 <ul>
 <li>Sponsor: Blaine</li>
+<li>Sponsor: Warden Rasulov</li>
 <li>10 Convict Players and 2 Prone Figures</li>
 <li>10 Kalyshi Players and 2 Prone Figures</li>
 <li>9 Free Agents</li>
@@ -22,17 +23,17 @@ Fantastic Miniatures
 <div class="clearfix">&nbsp;</div>
 
 Brilliant Gaming Arena
-•	Detailed colour rubber gaming mat
-•	4 Strike posts
-•	Obsticles ad exploding crates
-•	2 Dreadballs
+<li>Detailed colour rubber gaming mat</li>
+<li>4 Strike posts</li>
+<li>Obstacles and exploding crates</li>
+<li>2 Dreadballs</li>
 
 Rules Materials
-•	Full colour, detailed rule book
-•	‘Special Move’ Card Deck
-•	‘’Sabotage’ Card Deck
-•	Counters
-•	14 coloured dice
+<li>Full colour, detailed rule book</li>
+<li>‘Special Move’ Card Deck</li>
+<li>‘’Sabotage’ Card Deck</li>
+<li>Counters</li>
+<li>14 coloured dice</li>
 
 END
 
