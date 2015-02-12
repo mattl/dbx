@@ -107,7 +107,7 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h3>2 DreadBalls</h3>
+<h3>Balls</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>REQUIRES TEXT WRITING</p>
 </div>
