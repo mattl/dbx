@@ -6,7 +6,6 @@ permalink: /sponsors/
 
 <!-- for each faction -->
 
-<h2>Sponsors</h2>
 
 In the Dreadball Xtreme you will take on the role of a Sponsor, the organiser of the team.
 
