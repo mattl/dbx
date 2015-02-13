@@ -7,7 +7,8 @@ permalink: /sponsors/blaine/
 
 <!-- for each faction -->
 
-REQUIRES TEXT WRITING
+Blaine is the most feared and wanted criminal in the GCPS. It is a sign of his utter contempt for the Corporation and the Council that, despite every Enforcer in the galaxy having  ‘Kill On Sight’ orders for him, he still is a high profile Sponsor for the underground version of their favourite game.  His crimes are always audacious, large scale, and have a total disregard for life or authority, an approach that he brings with him into the bloody arenas of DreadBall Xtreme.
+He favours an eclectic and diverse team, often recruiting a wide mix of different species and player types depending upon this carefully worked out strategy. He leaves nothing to chance as he looks for any weaknesses to exploit in his opponents game plan, analysing the plays and countering them with a mix of flair and vicious, ruthless violence.
 
 Sponsors pick their “teams” for Xtreme from a pool of human and alien scum, according to their budget and preferences – for example, Warden Rasulov will pay less for convicts than Blaine.
 
@@ -24,13 +25,13 @@ The blue skinned Kalysians are an aggressive and wild sub sect of the Asterian r
 <div class="col-md-4">
 <h3>Striker</h3>
 <a href="warden/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>REQUIRES TEXT WRITING</p>
+<p>Fast moving and skilful, the Kalyian Striker can leap over any friends, enemies or obsticles that stand in their path to score. </p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Jack</h3>
 <a href="warden/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>REQUIRES TEXT WRITING</p>
+<p>With no refs or rules, the Jacks can use thier deadly Backstab ability to exploit any weaknesses in their foes armour.  </p>
 </div>
 <!-- /.col-md-4 -->
 </div>
