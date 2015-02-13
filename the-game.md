@@ -25,7 +25,7 @@ Every model comes match-ready and can be used straight out of the box – no ass
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h3>Warden Rasulov- Sponsor</h3>
+<h3>The Warden- Sponsor</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
 <p>With a whole prison planet of degenerate scum at his mercy, The Warden can take his pick of the best (or worse) the Universe has to offer</p>
 <a class="btn btn-default" href="warden/">More Info</a>
