@@ -11,7 +11,7 @@ It contains everything that you will need to start playing:
 
 <h3>Choose your sponsor and assemble your team!</h3>
 
-Assume the role of sponsor and assemble your team from convicted felons, alien psychopaths or bloodthirsty mercenaries. The game contains two complete teams of Convicts and Asterians, including characterful prone figures. There is also a bizarre assortment of free agents for you to include in your team, such as the robotic training dummies and pig-headed pusks!
+Assume the role of sponsor and assemble your team from convicted felons, alien psychopaths or bloodthirsty mercenaries. The game contains two complete teams of Convicts and Asterians, including characterful prone figures. There is also a bizarre assortment of free agents for you to include in your team, such as the robotic training drones and bloodsucking aliens!
 
 Every model comes match-ready and can be used straight out of the box – no assembly required!
 
