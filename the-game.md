@@ -99,9 +99,9 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
-<h3>Special Moves</h3>
+<h3>Special Move Cards</h3>
 <a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>Use to gain extra advantages either getting players to put in that extra burst of effort to gain an added advantage, or by whipping up the crowd to an even greater frenzy through flashy moves</p>
+<p>Gain extra advantages either getting players to put in that extra burst of effort to gain an added action, or by whipping up the crowd to an even greater frenzy through flashy moves</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
