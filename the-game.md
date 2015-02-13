@@ -34,7 +34,7 @@ Every model comes match-ready and can be used straight out of the box – no ass
  <div class="col-md-4">
 <h3>Free Agents</h3>
 <a href="freeagents/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>The box contains 9 brilliant minitures of crazy aliens, vicious mercenaries and assorted scum that a Sponsor can hire to help them win the game, each with their own individual skills and strengths.</p>
+<p>The box contains 9 brilliant models of crazy aliens, vicious mercenaries and assorted scum that a Sponsor can hire to help them win the game, each with their own individual skills and strengths.</p>
 <a class="btn btn-default" href="freeagents/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
