@@ -18,23 +18,23 @@ Every model comes match-ready and can be used straight out of the box – no ass
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
-<h3>Blaine Sponsor</h3>
+<h3>Blaine- Sponsor</h3>
 <a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>REQUIRES TEXT WRITING</p>
+<p>The deadly alien criminal mastermind who favours an eclectic and diverse team, often recruiting a wide mix of different species and player types depending upon this carefully worked out strategy.</p>
 <a class="btn btn-default" href="blaine/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h3>Warden Rasulov Sponsor</h3>
+<h3>Warden Rasulov- Sponsor</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>REQUIRES TEXT WRITING</p>
+<p>With a whole prison planet of degenerate scum at his mercy, The Warden can take his pick of the best (or worse) the Universe has to offer</p>
 <a class="btn btn-default" href="warden/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Free Agents</h3>
 <a href="freeagents/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>REQUIRES TEXT WRITING</p>
+<p>The box contains 9 brilliant minitures depicting a wide range of crazy aliens, vicious mercenaries and assorted scum that a Sponsor can hire to help them win the game, each with their own individual skills and strengths.</p>
 <a class="btn btn-default" href="freeagents/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
