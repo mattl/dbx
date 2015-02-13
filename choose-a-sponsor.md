@@ -19,14 +19,14 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 <div class="col-md-4">
 <h3>The Warden</h3>
 <a href="warden/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>A prison planet overseer with an endless supply of hardened prisoners, Warden Rasulovs special blend of sadism and remorseless brutality ensures he is as feared by his own colleagues as the convict themselves.</p>
+<p>A prison planet overseer with an endless supply of hardened prisoners, Warden Rasulovs special blend of sadism and remorseless brutality ensures he is feared by both his team and the opposition alike.</p>
 <a class="btn btn-default" href="warden/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Blaine</h3>
 <a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>Blaine is the most feared and wanted criminal in the GCPS. It is a sign of his utter contempt for the Corporation and the Council that, despite every Enforcer in the galaxy having  ‘Kill On Sight’ orders for him, he still is a high profile Sponsor for the underground version of their favourite game.  </p>
+<p>Blaine is the most feared and wanted criminal in the GCPS. It is a sign of his utter contempt for the Corporation and the Council that he still is a high profile Sponsor for the underground version of their favourite game.  </p>
 <a class="btn btn-default" href="blaine/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
