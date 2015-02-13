@@ -24,19 +24,19 @@ The prison planets of the GCP area never ending pool of desperate and dangerous 
 <div class="col-md-4">
 <h3>Runner</h3>
 <a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>REQUIRES TEXT WRITING</p>
+<p>The lightest armoured and most skillful players on the team, the Runners specialise in fast plays to score Strikes</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Thug</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>REQUIRES TEXT WRITING</p>
+<p>Battering the opposition into submission with vicious efficency, the Thugs are the brutal sledgehammers of the team.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Con</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>REQUIRES TEXT WRITING</p>
+<p>Able to take on any role that their coach needs them to in order to cause maximum damage and points</p>
 </div>
 <!-- /.col-md-4 -->
 </div>
