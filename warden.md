@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Warden
+title: The Warden
 sub: yes
 permalink: /sponsors/warden/
 ---
