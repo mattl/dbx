@@ -79,7 +79,7 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <div class="col-md-4">
 <h3>Arena</h3>
 <a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>The game is played on a beautifully detailed rubber gaming mat representing the disused warehouses, abandoned underground bunkers or any other hidden and inaccessible hell hole that is being used for an Xtreme arena.</p>
+<p>The game is played on a beautifully detailed rubber gaming mat representing the disused warehouses, abandoned bunkers or any other hidden and inaccessible hell hole being used for an arena.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
