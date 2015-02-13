@@ -45,20 +45,20 @@ Every model comes match-ready and can be used straight out of the box – no ass
 <div class="col-md-4">
 <h3>Convicts Team</h3>
 <a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>REQUIRES TEXT WRITING</p>
+<p>10 awesomely psychopathic Convict miniatures (including 2 injured) </p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Kalyshi Team</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>REQUIRES TEXT WRITING</p>
+<p>10 graceful and deadly Asterain Kalyshi warriors including 2 wounded players.</p>
 <a class="btn btn-default" href="warden/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Coloured Hex Bases</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>REQUIRES TEXT WRITING</p>
+<p>12 yellow and 12 blue hex bases that the miniatures slot onto to help distinguish between the two teams</p>
 </div>
 <!-- /.col-md-4 -->
 </div>
