@@ -79,19 +79,19 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <div class="col-md-4">
 <h3>Arena</h3>
 <a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>REQUIRES TEXT WRITING</p>
+<p>The game is played on a beautifully detailed rubber gaming mat representing the disused warehouses, abandoned underground bunkers or any other hidden and inaccessible hell hole that is being used for an Xtreme arena.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Strike Posts</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>REQUIRES TEXT WRITING</p>
+<p>The 4 Strike Posts are the goals in which the players strive to score ponits and win the game!</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Exploding Crates</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>REQUIRES TEXT WRITING</p>
+<p>Arenas are littered with debris and obstacles, many of which are booby trapped with explosives that detonate when a player gets too close- all for the benefit and enjoyment of the cred paying crowds!</p>
 </div>
 <!-- /.col-md-4 -->
 </div>
@@ -101,19 +101,19 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <div class="col-md-4">
 <h3>Special Moves</h3>
 <a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>REQUIRES TEXT WRITING</p>
+<p>Use to gain extra advantages either getting players to put in that extra burst of effort to gain an added advantage, or by whipping up the crowd to an even greater frenzy through flashy moves</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Sabotage Cards</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>REQUIRES TEXT WRITING</p>
+<p>These are either vicious tricks that are played on opposing players or the when the crowd take a direct influence in the game by shooting at the participants!</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Balls</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>REQUIRES TEXT WRITING</p>
+<p>2 Dreadballs- for when killing your opponents just isn’t enough and you want to score points as well!</p>
 </div>
 <!-- /.col-md-4 -->
 </div>
@@ -126,19 +126,19 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <div class="col-md-4">
 <h3>Rulebook</h3>
 <a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>REQUIRES TEXT WRITING</p>
+<p>All the awesome, fun rules for the game rules are clearly explained in a brilliant 64 page full colour rulebook, including a really useful Getting Started section. </p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Counters</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>REQUIRES TEXT WRITING</p>
+<p>All of the counters and tokens that you need to keep track of how the game is progressing- and most importantly who is winning!</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Dice</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>REQUIRES TEXT WRITING</p>
+<p>There are three colours of dice, the home team have blue, the visitors have yellow, and red dice are used as Coaching dice to use in special plays</p>
 </div>
 <!-- /.col-md-4 -->
 </div>
