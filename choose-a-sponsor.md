@@ -26,7 +26,7 @@ Different Sponsors have natural preferences and allegiances and so while they ar
  <div class="col-md-4">
 <h3>Blaine</h3>
 <a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>Blaine is the most feared and wanted criminal in the GCPS. It is a sign of his utter contempt for the Corporation and the Council that he still is a high profile Sponsor for the underground version of their favourite game.  </p>
+<p>Blaine is the most feared and wanted criminal in the GCPS. It is a sign of his utter contempt for the Corporation that he still is a high profile Sponsor for the underground version of their favourite game.  </p>
 <a class="btn btn-default" href="blaine/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
