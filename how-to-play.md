@@ -2,6 +2,8 @@
 layout: page
 title: How to...
 permalink: /how-to/
+nexturl: /dbx/community
+nexttitle: Community
 ---
 
 To be the best, you need to beat the best. Learn how to prepare your team for the tabletop by clicking the buttons below.

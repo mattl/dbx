@@ -1,7 +1,9 @@
 ---
 layout: page
 title: The Universe
-permalink: /universe/
+permalink: /the-universe/
+nexturl: /dbx/choose-a-sponsor
+nexttitle: Choose a sponsor
 ---
 
 When Jesus Ortiz came up with a simple game to keep his troops entertained between battles, he could hardly have guessed at the success that his new invention would quickly gather throughout the whole of the GCPS. What started in the rusty hold of a corporation warship has exploded into a galaxy-wide phenomenon, with leagues and tournaments of various levels played out the length and breadth of the GCPS, all under the watchful control of the DGB. The game has taken spectacle to whole new heights, with enormous stadiums seating hundreds of thousands of fans, star players with armies of fanatically devoted spectators and Corporate sponsorship that runs into numbers even a Forge Father would have trouble counting.
@@ -14,6 +16,3 @@ Taking place in abandoned warehouses, prison basements and even the holds of sta
 
 <div class="clearfix">&nbsp;</div>
 
-<p><a href="sponsors/" class="btn btn-success btn-lg">Choose a Sponsor >></a></p>
-
-<div class="clearfix">&nbsp;</div>

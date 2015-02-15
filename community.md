@@ -2,6 +2,8 @@
 layout: page
 title: Community
 permalink: /community/
+nexturl: http://www.manticgames.com/mantic-shop/dreadball/dreadball-xtreme/product/dreadball-xtreme-boxed-game.html
+nexttitle: Store
 ---
 
 Videos

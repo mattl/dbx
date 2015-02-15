@@ -2,6 +2,8 @@
 layout: page
 title: The Game
 permalink: /the-game/
+nexturl: /dbx/the-universe/
+nexttitle: The Universe
 ---
 
 DreadBall Xtreme is a tabletop board game for two players and the Galaxy’s most brutal sport. Two teams clash over a makeshift play area, seeking as much to wipe each other out as to score points! Pick a Sponsor, assemble your team of desperadoes, and unleash them on each other to see who will be the last one standing! 
@@ -9,7 +11,7 @@ DreadBall Xtreme is a tabletop board game for two players and the Galaxy’s mos
 The best way to begin playing Dreadball Xtreme is to get yourself a copy of the awesome, fun boxed game.
 It contains everything that you will need to start playing:
 
-<h3>Choose your sponsor and assemble your team!</h3>
+<h2>Choose your sponsor and assemble your team!</h2>
 
 Assume the role of sponsor and assemble your team from convicted felons, alien psychopaths or bloodthirsty mercenaries. The game contains two complete teams of Convicts and Asterians, including characterful prone figures. There is also a bizarre assortment of free agents for you to include in your team, such as the robotic training drones and bloodsucking aliens!
 
@@ -70,7 +72,7 @@ Every model comes match-ready and can be used straight out of the box – no ass
 
 <div class="clearfix">&nbsp;</div>
 
-<h3>Violent Sports Underground</h3>
+<h2>Violent Sports Underground</h2>
 
 Play ball on a makeshift arena littered with jagged obstacles and exploding traps whilst evading your opponent’s attempts to sabotage your team. Concealed weapons are a premium and your opposing Sponsor do their best to bet, threaten and intimidate their way to victory. Only the luckiest will survive!
 
@@ -145,8 +147,3 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <!-- /.row -->
 
 <div class="clearfix">&nbsp;</div>
-
-<p><a href="universe/" class="btn btn-success btn-lg">Learn more about the universe! >></a></p>
-
-<div class="clearfix">&nbsp;</div>
-

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Choose a Sponsor
-permalink: /sponsors/
-nexturl: /community/
-nexttitle: Community
+permalink: /choose-a-sponsor/
+nexturl: /dbx/how-to/
+nexttitle: How To
 ---
 
 <!-- for each faction -->
