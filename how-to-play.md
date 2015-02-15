@@ -20,15 +20,7 @@ However, painting your models is not only a way to make your teams look even mor
 
 You can spend as much time as you wish in painting your models (indeed, for some people this is the thing they most enjoy and the game is just something to do with their beautiful collections.), however by following a few simple stages you can get really great results….
 
-<h2>How to Paint a DreadBall Xtreme Convicts Team</h2>
-By Peter Harrison from Talk Wargaming
-
-Don your orange jumpsuit and check that explosive collar is still just that bit too tight because in this tutorial I will be showing you how to paint the convicts from Dreadball Xtreme.
-
-Making use of the Army Painters war paints we have a step by step guide for achieving a look similar to those painted by the Mantic studio. In addition to the written guide we have also created a video that takes you through the steps from basecoat to finished miniature.
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/B8PJO4fee3k" frameborder="0" allowfullscreen></iframe>
-
+Painting a Convict Team
 
 Painting an Asterian Kalyshi Team
 
