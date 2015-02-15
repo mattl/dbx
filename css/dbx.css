@@ -67,6 +67,10 @@ footer {
     
 }
 
+.panel-title {
+    font-size: 26px;
+}
+
 @media(min-width:768px) {
 
     img.pull-right, img.pull-left{
