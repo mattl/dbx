@@ -6,15 +6,26 @@
 
 @import url('../fonts/younger-than-me.css');
 
-html {background: url(../img/bgm.png);}
+html {
+    background: url(../img/bgm.png);
+}
 
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
-        background: transparent url(../img/bgm.jpg) no-repeat!important;
-color: white !important;
+    background: transparent url(../img/bgm.jpg) no-repeat!important;
+    color: white !important;
 }
 
-.well {color: #333;}
+.navbar a.btn  {
+    color: white !important;
+}
+
+.well {
+    color: #fff; 
+    background: #93130a; 
+    border: 0;
+}
+
 
 .navbar-fixed-top .nav {
     padding: 15px 0;
@@ -26,23 +37,36 @@ color: white !important;
 
 footer {
     padding: 30px 0;
+    background: red;
 }
 
 #content {
 
-min-height: 400px;
-padding-bottom: 170px;
+    min-height: 400px;
+    padding-bottom: 170px;
 
 }
 
-.post-title {line-height: 75px; background: yellow; color: black; font-size: 64px; font-weight: bold; padding: 3px;}
+.post-title {
+    line-height: 75px; 
+    background: yellow; 
+    color: black; 
+    font-size: 64px; 
+    font-weight: bold; 
+    padding: 3px;
+}
 
-.col-md-4 h1, .col-md-4 h2, .col-md-4 h3, .post-content h2, .btn,  .post-title, .nav li { text-transform: uppercase; font-family: "Flaticon", sans-serif}
-    
+.col-md-3 h2, .col-md-4 h1, .col-md-4 h2, .col-md-4 h3, .post-content h2, .btn,  .post-title, .nav li { 
+    text-transform: uppercase; 
+    font-family: "Flaticon", sans-serif
+}
+
 @media(min-width:768px) {
 
 
-html {background: transparent;}
+    html {
+	background: transparent;
+    }
 
     body {
         padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
@@ -53,39 +77,66 @@ html {background: transparent;}
         padding: 15px 0;
     }
 
-.post-title {line-height: 75px; background: transparent url(../img/yellow.png) no-repeat; color: black; font-size: 64px; font-weight: bold; padding: 3px;}
+    .post-title {
+	line-height: 75px; 
+	background: transparent url(../img/yellow.png) no-repeat; 
+	color: black; 
+	font-size: 64px; 
+	font-weight: bold; 
+	padding: 3px;
+    }
 
-.col-md-4 h1, .col-md-4 h2, .col-md-4 h3, .post-content h2, .btn,  .post-title, .nav li { text-transform: uppercase; font-family: "Flaticon", sans-serif}
+    .col-md-4 h1, .col-md-4 h2, .col-md-4 h3, .post-content h2, .btn,  .post-title, .nav li { 
+	text-transform: uppercase; 
+	font-family: "Flaticon", sans-serif
+    }
 
-.btn {font-size: 140%;}
+    .btn {
+	font-size: 140%;
+    }
 
-.navbar-nav a {
-  font-size: 20px;
-  line-height: 20px;
-  text-align: center;
-}
-.navbar-nav a span {
-  font-size: 32px;
-  line-height: 34px;
-  display: block;
-}
+    .navbar-nav a {
+	font-size: 20px;
+	line-height: 20px;
+	text-align: center;
+    }
+    .navbar-nav a span {
+	font-size: 32px;
+	line-height: 34px;
+	display: block;
+    }
 
+    footer {
+	background: lime;	
+    }
 
 
 }
 
 @media(min-width: 950px) {
 
-#content {padding-right: 90px;}
+    #content {
+	padding-right: 90px;
+    }
 
-#foo {
-width: 160px;
-position: absolute;
-top: 0;
-right: 0;
-height: 100%;
-overflow: hidden;
-background: transparent url(../img/xtreme-architecture-side.png);
-}
+    #foo-right {
+	width: 160px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	height: 150%;
+	overflow: hidden;
+	background: transparent url(../img/right.png);
+    }
+
+    #foo-left {
+	width: 160px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 150%;
+	overflow: hidden;
+	background: transparent url(../img/left.png);
+    }
 
 }
