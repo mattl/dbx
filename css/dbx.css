@@ -122,9 +122,15 @@ footer {
     }
 
     footer {
-	background: lime;	
+	margin-top: 200px;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	background: #111;	
     }
 
+    footer * {font-weight: bold;}
 
 }
 
@@ -139,9 +145,10 @@ footer {
 	position: absolute;
 	top: 0;
 	right: 0;
-	height: 150%;
+	height: 110%;
 	overflow: hidden;
 	background: transparent url(../img/right.png);
+	z-index: 1400;
     }
 
 }
@@ -152,9 +159,11 @@ footer {
 	position: absolute;
 	top: 0;
 	left: 0;
-	height: 150%;
+	height: 110%;
 	overflow: hidden;
 	background: transparent url(../img/left.png);
+	z-index: 1400;
+
     }
 
 }
