@@ -34,7 +34,7 @@ Every model comes match-ready and can be used straight out of the box – no ass
 <h3>Blaine- Sponsor</h3>
 <a href="blaine/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
 <p>The deadly alien criminal mastermind who favours an eclectic and diverse team, often recruiting a wide mix of different species and player types depending upon this carefully worked out strategy.</p>
-<a class="btn btn-default" href="blaine/">More Info</a>
+<a class="btn btn-default" href="/sponsors/blaine/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
