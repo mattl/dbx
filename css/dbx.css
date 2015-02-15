@@ -20,16 +20,15 @@ body {
     color: white !important;
 }
 
-.well, .panel-title {
-    color: #fff; 
-    background: #93130a; 
+.well, .panel-heading {
+    color: #fff !important; 
+    background-color: #93130a !important; 
     border: 0;
 }
 
 .panel-title {
     font-size: 26px;
 }
-
 
 .navbar-fixed-top .nav {
     padding: 15px 0;
