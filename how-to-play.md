@@ -20,25 +20,17 @@ However, painting your models is not only a way to make your teams look even mor
 
 You can spend as much time as you wish in painting your models (indeed, for some people this is the thing they most enjoy and the game is just something to do with their beautiful collections.), however by following a few simple stages you can get really great results….
 
-Basic Painting tutorial for Convicts and Kalyshi- block colours etc
+<h2>How to Paint a DreadBall Xtreme Convicts Team</h2>
+By Peter Harrison from Talk Wargaming
 
-If you want to go a stage further and really bring you models to life then there are additional stages on top of these that will add extra details and depth.
+Don your orange jumpsuit and check that explosive collar is still just that bit too tight because in this tutorial I will be showing you how to paint the convicts from Dreadball Xtreme.
 
-Advanced Painting tutorial- washes/ highlights etc
+Making use of the Army Painters war paints we have a step by step guide for achieving a look similar to those painted by the Mantic studio. In addition to the written guide we have also created a video that takes you through the steps from basecoat to finished miniature.
 
-Once you have mastered these simple techniques then you are ready to paint any miniatures that you wish!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B8PJO4fee3k" frameborder="0" allowfullscreen></iframe>
 
-Advanced rules
 
-There is no end to the depths and underhand tricks that Sponsors will stoop to in order to win a game.
-
-Special move cards
-
-Sabotage cards
-
-Leagues
-
-Wagers
+Painting an Asterian Kalyshi Team
 
 <div class="clearfix">&nbsp;</div>
 
