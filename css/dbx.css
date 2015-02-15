@@ -119,7 +119,7 @@ footer {
 
 }
 
-@media(min-width: 950px) {
+@media(min-width: 1000px) {
 
     #content {
 	padding-right: 90px;
