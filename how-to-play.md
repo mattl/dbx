@@ -72,10 +72,6 @@ You can spend as much time as you wish in painting your models (indeed, for some
 </div>
 <!-- /.row -->
 
-Painting a Convict Team
-
-Painting an Asterian Kalyshi Team
-
 <div class="clearfix">&nbsp;</div>
 
 <p><a href="community/" class="btn btn-success btn-lg">Join the community >></a></p>
