@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to Paint a DreadBall Xtreme Convicts Team
-permalink: /painting-convicts/
+permalink: /how-to/painting-convicts/
 ---
 
 <h2>By Peter Harrison from Talk Wargaming</h2>
