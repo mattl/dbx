@@ -2,10 +2,11 @@
 layout: page
 title: Choose a Sponsor
 permalink: /sponsors/
+nexturl: /community/
+nexttitle: Community
 ---
 
 <!-- for each faction -->
-
 
 In the Dreadball Xtreme you will take on the role of a Sponsor, the organiser of the team.
 
@@ -64,6 +65,8 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 <!-- /.col-md-4 -->
 </div>
 <!-- /.row -->
+
+
 
 <div class="clearfix">&nbsp;</div>
 
