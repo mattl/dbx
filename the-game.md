@@ -9,16 +9,27 @@ nexttitle: The Universe
 DreadBall Xtreme is a tabletop board game for two players and the Galaxy’s most brutal sport. Two teams clash over a makeshift play area, seeking as much to wipe each other out as to score points! Pick a Sponsor, assemble your team of desperadoes, and unleash them on each other to see who will be the last one standing! 
 
 The best way to begin playing Dreadball Xtreme is to get yourself a copy of the awesome, fun boxed game.
+
 It contains everything that you will need to start playing:
 
-<h2>Choose your sponsor and assemble your team!</h2>
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingOne">
+      <h2 class="panel-title">
+	<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+	  Choose your sponsor and assemble your team!
+	</a>
+      </h2>
+    </div>
+    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+      <div class="panel-body">
 
 Assume the role of sponsor and assemble your team from convicted felons, alien psychopaths or bloodthirsty mercenaries. The game contains two complete teams of Convicts and Asterians, including characterful prone figures. There is also a bizarre assortment of free agents for you to include in your team, such as the robotic training drones and bloodsucking aliens!
 
 Every model comes match-ready and can be used straight out of the box – no assembly required!
 
 <!-- Content Row -->
-<div class="row">
+	<div class="row">
 <div class="col-md-4">
 <h3>Blaine- Sponsor</h3>
 <a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
@@ -70,9 +81,22 @@ Every model comes match-ready and can be used straight out of the box – no ass
 
 <p><a href="blaine/" class="btn btn-success btn-lg">Learn more about your players...</a></p>
 
-<div class="clearfix">&nbsp;</div>
+      </div>      
 
-<h2>Violent Sports Underground</h2>
+  </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingTwo">
+      <h2 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Violent sports underground
+        </a>
+      </h2>
+    </div>
+    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+      <div class="panel-body">
+
+
 
 Play ball on a makeshift arena littered with jagged obstacles and exploding traps whilst evading your opponent’s attempts to sabotage your team. Concealed weapons are a premium and your opposing Sponsor do their best to bet, threaten and intimidate their way to victory. Only the luckiest will survive!
 
@@ -120,8 +144,19 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <!-- /.col-md-4 -->
 </div>
 <!-- /.row -->
-
-<h3>Rules Materials</h3>
+      </div>
+    </div>
+  </div>
+    <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h2 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          Rules Material
+        </a>
+      </h2>
+    </div>
+    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
 
 <!-- Content Row -->
 <div class="row">
@@ -146,4 +181,8 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 </div>
 <!-- /.row -->
 
-<div class="clearfix">&nbsp;</div>
+      </div>
+    </div>
+  </div>
+</div>
+      
