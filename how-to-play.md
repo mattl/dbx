@@ -4,7 +4,7 @@ title: How to...
 permalink: /how-to/
 ---
 
-To be the best, you need to beat the best. Learn how to prepare your team for the tabletop and a few tips and tactics by clicking the buttons below.
+To be the best, you need to beat the best. Learn how to prepare your team for the tabletop by clicking the buttons below.
 
 <h2>How to Play</h2>
 
