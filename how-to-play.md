@@ -20,6 +20,32 @@ However, painting your models is not only a way to make your teams look even mor
 
 You can spend as much time as you wish in painting your models (indeed, for some people this is the thing they most enjoy and the game is just something to do with their beautiful collections.), however by following a few simple stages you can get really great results….
 
+<!-- Content Row -->
+<div class="row">
+<div class="col-md-4">
+<h3>Painting Convicts</h3>
+<a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<p>The game is played on a beautifully detailed rubber gaming mat representing the disused warehouses, abandoned bunkers or any other hidden and inaccessible hell hole being used for an arena.</p>
+<a class="btn btn-default" href="painting-convicts/">More Info</a>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Painting Kalyshi</h3>
+<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<p>The 4 Strike Posts are the goals in which the players strive to score ponits and win the game!</p>
+<a class="btn btn-default" href="#">More Info</a>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Painting Free Agents</h3>
+<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<p>Coming soon</p>
+<a class="btn btn-default" href="#">Coming Soon</a>
+</div>
+<!-- /.col-md-4 -->
+</div>
+<!-- /.row -->
+
 Painting a Convict Team
 
 Painting an Asterian Kalyshi Team
