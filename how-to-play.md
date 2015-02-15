@@ -40,5 +40,9 @@ Leagues
 
 Wagers
 
-END
+<div class="clearfix">&nbsp;</div>
+
+<p><a href="community/" class="btn btn-success btn-lg">Join the community >></a></p>
+
+<div class="clearfix">&nbsp;</div>
 
