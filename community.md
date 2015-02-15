@@ -4,6 +4,12 @@ title: Community
 permalink: /community/
 ---
 
+Videos
+
+Community Gallery
+
+Art
+
 Customer Hobby Gallery Button
 
 Forum Button Button

@@ -1,8 +1,10 @@
 ---
 layout: page
-title: How to
+title: How to...
 permalink: /how-to/
 ---
+
+To be the best, you need to beat the best. Learn how to prepare your team for the tabletop by clicking the buttons below.
 
 <h2>How to Play</h2>
 
@@ -10,7 +12,31 @@ Dreadball Xtreme is an exciting, fun and fast paced game where 2 players pit the
 
 There is also a Video tutorial that will talk you through the key elements, but like all games the best way to learn is to find a friend and play!
 
-Video Tutorial?
+<!-- Content Row -->
+<div class="row">
+<div class="col-md-4">
+<h3>Video Tutorial</h3>
+<a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<p>The game is played on a beautifully</p>
+<a class="btn btn-default" href="painting-convicts/">More Info</a>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Free Downloads</h3>
+<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<p>The 4 Strike Posts are th</p>
+<a class="btn btn-default" href="#">More Info</a>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Go Digital</h3>
+<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<p>Coming soon</p>
+<a class="btn btn-default" href="#">Coming Soon</a>
+</div>
+<!-- /.col-md-4 -->
+</div>
+<!-- /.row -->
 
 <h2>How to Paint</h2>
 
@@ -25,14 +51,14 @@ You can spend as much time as you wish in painting your models (indeed, for some
 <div class="col-md-4">
 <h3>Painting Convicts</h3>
 <a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>The game is played on a beautifully detailed rubber gaming mat representing the disused warehouses, abandoned bunkers or any other hidden and inaccessible hell hole being used for an arena.</p>
+<p>The game is played on a beautifully</p>
 <a class="btn btn-default" href="painting-convicts/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Painting Kalyshi</h3>
 <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>The 4 Strike Posts are the goals in which the players strive to score ponits and win the game!</p>
+<p>The 4 Strike Posts are th</p>
 <a class="btn btn-default" href="#">More Info</a>
 </div>
 <!-- /.col-md-4 -->
@@ -45,10 +71,6 @@ You can spend as much time as you wish in painting your models (indeed, for some
 <!-- /.col-md-4 -->
 </div>
 <!-- /.row -->
-
-Painting a Convict Team
-
-Painting an Asterian Kalyshi Team
 
 <div class="clearfix">&nbsp;</div>
 
