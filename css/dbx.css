@@ -69,6 +69,12 @@ footer {
 
 @media(min-width:768px) {
 
+    img.pull-right, img.pull-left{
+
+	margin: 1.5em;
+
+    }
+
 
     html {
 	background: transparent;
