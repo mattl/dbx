@@ -2,7 +2,7 @@
 layout: page
 title: How to
 permalink: /painting-convicts/
---
+---
 
 <h2>How to Paint a DreadBall Xtreme Convicts Team</h2>
 <h3>By Peter Harrison from Talk Wargaming</h3>
