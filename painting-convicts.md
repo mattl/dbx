@@ -14,12 +14,8 @@ Making use of the Army Painters war paints we have a step by step guide for achi
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/B8PJO4fee3k" frameborder="0" allowfullscreen></iframe>
 
- Paints Required
-Below you can find the list of Army Painter paints required along with their Citadel equivalent. The colors aren't an exact match but they are close enough.
-
-
-
-
+<H3>Paints Required</h3>
+Below you can find the list of Army Painter paints required though you can use any equivalent water-based acrylics to paint DreadBall Xtreme miniatures. 
 
 <!-- Content Row -->
 <div class="row">
