@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to Paint a DreadBall Xtreme Convicts Team
+title: How to Paint a Convicts Team
 permalink: /how-to/painting-convicts/
 ---
 
