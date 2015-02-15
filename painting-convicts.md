@@ -20,27 +20,25 @@ Below you can find the list of Army Painter paints required though you can use a
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
-<p>Lava Orange
-Monster Brown 
-Desert Yellow
-Skeleton Bone</p>
+<p><li>Lava Orange</li>
+<li>Monster Brown </li>
+<li>Desert Yellow</li>
+<li>Skeleton Bone</li></p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h3>The Warden- Sponsor</h3>
-<p>Uniform Grey
-Ash Grey
-Matt White
-Matt Black
+<p><li>Uniform Grey</li>
+<li>Ash Grey</li>
+<li>Matt White</li>
+<li>Matt Black</li>
 </p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h3>Free Agents</h3>
-<p>Dark Tone Ink
-Soft Tone Ink
-Strong Tone Ink
-Red Ink</p>
+<p><li>Dark Tone Ink</li>
+<li>Soft Tone Ink</li>
+<li>Strong Tone Ink</li>
+<li>Red Ink</li></p>
 </div>
 <!-- /.col-md-4 -->
 </div>
