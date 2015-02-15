@@ -20,10 +20,14 @@ body {
     color: white !important;
 }
 
-.well {
+.well, .panel-title {
     color: #fff; 
     background: #93130a; 
     border: 0;
+}
+
+.panel-title {
+    font-size: 26px;
 }
 
 
@@ -65,10 +69,6 @@ footer {
 
     background: transparent;
     
-}
-
-.panel-title {
-    font-size: 26px;
 }
 
 @media(min-width:768px) {
