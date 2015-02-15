@@ -11,3 +11,9 @@ But there are those who don’t follow the official game. Those who either can�
 Xtreme matches are by necessity much more informal affairs than their officially sanctioned counterparts. The authorities – both the DGB and the Council, to say nothing of the corporations themselves – take an understandably dim view of the practice, and are ever eager to catch the perpetrators. Matches are arranged in great secrecy, generally between the sponsors themselves, who will agree on a location sometimes only minutes before a match is due to begin.
 
 Taking place in abandoned warehouses, prison basements and even the holds of starships, matches usually play out over an area littered with obstacles and traps to catch the unwary – some left deliberately, others simply the result of a hurried clearing of a space large enough to play in. The players themselves lack the sophisticated, purpose built armour and equipment of their more glamorous counterparts, wearing whatever they can scrounge, borrow or steal. Indeed, it is not uncommon for DBX players to take to the pitch with no armour at all. It is a sport where casualties occur often and bloodily, which is all to the good as far as the spectators are concerned.
+
+<div class="clearfix">&nbsp;</div>
+
+<p><a href="sponsors/" class="btn btn-success btn-lg">Choose a Sponsor >></a></p>
+
+<div class="clearfix">&nbsp;</div>
