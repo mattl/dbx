@@ -1,6 +1,7 @@
 ---
 layout: page
 title: How to Paint a Convicts Team
+sub: yes
 permalink: /how-to/painting-convicts/
 ---
 
