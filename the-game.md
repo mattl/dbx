@@ -144,5 +144,9 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 </div>
 <!-- /.row -->
 
-END
+<div class="clearfix">&nbsp;</div>
+
+<p><a href="universe/" class="btn btn-success btn-lg">Learn more about the universe! >></a></p>
+
+<div class="clearfix">&nbsp;</div>
 
