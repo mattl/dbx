@@ -92,6 +92,12 @@ footer {
         background: white url(../img/bg.jpg) top center !important;
     }
 
+    #content {
+
+	font-size: 100%;
+
+    }
+
     .navbar-fixed-top .navbar-brand {
         padding: 15px 0;
     }
