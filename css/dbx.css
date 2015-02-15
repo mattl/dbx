@@ -135,6 +135,9 @@ footer {
 	background: transparent url(../img/right.png);
     }
 
+}
+
+@media(min-width: 1400px) {
     #foo-left {
 	width: 160px;
 	position: absolute;
