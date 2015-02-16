@@ -41,7 +41,7 @@ body {
 }
 
 footer {
-    padding: 30px 0;
+    padding: 60px 0;
     background: black;
 }
 
@@ -63,7 +63,7 @@ footer {
     padding: 3px;
 }
 
-.col-md-3 h2, .col-md-4 h1, .col-md-4 h2, .col-md-4 h3, .post-content h2, .btn,  .post-title, .nav li { 
+.col-md-3 h2, .col-md-4 h1, .col-md-4 h2, .col-md-4 h3, .post-content h2, .btn,  .post-title, .nav li, footer p, footer h2 { 
     text-transform: uppercase; 
     font-family: "Flaticon", sans-serif;			 
 }
