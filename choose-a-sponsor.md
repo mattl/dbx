@@ -32,21 +32,21 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 <h3>The Warden</h3>
 <a href="blaine/"><img src="../img/Grogan.png" /></a>
 <p>A prison planet overseer with an endless supply of hardened prisoners, Warden Rasulovs special blend of sadism and remorseless brutality ensures he is feared by both his team and the opposition alike.</p>
-<a class="btn btn-default" href="sponsors/warden/">More Info</a>
+<a class="btn btn-default" href="/sponsors/warden/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Blaine</h3>
 <a href="blaine/"><img src="../img/Grogan.png" /></a>
 <p>The most feared and wanted criminal in the GCPS, it is a sign of his utter contempt for the Corporation that he still is a high profile Sponsor for the underground version of their favourite game.  </p>
-<a class="btn btn-default" href="sponsors/blaine/">More Info</a>
+<a class="btn btn-default" href="/sponsors/blaine/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Rathmar Ul-Iheq</h3>
 <img src="../img/Grogan.png" /></a>
 <p>Coming to a blood-drenched arena near you soon!</p>
-<a class="btn btn-default" href="#">Coming Soon</a>
+<a class="btn btn-default">Coming Soon</a>
 </div>
 <!-- /.col-md-4 -->
 </div>
