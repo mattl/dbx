@@ -152,7 +152,7 @@ footer {
 	position: absolute;
 	top: 0;
 	right: 0;
-	height: 1920px;
+	height: 100%;
 	overflow: hidden;
 	background: transparent url(/img/right.png);
 	z-index: 1400;
@@ -166,7 +166,7 @@ footer {
 	position: absolute;
 	top: 0;
 	left: 0;
-	height: 1920px;
+	height: 100%;
 	overflow: hidden;
 	background: transparent url(/img/left.png);
 	z-index: 1400;
