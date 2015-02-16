@@ -155,7 +155,7 @@ h1, h2, h3 {
 	position: absolute;
 	top: 0;
 	right: 0;
-	height: 110%;
+	height: 170%;
 	overflow: hidden;
 	background: transparent url(../img/right.png);
 	z-index: 1400;
@@ -169,7 +169,7 @@ h1, h2, h3 {
 	position: absolute;
 	top: 0;
 	left: 0;
-	height: 110%;
+	height: 170%;
 	overflow: hidden;
 	background: transparent url(../img/left.png);
 	z-index: 1400;
