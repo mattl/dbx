@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Choose a Sponsor
-permalink: /choose-a-sponsor/
 nexturl: /dbx/how-to/
 nexttitle: How To
 ---
