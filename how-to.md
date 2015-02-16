@@ -83,7 +83,7 @@ Like all games the best way to learn is to find a friend and play!
 	    <h3>Painting Kalyshi</h3>
 	    <img src="../img/Grogan.png" />
 	    <p>The 4 Strike Posts are th</p>
-	    <a class="btn btn-default" href="#">More Info</a>
+	    <a class="btn btn-default" href="painting-kalyshi/">More Info</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
