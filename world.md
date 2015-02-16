@@ -2,7 +2,7 @@
 layout: page
 title: The Universe
 permalink: /the-universe/
-nexturl: /dbx/choose-a-sponsor
+nexturl: /choose-a-sponsor/
 nexttitle: Choose a sponsor
 ---
 
@@ -30,7 +30,7 @@ more importantly, far away from the prying eyes of the DGB
 itself. These people are responsible for the most violent, underground
 and dangerous form of DreadBall to exist -- DreadBall Xtreme.
 
-<img class="img-thumbnail img-responsive pull-left" src="../img/xtreme-promo-image-04.jpg" />
+<img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
 
 Xtreme matches are by necessity much more informal affairs than their
 officially sanctioned counterparts. The authorities – both the DGB and
