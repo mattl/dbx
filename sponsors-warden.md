@@ -17,6 +17,8 @@ Sponsors pick their “teams” for Xtreme from a pool of human and alien scum, 
 
 Below is a sample of the players this sponsor prefers to field in their team, and therefore get to purchase at cheaper rates. Note that a Sponsor’s team is by no means limited to the players on show – you can pick from the entire pool of players available in the game, allowing you to truly build and customise your own team.
 
+<div class="clearfix">&nbsp;</div>
+
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingOne">
