@@ -206,8 +206,6 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <!-- /.col-md-4 -->
 </div>
 <!-- /.row -->
-      </div>
-    </div>
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
