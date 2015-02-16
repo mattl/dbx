@@ -11,8 +11,6 @@ permalink: /sponsors/blaine/
 
 <strong>"You don't get asked to play for him - you get summoned..."</strong>
 
-bb
-
 Blaine is the most feared and wanted criminal in the GCPS. It is a sign of his utter contempt for the Corporation and the Council that, despite every Enforcer in the galaxy having  ‘Kill On Sight’ orders for him, he still is a high profile Sponsor for the underground version of their favourite game.  His crimes are always audacious, large scale, and have a total disregard for life or authority, an approach that he brings with him into the bloody arenas of DreadBall Xtreme.
 He favours an eclectic and diverse team, often recruiting a wide mix of different species and player types depending upon this carefully worked out strategy. He leaves nothing to chance as he looks for any weaknesses to exploit in his opponents game plan, analysing the plays and countering them with a mix of flair and vicious, ruthless violence.
 
