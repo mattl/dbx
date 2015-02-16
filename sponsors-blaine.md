@@ -63,7 +63,7 @@ The blue skinned Kalysians are an aggressive and wild sub sect of the Asterian r
     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
       <div class="panel-body">
 
-	As well as the two different teams, there is a wide range of crazy aliens, vicious mercenaries and assorted scum that a Sponsor can hire to help them win the game, each with their own individual skill and strengths.
+As well as the two different teams, there is a wide range of crazy aliens, vicious mercenaries and assorted scum that a Sponsor can hire to help them win the game, each with their own individual skill and strengths.
 
 <!-- Content Row -->
 <div class="row">
