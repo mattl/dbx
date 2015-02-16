@@ -217,5 +217,79 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
       </div>
     </div>
   </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingFive">
+      <h2 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+         Sabotage
+        </a>
+      </h2>
+    </div>
+    <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+      <div class="panel-body">
+
+<!-- Content Row -->
+<div class="row">
+<div class="col-md-4">
+<h3>Rulebook</h3>
+<a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<p>All the awesome, fun rules for the game rules are clearly explained in a brilliant 64 page full colour rulebook, including a really useful Getting Started section. </p>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Counters</h3>
+<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<p>All of the counters and tokens that you need to keep track of how the game is progressing- and most importantly who is winning!</p>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Dice</h3>
+<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<p>There are three colours of dice, the home team have blue, the visitors have yellow, and red dice are used as Coaching dice to use in special plays</p>
+</div>
+<!-- /.col-md-4 -->
+</div>
+<!-- /.row -->
+
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingSix">
+      <h2 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+         Contents
+        </a>
+      </h2>
+    </div>
+    <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
+      <div class="panel-body">
+
+<!-- Content Row -->
+<div class="row">
+<div class="col-md-4">
+<h3>Rulebook</h3>
+<a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<p>All the awesome, fun rules for the game rules are clearly explained in a brilliant 64 page full colour rulebook, including a really useful Getting Started section. </p>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Counters</h3>
+<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<p>All of the counters and tokens that you need to keep track of how the game is progressing- and most importantly who is winning!</p>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Dice</h3>
+<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<p>There are three colours of dice, the home team have blue, the visitors have yellow, and red dice are used as Coaching dice to use in special plays</p>
+</div>
+<!-- /.col-md-4 -->
+</div>
+<!-- /.row -->
+
+      </div>
+    </div>
+  </div>
 </div>
       
