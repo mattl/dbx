@@ -39,6 +39,7 @@ Every model comes match-ready and can be used straight out of the box – no ass
 <h3>The Warden- Sponsor</h3>
 <a href="warden/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
 <p>With a whole prison planet of degenerate scum at his mercy, The Warden can take his pick of the best (or worse) the Universe has to offer.</p>
+<p>&nbsp;</p>
 <a class="btn btn-default" href="warden/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
