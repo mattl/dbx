@@ -55,10 +55,10 @@ footer {
 }
 
 .post-title {
-    line-height: 75px; 
-    background: yellow; 
+    line-height: 75px;
+    background: transparent url(../img/yellow.png) no-repeat; 
     color: black; 
-    font-size: 64px; 
+    font-size: 40px; 
     font-weight: bold; 
     padding: 3px;
 }
@@ -66,10 +66,6 @@ footer {
 .col-md-3 h2, .col-md-4 h1, .col-md-4 h2, .col-md-4 h3, .post-content h2, .btn,  .post-title, .nav li { 
     text-transform: uppercase; 
     font-family: "Flaticon", sans-serif;			 
-}
-
-h1, h2, h3 {
-    font-size: 24px;
 }
 
 .panel {
