@@ -10,6 +10,31 @@ DreadBall Xtreme is the competitive underground sports game for 2 players, ages 
 
 Two teams clash over a makeshift play area, seeking as much to wipe each other out as to score points! Pick a Sponsor, assemble your team of desperadoes, and unleash them on each other to see who will be the last one standing! 
 
+<h3>A Whole New Ball Game</h3>
+
+DreadBall Xtreme is a complete standalone board game in the highly successful DreadBall series. Whether you’re a fan of DreadBall or have never heard of the game before, there’s nothing stopping you playing Xtreme. All of the rules and everything you need to play is included in the box.
+
+<h3>Test your limits to the extreme</h3>
+
+Bloodcurdling violence and explosive traps, the brand new DreadBall Arena presents a very dangerous challenge. Play in a claustrophobic arena littered with bobby-trapped scenery across any of the changeable layouts.
+
+<h3>Violent Sports Underworld</h3>
+
+DreadBall Xtreme is a fun game that takes the fast and furious gameplay you’d expect from a quality sports game and sets the action in a seedy underworld.
+
+In this ultraviolent and brutal tabletop sports game you take on the role of a sinister Sponsor, the organiser of the team who is looking to get rich through exploiting those unhinged enough to play in this most savage of sport, paying them to risk their lives in the illegal underground arena. Each Sponsor has a budget of credits to hire these dregs and they choose to balance the quality of elite players against the quantity of no talent grunts they can put onto the pitch in search of that illusive win.
+
+<h3>Into the ring</h3>
+
+All of the miniatures in DreadBall Xtreme come match-ready to use right out of the box. No more fiddly bits or separate hands, each player comes pre-assembled. This means you can spend less time gluing, and more time playing the game you love (or don’t know you’ll know until you try it!)
+
+<h3>Sabotage!</h3>
+
+The game play is fast, fun, and, as there is no ref, often very deadly. You win by either scoring the most points or wipe out the opposing teams- using brilliant tactics, vicious cunning and dirty tricks to achieve victory at all cost. 
+
+DreadBall Xtreme contains plenty of ways to up the violence or screw over your opponent. Sabotage cards give you a selection of weapons and sneaky tricks to use on the pitch, whilst Sponsors allow you threaten or intimidate opposing teams and you can even bet on the outcome of a match and earn cash for kills. 
+
+
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingOne">
