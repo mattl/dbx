@@ -75,21 +75,21 @@ Like all games the best way to learn is to find a friend and play!
 	  <div class="col-md-4">
 	    <h3>Painting Convicts</h3>
 	    <img src="../img/Grogan.png" />
-	    <p>The game is played on a beautifully</p>
+	   
 	    <a class="btn btn-default" href="painting-convicts/">More Info</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
 	    <h3>Painting Kalyshi</h3>
 	    <img src="../img/Grogan.png" />
-	    <p>The 4 Strike Posts are th</p>
+
 	    <a class="btn btn-default" href="painting-kalyshi/">More Info</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
 	    <h3>Painting Free Agents</h3>
 	     <img src="../img/Grogan.png" />
-	    <p>Coming soon</p>
+
 	    <a class="btn btn-default" href="#">Coming Soon</a>
 	  </div>
 	  <!-- /.col-md-4 -->
