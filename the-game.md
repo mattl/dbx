@@ -10,12 +10,6 @@ DreadBall Xtreme is the competitive underground sports game for 2 players, ages 
 
 Two teams clash over a makeshift play area, seeking as much to wipe each other out as to score points! Pick a Sponsor, assemble your team of desperadoes, and unleash them on each other to see who will be the last one standing! 
 
-The best way to begin playing Dreadball Xtreme is to get yourself a copy of the awesome, fun boxed game.
-
-It contains everything that you will need to start playing:
-
-
-
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingOne">
@@ -76,11 +70,30 @@ In this ultraviolent and brutal tabletop sports game you take on the role of a s
 All of the miniatures in DreadBall Xtreme come match-ready to use right out of the box. No more fiddly bits or separate hands, each player comes pre-assembled. This means you can spend less time gluing, and more time playing the game you love (or don’t know you’ll know until you try it!)
       </div>
     </div>
+    <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingFive">
+      <h2 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+    Sabotage!
+        </a>
+      </h2>
+    </div>
+    <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+      <div class="panel-body">
+
+The game play is fast, fun, and, as there is no ref, often very deadly. You win by either scoring the most points or wipe out the opposing teams- using brilliant tactics, vicious cunning and dirty tricks to achieve victory at all cost. 
+
+DreadBall Xtreme contains plenty of ways to up the violence or screw over your opponent. Sabotage cards give you a selection of weapons and sneaky tricks to use on the pitch, whilst Sponsors allow you threaten or intimidate opposing teams and you can even bet on the outcome of a match and earn cash for kills. 
+
+      </div>
+    </div>
   </div>
   </div>
 </div>
 
+The best way to begin playing Dreadball Xtreme is to get yourself a copy of the awesome, fun boxed game.
 
+It contains everything that you will need to start playing:
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingOne">
