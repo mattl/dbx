@@ -6,11 +6,86 @@ nexturl: /dbx/the-universe/
 nexttitle: The Universe
 ---
 
-DreadBall Xtreme is a tabletop board game for two players and the Galaxy’s most brutal sport. Two teams clash over a makeshift play area, seeking as much to wipe each other out as to score points! Pick a Sponsor, assemble your team of desperadoes, and unleash them on each other to see who will be the last one standing! 
+DreadBall Xtreme is the competitive underground sports game for 2 players, ages 13 and up. A match lasts around 30 minutes. 
+
+Two teams clash over a makeshift play area, seeking as much to wipe each other out as to score points! Pick a Sponsor, assemble your team of desperadoes, and unleash them on each other to see who will be the last one standing! 
 
 The best way to begin playing Dreadball Xtreme is to get yourself a copy of the awesome, fun boxed game.
 
 It contains everything that you will need to start playing:
+
+
+
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingOne">
+      <h2 class="panel-title">
+	<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+	  A whole new ball game
+	</a>
+      </h2>
+    </div>
+    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+      <div class="panel-body">
+
+DreadBall Xtreme is a complete standalone board game in the highly successful DreadBall series. Whether you’re a fan of DreadBall or have never heard of the game before, there’s nothing stopping you playing Xtreme. All of the rules and everything you need to play is included in the box.
+
+  </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingTwo">
+      <h2 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Test your limits to the Xtreme
+        </a>
+      </h2>
+    </div>
+    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+      <div class="panel-body">
+
+Bloodcurdling violence and explosive traps, the brand new DreadBall Arena presents a very dangerous challenge. Play in a claustrophobic arena littered with bobby-trapped scenery across any of the changeable layouts.
+      </div>
+    </div>
+  </div>
+    <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h2 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          Rules Material
+        </a>
+      </h2>
+    </div>
+    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
+
+<!-- Content Row -->
+<div class="row">
+<div class="col-md-4">
+<h3>Rulebook</h3>
+<a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<p>All the awesome, fun rules for the game rules are clearly explained in a brilliant 64 page full colour rulebook, including a really useful Getting Started section. </p>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Counters</h3>
+<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<p>All of the counters and tokens that you need to keep track of how the game is progressing- and most importantly who is winning!</p>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<h3>Dice</h3>
+<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<p>There are three colours of dice, the home team have blue, the visitors have yellow, and red dice are used as Coaching dice to use in special plays</p>
+</div>
+<!-- /.col-md-4 -->
+</div>
+<!-- /.row -->
+
+      </div>
+    </div>
+  </div>
+</div>
+
 
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
