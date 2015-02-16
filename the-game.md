@@ -39,14 +39,14 @@ Every model comes match-ready and can be used straight out of the box – no ass
 <h3>The Warden- Sponsor</h3>
 <a href="warden/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
 <p>With a whole prison planet of degenerate scum at his mercy, The Warden Rasulov can take his pick of the best (or worse) the Universe has to offer. </p>
-<a class="btn btn-default" href="sponsors/warden/">More Info</a>
+<a class="btn btn-default" href="/sponsors/warden/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Free Agents</h3>
 <a href="freeagents/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
 <p>The box contains 9 brilliant models of crazy aliens, vicious mercenaries and assorted scum that a Sponsor can hire to help win the game, each with their own individual skills and strengths.</p>
-<a class="btn btn-default" href="the-game/freeagents/">More Info</a>
+<a class="btn btn-default" href="/the-game/freeagents/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
 </div>
@@ -57,14 +57,14 @@ Every model comes match-ready and can be used straight out of the box – no ass
 <h3>Convicts Team</h3>
 <a href="warden/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
 <p>10 awesomely psychopathic Convict miniatures (including 2 injured) </p>
-<a class="btn btn-default" href="sponsors/warden/">More Info</a>
+<a class="btn btn-default" href="/sponsors/warden/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Kalyshi Team</h3>
 <a href="blaine/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
 <p>10 graceful and deadly Asterain Kalyshi warriors including 2 wounded players.</p>
-<a class="btn btn-default" href="sponsors/blaine/">More Info</a>
+<a class="btn btn-default" href="/sponsors/blaine/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
