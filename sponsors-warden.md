@@ -7,9 +7,11 @@ permalink: /sponsors/warden/
 
 <!-- for each faction -->
 
+<img class="img-thumbnail img-responsive pull-right" src="dbx/img/xtreme-promo-image-11.jpg" />
+
 The brutal prison planets of the GCPS are where the most dangerous and deranged elements of the Universe are dropped and then forgotten about- all that the Corporation care about is that these scum are kept subdued and safely away from anywhere they can cause it trouble. In order to control these hell holes the Warden must be even more ruthless and cruel than those they rule over, and Warden Rasulovs special blend of sadism and remorseless brutality ensured he is as feared by his own colleagues as the convict themselves. He became infamous for detonating the explosive blast-collar of every member of his team simultaneously before a game started as he felt they did not look keen enough. Their replacements came on and demolished the opposition in a total frenzy of fear induced energy- leading to the saying ‘the enemy may kill you, but Rasulov definitely will’. 
 
-<img class="img-thumbnail img-responsive pull-right" src="dbx/img/xtreme-promo-image-11.jpg" />
+gg
 
 Sponsors pick their “teams” for Xtreme from a pool of human and alien scum, according to their budget and preferences – for example, Warden Rasulov will pay less for convicts than Blaine.
 
