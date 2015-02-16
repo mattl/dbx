@@ -38,7 +38,7 @@ Every model comes match-ready and can be used straight out of the box – no ass
  <div class="col-md-4">
 <h3>The Warden- Sponsor</h3>
 <a href="warden/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
-<p>With a whole prison planet of degenerate scum at his mercy, The Warden can take his pick of the best (or worse) the Universe has to offer</p>
+<p>With a whole prison planet of degenerate scum at his mercy, The Warden can take his pick of the best (or worse) the Universe has to offer.</p>
 <a class="btn btn-default" href="warden/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
@@ -68,7 +68,7 @@ Every model comes match-ready and can be used straight out of the box – no ass
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Coloured Hex Bases</h3>
-<a href="warden/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
+<img src="../img/Grogan.png" class="pull-left img-responsive " />
 <p>12 yellow and 12 blue hex bases that the miniatures slot onto to help distinguish between the two teams</p>
 </div>
 <!-- /.col-md-4 -->
@@ -102,19 +102,19 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <div class="row">
 <div class="col-md-4">
 <h3>Pitch</h3>
-<a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<img src="../img/Grogan.png" class="pull-left img-responsive " />
 <p>The game is played on a detailed rubber gaming mat representing the disused warehouses, abandoned bunkers or any other hidden and inaccessible hell hole being used for an arena.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Strike Posts</h3>
-<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<img src="../img/Grogan.png" class="pull-left img-responsive " />
 <p>Strike Posts are the goals in which the players strive to score ponits and win the game!</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Exploding Crates</h3>
-<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<img src="../img/Grogan.png" class="pull-left img-responsive " />
 <p>Arenas are littered with debris and obstacles, many of which are booby trapped with explosives that detonate when a player gets too close- all for the benefit and enjoyment of the cred paying crowds!</p>
 </div>
 <!-- /.col-md-4 -->
@@ -124,19 +124,19 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <div class="row">
 <div class="col-md-4">
 <h3>Special Move Cards</h3>
-<a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<img src="../img/Grogan.png" class="pull-left img-responsive " />
 <p>Gain extra advantages either getting players to put in that extra burst of effort to gain an added action, or by whipping up the crowd to an even greater frenzy through flashy moves</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Sabotage Cards</h3>
-<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<img src="../img/Grogan.png" class="pull-left img-responsive " />
 <p>These are either vicious tricks that are played on opposing players or the when the crowd take a direct influence in the game by shooting at the participants!</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Balls</h3>
-<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<img src="../img/Grogan.png" class="pull-left img-responsive " />
 <p>2 Dreadballs- for when killing your opponents just isn’t enough and you want to score points as well!</p>
 </div>
 <!-- /.col-md-4 -->
@@ -160,19 +160,19 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <div class="row">
 <div class="col-md-4">
 <h3>Rulebook</h3>
-<a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<img src="../img/Grogan.png" class="pull-left img-responsive " />
 <p>All the awesome, fun rules for the game rules are clearly explained in a brilliant 64 page full colour rulebook, including a really useful Getting Started section. </p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Counters</h3>
-<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<img src="../img/Grogan.png" class="pull-left img-responsive " />
 <p>All of the counters and tokens that you need to keep track of how the game is progressing- and most importantly who is winning!</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Dice</h3>
-<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<img src="../img/Grogan.png" class="pull-left img-responsive " />
 <p>There are three colours of dice, the home team have blue, the visitors have yellow, and red dice are used as Coaching dice to use in special plays</p>
 </div>
 <!-- /.col-md-4 -->
