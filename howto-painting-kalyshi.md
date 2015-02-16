@@ -8,13 +8,13 @@ permalink: /how-to/painting-kalyshi/
 <h2>Paint DreadBall Xtreme Asterian Kalyshi</h2>
 <strong>By Peter Harrison from Talk Wargaming</strong>
 
-Don your orange jumpsuit and check that explosive collar is still just that bit too tight because in this tutorial I will be showing you how to paint the convicts from Dreadball Xtreme.
+Don your orange jumpsuit and check that explosive collar is still just that bit too tight because in this tutorial I will be showing you how to paint the Asterian Kalyshi from Dreadball Xtreme.
 
 Making use of the Army Painters war paints we have a step by step guide for achieving a look similar to those painted by the Mantic studio. In addition to the written guide we have also created a video that takes you through the steps from basecoat to finished miniature.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/B8PJO4fee3k" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/rVGe-c6TFWs" frameborder="0" allowfullscreen></iframe>
 <!-- leave this in for mobile users -->
-<a class="btn btn-danger" target="_blank" href="https://www.youtube.com/watch?v=B8PJO4fee3k">Watch the video directly on YouTube</a>
+<a class="btn btn-danger" target="_blank" href="https://www.youtube.com/watch?v=rVGe-c6TFWs">Watch the video directly on YouTube</a>
 
 <h2>Paints Required</h2>
 Below you can find the list of Army Painter paints required though you can use any equivalent water-based acrylics to paint DreadBall Xtreme miniatures. 
