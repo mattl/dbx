@@ -4,7 +4,9 @@ title: How to...
 permalink: /how-to/
 ---
 
-To be the best, you need to beat the best. Learn how to prepare your team for the tabletop by clicking the buttons below.
+To be the best, you need to beat the best. 
+
+Learn how to prepare your team for the tabletop by clicking the buttons below.
 
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
@@ -18,29 +20,29 @@ To be the best, you need to beat the best. Learn how to prepare your team for th
     <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
       <div class="panel-body">
 
-	Dreadball Xtreme is an exciting, fun and fast paced game where 2 players pit themselves against each other. The full rules are available to download for free here…..
+	Dreadball Xtreme is an exciting, fun and fast paced game where two players pit themselves against each other. In this section, learn how to play DreadBall Xtreme.
 
-	There is also a Video tutorial that will talk you through the key elements, but like all games the best way to learn is to find a friend and play!
+Like all games the best way to learn is to find a friend and play!
 
 	<!-- Content Row -->
 	<div class="row">
 	  <div class="col-md-4">
 	    <h3>Video Tutorial</h3>
-	    <a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+	    <img src="../img/Grogan.png" /></a>
 	    <p>The game is played on a beautifully</p>
-	    <a class="btn btn-default" href="painting-convicts/">More Info</a>
+	    <a class="btn btn-default" href="#">Coming Soon</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
 	    <h3>Free Downloads</h3>
-	    <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-	    <p>The 4 Strike Posts are th</p>
-	    <a class="btn btn-default" href="#">More Info</a>
+	    <img src="../img/Grogan.png" /></a>
+	    <p>Download our free sample of the DreadBall Xtreme rulebook, showing you an example of the first couple of turns.</p>
+	    <a class="btn btn-default" href="#">Download</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
 	    <h3>Go Digital</h3>
-	    <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+	    <img src="../img/Grogan.png" /></a>
 	    <p>Coming soon</p>
 	    <a class="btn btn-default" href="#">Coming Soon</a>
 	  </div>
