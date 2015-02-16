@@ -106,7 +106,7 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
  <div class="col-md-4">
 <h3>Strike Posts</h3>
 <img src="../img/Grogan.png" class="pull-left img-responsive " />
-<p>Strike Posts are the goals in which the players strive to score ponits and win the game!</p>
+<p>Strike Posts are the goals in which the players strive to score points and win the game!</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
