@@ -28,21 +28,21 @@ Like all games the best way to learn is to find a friend and play!
 	<div class="row">
 	  <div class="col-md-4">
 	    <h3>Video Tutorial</h3>
-	    <img src="../img/Grogan.png" /></a>
+	    <img src="../img/Grogan.png" />
 	    <p>The game is played on a beautifully</p>
 	    <a class="btn btn-default" href="#">Coming Soon</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
 	    <h3>Free Downloads</h3>
-	    <img src="../img/Grogan.png" /></a>
+	    <img src="../img/Grogan.png" />
 	    <p>Download our free sample of the DreadBall Xtreme rulebook, showing you an example of the first couple of turns.</p>
 	    <a class="btn btn-default" href="#">Download</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
 	    <h3>Go Digital</h3>
-	    <img src="../img/Grogan.png" /></a>
+	    <img src="../img/Grogan.png" />
 	    <p>Coming soon</p>
 	    <a class="btn btn-default" href="#">Coming Soon</a>
 	  </div>
@@ -74,21 +74,21 @@ Like all games the best way to learn is to find a friend and play!
 	<div class="row">
 	  <div class="col-md-4">
 	    <h3>Painting Convicts</h3>
-	    <a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+	    <img src="../img/Grogan.png" />
 	    <p>The game is played on a beautifully</p>
 	    <a class="btn btn-default" href="painting-convicts/">More Info</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
 	    <h3>Painting Kalyshi</h3>
-	    <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+	    <img src="../img/Grogan.png" />
 	    <p>The 4 Strike Posts are th</p>
 	    <a class="btn btn-default" href="#">More Info</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
 	    <h3>Painting Free Agents</h3>
-	    <a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+	    <a href="zees/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
 	    <p>Coming soon</p>
 	    <a class="btn btn-default" href="#">Coming Soon</a>
 	  </div>
