@@ -57,6 +57,7 @@ Every model comes match-ready and can be used straight out of the box – no ass
 <h3>Convicts Team</h3>
 <a href="warden/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
 <p>10 awesomely psychopathic Convict miniatures (including 2 injured) </p>
+<a class="btn btn-default" href="warden/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
@@ -74,10 +75,6 @@ Every model comes match-ready and can be used straight out of the box – no ass
 <!-- /.col-md-4 -->
 </div>
 <!-- /.row -->
-
-<div class="clearfix">&nbsp;</div>
-
-<p><a href="blaine/" class="btn btn-success btn-lg">Learn more about your players...</a></p>
 
       </div>      
 
