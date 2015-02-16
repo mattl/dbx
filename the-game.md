@@ -37,14 +37,14 @@ Every model comes match-ready and can be used straight out of the box – no ass
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>The Warden- Sponsor</h3>
-<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<a href="warden/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
 <p>With a whole prison planet of degenerate scum at his mercy, The Warden can take his pick of the best (or worse) the Universe has to offer</p>
 <a class="btn btn-default" href="warden/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Free Agents</h3>
-<a href="freeagents/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<a href="freeagents/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
 <p>The box contains 9 brilliant models of crazy aliens, vicious mercenaries and assorted scum that a Sponsor can hire to help win the game, each with their own individual skills and strengths.</p>
 <a class="btn btn-default" href="freeagents/">More Info</a>
 </div>
@@ -55,20 +55,20 @@ Every model comes match-ready and can be used straight out of the box – no ass
 <div class="row">
 <div class="col-md-4">
 <h3>Convicts Team</h3>
-<a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<a href="warden/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
 <p>10 awesomely psychopathic Convict miniatures (including 2 injured) </p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Kalyshi Team</h3>
-<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<a href="blaine/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
 <p>10 graceful and deadly Asterain Kalyshi warriors including 2 wounded players.</p>
 <a class="btn btn-default" href="warden/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Coloured Hex Bases</h3>
-<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<a href="warden/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
 <p>12 yellow and 12 blue hex bases that the miniatures slot onto to help distinguish between the two teams</p>
 </div>
 <!-- /.col-md-4 -->
