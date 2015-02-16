@@ -14,7 +14,19 @@ Sponsors pick their “teams” for Xtreme from a pool of human and alien scum, 
 
 Below is a sample of the players this sponsor prefers to field in their team, and therefore get to purchase at cheaper rates. Note that a Sponsor’s team is by no means limited to the players on show – you can pick from the entire pool of players available in the game, allowing you to truly build and customise your own team.
 
-<h2>Asterian Kalyshi</h2>
+
+
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingOne">
+      <h2 class="panel-title">
+	<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+	  Asterian Kalyshi
+	</a>
+      </h2>
+    </div>
+    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+      <div class="panel-body">
 
 <!-- for each faction -->
 
@@ -25,7 +37,7 @@ The blue skinned Kalysians are an aggressive and wild sub sect of the Asterian r
 <div class="col-md-4">
 <h3>Striker</h3>
 <a href="warden/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>Fast moving and skilful, the Kalyian Striker can leap over any friends, enemies or obsticles that stand in their path to score. </p>
+<p>Fast moving and skilful, the Kalysian Striker can leap over any friends, enemies or obsticles that stand in their path to score. </p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
@@ -37,9 +49,21 @@ The blue skinned Kalysians are an aggressive and wild sub sect of the Asterian r
 </div>
 <!-- /.row -->
 
-<h2>Free Agents</h2>
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingTwo">
+      <h2 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Free Agents
+        </a>
+      </h2>
+    </div>
+    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+      <div class="panel-body">
 
-As well as the two different teams, there is a wide range of crazy aliens, vicious mercenaries and assorted scum that a Sponsor can hire to help them win the game, each with their own individual skill and strengths.
+	As well as the two different teams, there is a wide range of crazy aliens, vicious mercenaries and assorted scum that a Sponsor can hire to help them win the game, each with their own individual skill and strengths.
 
 <!-- Content Row -->
 <div class="row">
@@ -63,3 +87,13 @@ As well as the two different teams, there is a wide range of crazy aliens, vicio
 <!-- /.col-md-4 -->
 </div>
 <!-- /.row -->
+
+	<a class="btn btn-danger btn-lg" href="/the-game/freeagents/">View the full list of Free Agents at your disposal here></a>
+
+	<div class="clearfix">&nbsp;</div>
+
+
+      </div>
+    </div>
+  </div>
+</div>
