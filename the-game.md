@@ -51,38 +51,32 @@ Bloodcurdling violence and explosive traps, the brand new DreadBall Arena presen
     <div class="panel-heading" role="tab" id="headingThree">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          Rules Material
+          Violent Sports Underworld
         </a>
       </h2>
     </div>
     <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
       <div class="panel-body">
+DreadBall Xtreme is a fun game that takes the fast and furious gameplay you’d expect from a quality sports game and sets the action in a seedy underworld.
 
-<!-- Content Row -->
-<div class="row">
-<div class="col-md-4">
-<h3>Rulebook</h3>
-<a href="blaine/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>All the awesome, fun rules for the game rules are clearly explained in a brilliant 64 page full colour rulebook, including a really useful Getting Started section. </p>
-</div>
-<!-- /.col-md-4 -->
- <div class="col-md-4">
-<h3>Counters</h3>
-<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>All of the counters and tokens that you need to keep track of how the game is progressing- and most importantly who is winning!</p>
-</div>
-<!-- /.col-md-4 -->
- <div class="col-md-4">
-<h3>Dice</h3>
-<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
-<p>There are three colours of dice, the home team have blue, the visitors have yellow, and red dice are used as Coaching dice to use in special plays</p>
-</div>
-<!-- /.col-md-4 -->
-</div>
-<!-- /.row -->
-
+In this ultraviolent and brutal tabletop sports game you take on the role of a sinister Sponsor, the organiser of the team who is looking to get rich through exploiting those unhinged enough to play in this most savage of sport, paying them to risk their lives in the illegal underground arena. Each Sponsor has a budget of credits to hire these dregs and they choose to balance the quality of elite players against the quantity of no talent grunts they can put onto the pitch in search of that illusive win.
       </div>
     </div>
+    <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingFour">
+      <h2 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+          Into the ring
+        </a>
+      </h2>
+    </div>
+    <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+      <div class="panel-body">
+
+All of the miniatures in DreadBall Xtreme come match-ready to use right out of the box. No more fiddly bits or separate hands, each player comes pre-assembled. This means you can spend less time gluing, and more time playing the game you love (or don’t know you’ll know until you try it!)
+      </div>
+    </div>
+  </div>
   </div>
 </div>
 
