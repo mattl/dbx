@@ -88,7 +88,7 @@ As well as the two different teams, there is a wide range of crazy aliens, vicio
 </div>
 <!-- /.row -->
 
-	<a class="btn btn-danger btn-lg" href="/the-game/freeagents/">View the full list of Free Agents at your disposal here></a>
+	<a class="btn btn-danger btn-lg" href="/the-game/freeagents/">View the full list of Free Agents at your disposal here ></a>
 
 	<div class="clearfix">&nbsp;</div>
 
