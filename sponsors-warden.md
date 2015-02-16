@@ -98,3 +98,5 @@ As well as the two different teams, there is a wide range of crazy aliens, vicio
     </div>
   </div>
 </div>
+
+<p><a href="http://dreadballxtremethegame.com/the-game/" class="btn btn-danger">Back to the game</a></p>
