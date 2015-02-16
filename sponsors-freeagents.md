@@ -71,3 +71,5 @@ As well as the two different teams, there are a wide range of crazy aliens, vici
 <!-- /.col-md-4 -->
 </div>
 <!-- /.row -->
+
+<p><a href="http://dreadballxtremethegame.com/the-game/" class="btn btn-danger">Back</a></p>
