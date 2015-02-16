@@ -159,7 +159,7 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h3>Art</h3>
+<h3>Wallpapers</h3>
 <img src="../img/Grogan.png" class="pull-left img-responsive " />
 <p>There are three colours of dice, the home team have blue, the visitors have yellow, and red dice are used as Coaching dice to use in special plays</p>
 </div>
