@@ -2,8 +2,6 @@
 layout: page
 title: How to...
 permalink: /how-to/
-nexturl: /dbx/community
-nexttitle: Community
 ---
 
 To be the best, you need to beat the best. Learn how to prepare your team for the tabletop by clicking the buttons below.
@@ -17,7 +15,7 @@ To be the best, you need to beat the best. Learn how to prepare your team for th
 	</a>
       </h2>
     </div>
-    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
       <div class="panel-body">
 
 	Dreadball Xtreme is an exciting, fun and fast paced game where 2 players pit themselves against each other. The full rules are available to download for free here…..
