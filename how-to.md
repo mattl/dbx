@@ -88,7 +88,7 @@ Like all games the best way to learn is to find a friend and play!
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
 	    <h3>Painting Free Agents</h3>
-	    <a href="zees/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
+	    <a href="zees/"><img src="../img/Grogan.png"</a>
 	    <p>Coming soon</p>
 	    <a class="btn btn-default" href="#">Coming Soon</a>
 	  </div>
