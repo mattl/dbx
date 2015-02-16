@@ -44,9 +44,9 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Rathmar Ul-Iheq</h3>
-<a href="blaine/"><img src="../img/Grogan.png" /></a>
+<img src="../img/Grogan.png" /></a>
 <p>Coming to a blood-drenched arena near you soon!</p>
-<a class="btn btn-default" href="blaine/">More Info</a>
+<a class="btn btn-default" href="#">Coming Soon</a>
 </div>
 <!-- /.col-md-4 -->
 </div>
@@ -56,21 +56,21 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 <div class="row">
 <div class="col-md-4">
 <h3>Dr Kain</h3>
-<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<img src="../img/Grogan.png" /></a>
 <p>Coming to a blood-drenched arena near you soon!</p>
 <a class="btn btn-default">Coming Soon</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Kraato Gon</h3>
-<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<img src="../img/Grogan.png" /></a>
 <p>Coming to a blood-drenched arena near you soon!</p>
 <a class="btn btn-default">Coming Soon</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>The Shojuun</h3>
-<a href="zees/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<img src="../img/Grogan.png" /></a>
 <p>Coming to a blood-drenched arena near you soon!</p>
 <a class="btn btn-default">Coming Soon</a>
 </div>
