@@ -1,8 +1,4 @@
 ---
-layout: page
-title: Choose a Sponsor
-nexturl: /dbx/how-to/
-nexttitle: How To
 ---
 
 <!-- for each faction -->
