@@ -14,6 +14,18 @@ Each of these is an individual who is looking to get wealthth and power through 
 
 Different Sponsors have natural preferences and allegiances and so while they are free to hire whoever they want, the costs of players vary depending upon who is buying them.
 
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingOne">
+      <h2 class="panel-title">
+	<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+	  Find out more about the Sponsors
+	</a>
+      </h2>
+    </div>
+    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+      <div class="panel-body">
+
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
@@ -65,12 +77,8 @@ Different Sponsors have natural preferences and allegiances and so while they ar
 <!-- /.col-md-4 -->
 </div>
 <!-- /.row -->
-
-
-
-<div class="clearfix">&nbsp;</div>
-
-<p><a href="blaine/" class="btn btn-success btn-lg">How to Play >></a></p>
-
-<div class="clearfix">&nbsp;</div>
+     </div>
+    </div>
+  </div>
+</div>
 
