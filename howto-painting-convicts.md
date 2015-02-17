@@ -81,11 +81,11 @@ I primed my miniature using Ash Grey as it would provide a good base of color in
       </div>
     </div>
   </div>
-  <div class="panel panel-default">
+<div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-	 Stage 2: Prison Jump Suit
+          Stage 2: Prison Jump-Suit
         </a>
       </h2>
     </div>
