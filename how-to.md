@@ -82,14 +82,14 @@ Mantic have put together a collection of tutorials that help you get to grips wi
 	    <h3>Painting Convicts</h3>
 	    <img src="../img/paintingconvicts001.png" />
 	   
-	    <a class="btn btn-default" href="painting-convicts/">More Info</a>
+	    <a class="btn btn-danger" href="painting-convicts/">Find Out How</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
 	    <h3>Painting Kalyshi</h3>
 	    <img src="../img/kalyshi002.png" />
 
-	    <a class="btn btn-default" href="painting-kalyshi/">More Info</a>
+	    <a class="btn btn-danger" href="painting-kalyshi/">Find Out How</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
