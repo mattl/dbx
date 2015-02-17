@@ -158,9 +158,9 @@ To start with, paint the vest in the 50/50 mix of Wolf Grey + Matt White, you co
       <div class="panel-body">
      
     <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
-    <li><strong>Basecoat:</strong> Barbarian Fleshx</li>
+    <li><strong>Basecoat:</strong> Barbarian Flesh</li>
     <li><strong>Wash:</strong> Red Ink + Soft Tone Ink 50/50 mix</li>
-   <li><strong>Highlight:</strong> Barbarian Fleshx</li>
+   <li><strong>Highlight:</strong> Barbarian Flesh</li>
 
 The basecoat of Barbarian Flesh should cover quite nicely over the lighter tone of the Ash Grey primer, however you may still need a couple of thin coats to achieve the best finish. The next step is to apply a 'flesh wash' which consists of a 50/50  mix of Red Tone Ink and Strong Tone Quick-shade Ink. Once the wash has dried it is then time to for a final layer of Barbarian Flesh, you could also mix in a little Skeleton Bone in order to lighten the flesh color slightly.
 </div>
