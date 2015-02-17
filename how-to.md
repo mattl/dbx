@@ -48,7 +48,7 @@ Mantic have put together a collection of tutorials that help you get to grips wi
 	    <h3>Digital</h3>
 	    <img src="../img/manticdigital.png" />
 	   
-	  On the Mantic Digital site there is all sorts of great downladable content that supports your favourite games.
+	  <p>On the Mantic Digital site there is all sorts of great downladable content that supports your favourite games.</p>
 
 	    <a class="btn btn-default" href="#">Coming Soon</a>
 	  </div>
