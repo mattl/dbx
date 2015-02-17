@@ -182,7 +182,7 @@ The bandages should first be painted with Monster Brown followed by a Soft Tone 
      <li><strong>Layer:</strong> Toxic Boils </li>
      <li><strong>Wash:</strong> Purple Ink</li>
     <li><strong>Highlight:</strong> Toxic Boils + Matt White 50/50 mix</li>
-WThe first step to painting the hair is to cover the entire Mohawk with the Alien Purple. A layer of Toxic Boils should be applied to the upper parts of the Mohawk followed by a Purple Ink wash to blend the two layers together. A 50/50 mix of Toxic Boils and Matt White can then be used to pick out the tips of individual hairs using a thin brush.
+The first step to painting the hair is to cover the entire Mohawk with the Alien Purple. A layer of Toxic Boils should be applied to the upper parts of the Mohawk followed by a Purple Ink wash to blend the two layers together. A 50/50 mix of Toxic Boils and Matt White can then be used to pick out the tips of individual hairs using a thin brush.
 </div>
     </div>
   </div>
