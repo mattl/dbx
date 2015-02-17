@@ -127,11 +127,10 @@ The first step of painting the armor is to basecoat it with Uniform Grey, this w
       </div>
     </div>
   </div>
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  <div class="panel panel-default">
+ <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingFive">
       <h2 class="panel-title">
-	<a data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
 	 Stage 4: Vest
 	</a>
       </h2>
@@ -148,11 +147,10 @@ To start with, paint the vest in the 50/50 mix of Wolf Grey + Matt White, you co
       </div>
     </div>
   </div>
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  <div class="panel panel-default">
+ <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingSix">
       <h2 class="panel-title">
-	<a data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
 	 Stage 5: Skin
 	</a>
       </h2>
@@ -169,11 +167,10 @@ The basecoat of Barbarian Flesh should cover quite nicely over the lighter tone 
 </div>
     </div>
   </div>
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  <div class="panel panel-default">
+ <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingSeven">
       <h2 class="panel-title">
-	<a data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
 	 Stage 6: Straps & Boots
 	</a>
       </h2>
@@ -189,11 +186,10 @@ When basecoating the armor straps, boots and belt with Matt Black take care not 
 </div>
     </div>
   </div>
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  <div class="panel panel-default">
+ <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingEight">
       <h2 class="panel-title">
-	<a data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="true" aria-controls="collapseEight">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
 	 Stage 7: Face Mask
 	</a>
       </h2>
