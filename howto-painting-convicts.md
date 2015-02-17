@@ -73,7 +73,7 @@ Below you can find the list of Army Painter paints required though you can use a
     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
       <div class="panel-body">
       
-    <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
+    <img class="img-thumbnail img-responsive pull-left" src="/img/armour.jpg" />
     <li><strong>Basecoat:</strong> Ash Grey</li>
 
 
