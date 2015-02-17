@@ -74,4 +74,6 @@ As well as the two different teams, there are a wide range of crazy aliens, vici
 
 <div class="clearfix">&nbsp;</div>
 
-<p><a href="http://dreadballxtremethegame.com/the-game/" class="btn btn-danger">Back to the game</a></p>
+<a class="btn btn-danger" target="_blank" href="https://www.youtube.com/watch?v=B8PJO4fee3k">Watch the video directly on YouTube</a>
+
+<a href="http://dreadballxtremethegame.com/the-game/" class="btn btn-danger">Back to the game</a>
