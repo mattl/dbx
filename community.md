@@ -113,21 +113,21 @@ There are loads of fantastic videos available to give you even more information 
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
-<h3>Rulebook</h3>
+<h3>The Story Behind DreadBall Xtreme</h3>
 <img src="../img/Grogan.png" class="pull-left img-responsive " />
-<p>Find out more about the story behind DreadBall Xtreme in this articel from our Blog!</p>
+<p>Find out more about how it all happened in this articel from our Blog!</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h3>Counters</h3>
+<h3>Blood, Beards and Brass Knuckles: A Tale of Xtreme Violence!</h3>
 <img src="../img/Grogan.png" class="pull-left img-responsive " />
-<p>Blood, Beards and Brass Knuckles: A Tale of Xtreme Violence! Read part 1 of a Match Report between Luke and Alex.</p>
+<p> Read part 1 of an awesome, brutal Match Report between Community Manager Luke and Pathfinder Alex.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h3>Dice</h3>
+<h3>5 Reasons to be excited by Xtreme! </h3>
 <img src="../img/Grogan.png" class="pull-left img-responsive " />
-<p>5 Reasons to be excited by Xtreme! If you weren't excited enough, here's an article to tell you more.</p>
+<p>If you weren't excited enough, here's an article to tell you more.</p>
 </div>
 <!-- /.col-md-4 -->
 </div>
