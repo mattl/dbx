@@ -41,7 +41,7 @@ Mantic have put together a collection of tutorials that help you get to grips wi
 	    <h3>Free Downloads</h3>
 	    <img src="../img/download.png" />
 	    <p>The DreadBall Xtreme rulebook has a brilliant step by step example that clearly walks you through a section of a game. Click here to download it as a free PDF!</p>
-	    <a class="btn btn-default" href="#">Download</a>
+	    <a class="btn btn-danger" href="#">Download</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
