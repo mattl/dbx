@@ -96,7 +96,7 @@ Every model comes match-ready and can be used straight out of the box – no ass
     <div class="panel-heading" role="tab" id="headingTwo">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          Underground Sports Arena
+          Deadly Sports Arena
         </a>
       </h2>
     </div>
