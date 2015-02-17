@@ -72,26 +72,26 @@ This is led by our elite team 0f Pathfinders, some of our most brilliant and ded
 
 
 
-Play ball on a makeshift arena littered with jagged obstacles and exploding traps whilst evading your opponent’s attempts to sabotage your team. Concealed weapons are a premium and your opposing Sponsor do their best to bet, threaten and intimidate their way to victory. Only the luckiest will survive!
+There are loads of fantastic videos available to give you even more information about Xtreme. Come back regularly to see more of the awesome things that people are doing… 
 
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
 <h3>Bell of Lost Souls</h3>
 <img src="../img/Grogan.png" class="pull-left img-responsive " />
-<p>The game is played on a detailed rubber gaming mat representing the disused warehouses, abandoned bunkers or any other hidden and inaccessible hell hole being used for an arena.</p>
+<p>Bell of Lost Souls have got their hands on the new DreadBall Xtreme boxed game and open it up for all to see.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Fan Video</h3>
 <img src="../img/Grogan.png" class="pull-left img-responsive " />
-<p>Strike Posts are the goals in which the players strive to score points and win the game!</p>
+<p>Spooney J takes a look through a copy of DreadBall Xtreme and gives us his thoughts on the game!</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Fan Video</h3>
 <img src="../img/Grogan.png" class="pull-left img-responsive " />
-<p>Arenas are littered with debris and obstacles, many of which are booby trapped with explosives that detonate when a player gets too close- all for the benefit and enjoyment of the cred paying crowds!</p>
+<p>Gerrcinn unleashes his review on the pre-release Kickstarter edition of DreadBall Xtreme.</p>
 </div>
 <!-- /.col-md-4 -->
 </div>
