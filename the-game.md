@@ -199,19 +199,19 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <div class="col-md-4">
 <h3>Xtreme Xpansion</h3>
 <img src="../img/xpansion.png" class="pull-left img-responsive " />
-<p>All the awesome, fun rules for the game rules are clearly explained in a brilliant 64 page full colour rulebook, including a really useful Getting Started section. </p>
+<p>Coming Soon! The DreadBall Xtreme game just got even better with this incredible expansion set that includes  the rules for additional psychopathic Sponors, the details for using the full range of DreadBall miniatures in your teams and so much more!!!</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>New Sponsors</h3>
 <img src="../img/newsponsor.png" class="pull-left img-responsive " />
-<p>All of the counters and tokens that you need to keep track of how the game is progressing- and most importantly who is winning!</p>
+<p>Coming Soon! You will not believe the roll call of insane, callous and downright deranged Sponsors that Mantic have lined to recruit and lead your players. Each one will give you the opportunity to create a bespoke and individual team with exciting challenges and styles of play.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Teams</h3>
 <img src="../img/newteam.png" class="pull-left img-responsive " />
-<p>There are three colours of dice, the home team have blue, the visitors have yellow, and red dice are used as Coaching dice to use in special plays</p>
+<p>Coming Soon! In DreadBall Xtreme your Sponsor can select players from the full range of marvellous Mantic minitures across the whole of the DreadBall universe. Create the ultimate team full of the models you love…</p>
 </div>
 <!-- /.col-md-4 -->
 </div>
