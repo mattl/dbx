@@ -6,9 +6,12 @@ nexturl: http://www.manticgames.com/mantic-shop/dreadball/dreadball-xtreme/produ
 nexttitle: Store
 ---
 
-DreadBall Xtreme is the competitive underground sports game for 2 players, ages 13 and up. A match lasts around 30 minutes. 
+One of the most wonderful things about Mantic is all the fantastic and fanatical fans who absolutely love the fun and excitement that games such as DreadBall Xtreme give them.
 
-Two teams clash over a makeshift play area, seeking as much to wipe each other out as to score points! Pick a Sponsor, assemble your team of desperadoes, and unleash them on each other to see who will be the last one standing! 
+These awesome people that make up the Mantic Community are always willing to share advice or tips, writing articles and Xtreme match reports telling of their latest glorious victory or unlucky defeat, and also producing pictures of wonderfully painted miniatures that really inspire fellow hobbyists. They can be found in gaming clubs, stores and conventions   around the world and are great opponents to talk to and to play against. 
+
+Why don’t you click on the links below, grab your dice and get involved!
+
 
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
