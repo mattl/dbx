@@ -87,7 +87,7 @@ I primed my miniature using Ash Grey as it would provide a good base of color in
     <div class="panel-heading" role="tab" id="headingThree">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          Stage 2: Prison Jump-Suit
+          Stage 2: Armour
         </a>
       </h2>
     </div>
@@ -95,12 +95,12 @@ I primed my miniature using Ash Grey as it would provide a good base of color in
       <div class="panel-body">
       
     <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
-    <li><strong>Basecoat:</strong> Jumpsuit Orange / Lava Orange</li>
+    <li><strong>Basecoat:</strong> Chaotic Red</li>
+    <li><strong>Layer:</strong> Dragon Red</li>
     <li><strong>Wash:</strong> Red Ink</li>
-    <li><strong>Highlight:</strong> Jumpsuit Orange & Skeleton Bone 50/50 mix</li>
+    <li><strong>Highlight:</strong> Toxic Boils</li>
 
-
-The convicts trousers can be painted with Jumpsuit Orange which is a part of the Army Painters Zombicide War Paints. Alternatively you could use Lava Orange but Jumpsuit Orange will give you a color similar to that seen on the example convicts. This should then be followed with a Red Ink wash to provide some definition. Finally a highlight should be applied to the raised edges of the trousers. The highlight I used was a 50/50 mix of Jumpsuit Orange and Skeleton Bone. 
+The armor should be basecoated with Chaotic Red followed by a layer of Dragon Red. When applying this layer be sure to allow the Chaotic Red to show through in the recesses of the armor. With the first layer completed a wash of Red Tone Ink will help blend the shades together whilst also enhancing the depth of color. Finally a very thin highlight of Toxic Boils should be applied to corners and the upper sections of armor. 
 
       </div>
     </div>
@@ -109,7 +109,7 @@ The convicts trousers can be painted with Jumpsuit Orange which is a part of the
     <div class="panel-heading" role="tab" id="headingFour">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-          Stage 3: Armour Glaive
+          Stage 3: Skin
         </a>
       </h2>
     </div>
@@ -117,13 +117,11 @@ The convicts trousers can be painted with Jumpsuit Orange which is a part of the
       <div class="panel-body">
      
     <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
-    <li><strong>Basecoat:</strong> Uniform Grey</li>
-    <li><strong>Wash:</strong> Dark Tone</li>
-    <li><strong>Highlight:</strong> Wolf Grey</li>
-    <li><strong>Highlight:</strong> Wolf Grey + Matt White 50/50 mix</li>
+    <li><strong>Basecoat:</strong> Wolf Grey</li>
+    <li><strong>Layer:</strong> Wolf Grey + Ash Grey 50/50 mix</li>
+    <li><strong>Highlight:</strong> Ash Grey</li>
 
-
-The first step of painting the armor is to basecoat it with Uniform Grey, this will give it a darker base color once the next step, a Dark Tone Ink wash, is applied. With the basecoat and wash completed the first highlight can be done with Wolf Grey. This should be thinly applied along the edges of the armor and glaive. The final step for the armor is an extreme highlight of Wolf Grey and Matt White mixed in 50/50 quantities. This highlight should only be applied to the upper edges of the armor or on the corners.
+The basecoat of Wolf Grey should cover nicely over the grey primer however thinning it down slightly will provide a much smother coverage. The first layer should be a mix of Wolf Grey and Ash Grey in 50/50 quantities. This should applied to the upper sections of skin paying particular attention to details on the face, stomach and the fingers.
 
       </div>
     </div>
@@ -132,7 +130,7 @@ The first step of painting the armor is to basecoat it with Uniform Grey, this w
     <div class="panel-heading" role="tab" id="headingFive">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-	 Stage 4: Vest
+	 Stage 4: Tattoos
         </a>
       </h2>
     </div>
@@ -140,10 +138,9 @@ The first step of painting the armor is to basecoat it with Uniform Grey, this w
       <div class="panel-body">
      
     <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
-    <li><strong>Basecoat:</strong> Wolf Grey + Matt White 50/50 mix</li>
-    <li><strong>Highlight:</strong> Matt White</li>
+    <li><strong>Layer:</strong> Ultramarine Blue</li>
  
-To start with, paint the vest in the 50/50 mix of Wolf Grey + Matt White, you could use the same batch from the previous step. Finally a layer of Matt White should be applied. It is advised that several thin layers be applied as this will provide a much smoother finish.
+The tattoos should follow and 'tribal' like style and be applied with a thin brush for best results. Thinning down the paint slightly will also allow you to get a much finer point and an easier application.
 
       </div>
     </div>
@@ -152,7 +149,7 @@ To start with, paint the vest in the 50/50 mix of Wolf Grey + Matt White, you co
     <div class="panel-heading" role="tab" id="headingSix">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-	 Stage 5: Skum
+	 Stage 5: Bandages
        </a>
       </h2>
     </div>
@@ -160,11 +157,12 @@ To start with, paint the vest in the 50/50 mix of Wolf Grey + Matt White, you co
       <div class="panel-body">
      
     <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
-    <li><strong>Basecoat:</strong> Barbarian Fleshx</li>
-    <li><strong>Wash:</strong> Red Ink + Soft Tone Ink 50/50 mix</li>
-   <li><strong>Highlight:</strong> Barbarian Fleshx</li>
+    <li><strong>Basecoat:</strong> Monster Brown</li>
+    <li><strong>Wash:</strong> Soft Tone Ink</li>
+   <li><strong>Layer:</strong> Desert Yellow</li>
+ <li><strong>Highlight:</strong> Skeleton Bone</li>
 
-The basecoat of Barbarian Flesh should cover quite nicely over the lighter tone of the Ash Grey primer, however you may still need a couple of thin coats to achieve the best finish. The next step is to apply a 'flesh wash' which consists of a 50/50  mix of Red Tone Ink and Strong Tone Quick-shade Ink. Once the wash has dried it is then time to for a final layer of Barbarian Flesh, you could also mix in a little Skeleton Bone in order to lighten the flesh color slightly.
+The bandages should first be painted with Monster Brown followed by a Soft Tone Ink wash to provide shading. Desert Yellow can then be painted onto the raised areas of the wraps followed by a thinner highlight of Skeleton Bone.
 </div>
     </div>
   </div>
@@ -172,7 +170,7 @@ The basecoat of Barbarian Flesh should cover quite nicely over the lighter tone 
     <div class="panel-heading" role="tab" id="headingSeven">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-	 Stage 6: Straps & Boots
+	 Stage 6: Hair
 	</a>
       </h2>
     </div>
@@ -180,10 +178,11 @@ The basecoat of Barbarian Flesh should cover quite nicely over the lighter tone 
       <div class="panel-body">
      
     <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
-    <li><strong>Basecoat:</strong> Matt Black </li>
-    <li><strong>Highlight:</strong> Uniform Grey</li>
- 
-When basecoating the armor straps, boots and belt with Matt Black take care not to over spill onto other already painted areas of the model. With the first layer completed you can the apply a highlight of Uniform Grey paying particular attention to the laces and panels on the boots.
+    <li><strong>Basecoat:</strong> Alien Purple</li>
+     <li><strong>Layer:</strong> Toxic Boils </li>
+     <li><strong>Wash:</strong> Purple Ink</li>
+    <li><strong>Highlight:</strong> Toxic Boils + Matt White 50/50 mix</li>
+WThe first step to painting the hair is to cover the entire Mohawk with the Alien Purple. A layer of Toxic Boils should be applied to the upper parts of the Mohawk followed by a Purple Ink wash to blend the two layers together. A 50/50 mix of Toxic Boils and Matt White can then be used to pick out the tips of individual hairs using a thin brush.
 </div>
     </div>
   </div>
@@ -191,7 +190,7 @@ When basecoating the armor straps, boots and belt with Matt Black take care not 
     <div class="panel-heading" role="tab" id="headingEight">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-	 Stage 7: Face Mask
+	 Stage 7: Eyes and Glaive Light
 	</a>
       </h2>
     </div>
@@ -199,10 +198,11 @@ When basecoating the armor straps, boots and belt with Matt Black take care not 
       <div class="panel-body">
      
     <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
-    <li><strong>Basecoat:</strong> Monster Brown</li>
-    <li><strong>Wash:</strong> Strong Tone Wash</li>
-   <li><strong>Highlight:</strong> Desert Yellow</li>
+    <li><strong>Basecoat:</strong> Desert Yellow</li>
+    <li><strong>Wash:</strong> Soft Tone Ink</li>
+   <li><strong>Layer:</strong> Daemonic Yellow</li>
+<li><strong>Highlight:</strong> Matt White</li>
 
-The first step to painting the face mask on the helmet is to basecoat it with Monster Brown.  This should then be followed by a Dark Tone wash, make sure that the wash gets into all of the holes on the mask. The final step is to highlight the edges of the mask with Desert Yellow
+The eyes and the small disc on the glaive should be first painted with Desert Yellow which can then be followed by a Soft Tone Ink wash. Daemonic Yellow should then be applied in a crescent shape around the disc. Finally specks of Matt White should be painted onto the opposite side of the crescent to create a glass effect.
 
-While this tutorial focused on just a Con (Jack) these steps could also be followed for any of the convict players. 
+While this tutorial focused on a Striker these steps could also be followed for any of the Khalysi players. 
