@@ -25,30 +25,30 @@ Why don’t you click on the links below, grab your dice and get involved!
     <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
       <div class="panel-body">
 
-Assume the role of sponsor and assemble your team from convicted felons, alien psychopaths or bloodthirsty mercenaries. The game contains two complete teams of Convicts and Asterians, including characterful prone figures. There is also a bizarre assortment of free agents for you to include in your team, such as the robotic training drones and bloodsucking aliens!
-
-Every model comes match-ready and can be used straight out of the box – no assembly required!
+There are lots of ways to get involved and find out more about your favourite game.
 
 <!-- Content Row -->
 	<div class="row">
 <div class="col-md-4">
-<h3>Forum</h3>
+<h3>Mantic Forum</h3>
 <a href="/sponsors/blaine/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
-<p>The deadly alien criminal mastermind who favours an eclectic and diverse team, often recruiting a wide mix of different species and player types depending upon this carefully worked out strategy.</p>
+<p>A community run forum, written by the fans for the fans!
+This is led by our elite team f Pathfinders, some of our most brilliant and dedicated hobbyists, and is a great place to discuss tactics, team selection, what’s going on and what you want to see!
+</p>
 <a class="btn btn-default" href="/sponsors/blaine/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<h3>Facebook</h3>
+<h3>Mantic Facebook/ Twitter</h3>
 <a href="/sponsors/warden/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
-<p>With a whole prison planet of degenerate scum at his mercy, The Warden Rasulov can take his pick of the best (or worse) the Universe has to offer. </p>
+<p>A great way to get official Mantic updates! Sign up for all the latest exciting news in events, new releases, blogs, sneak peeks and reviews. </p>
 <a class="btn btn-default" href="/sponsors/warden/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Blog</h3>
 <a href="/the-game/freeagents//"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
-<p>The box contains 9 brilliant models of crazy aliens, vicious mercenaries and assorted scum that a Sponsor can hire to help win the game, each with their own individual skills and strengths.</p>
+<p>Your way to find out what’s going on behind the doors at Mantic HQ. This is where we share all the inside news and secrets of what’s going on and what’s coming up- all delivered to you in that special Mantic way!</p>
 <a class="btn btn-default" href="/the-game/freeagents/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
