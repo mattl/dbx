@@ -13,7 +13,7 @@ As well as the two different teams, there are a wide range of crazy aliens, vici
 <div class="row">
 <div class="col-md-4">
 <h3>Avaran Treebeast</h3>
-<img src="../img/avaran-thing.png" class="pull-left img-responsive " /></a>
+<img src="/img/avaran-thing.png" class="pull-left img-responsive " /></a>
 <p>These sly and malevolent forms of plant life are the ultimate hunters on their homeworld. Their poisonous and barbed prehensile tongues can lash out and attack from a distance, at great speed, great for picking up a ball or to slam an opponent at a greater distance.</p>
 </div>
 <!-- /.col-md-4 -->
