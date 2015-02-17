@@ -33,28 +33,35 @@ Below you can find the list of Army Painter paints required though you can use a
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
-<p><li>Lava Orange</li>
-<li>Monster Brown </li>
-<li>Desert Yellow</li>
-<li>Skeleton Bone</li></p>
+<p><li>Ash Grey</li>
+<li>Chaotic Red</li>
+<li>Dragon Red</li>
+<li>Toxic Boils</li></p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<p><li>Uniform Grey</li>
-<li>Ash Grey</li>
-<li>Matt White</li>
-<li>Matt Black</li>
+<p><li>Wolf Greyy</li>
+<li>Ultramarine Blue</li>
+<li>Monster Brown</li>
+<li>Desert Yellow</li>
 </p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
-<p><li>Dark Tone Ink</li>
-<li>Soft Tone Ink</li>
-<li>Strong Tone Ink</li>
-<li>Red Ink</li></p>
+<p><li>Skeleton Bone</li>
+<li>Alien Purple</li>
+<li>Daemonic Yellow</li>
+<li>Matt White</li></p>
+</p>
 </div>
 <!-- /.col-md-4 -->
-
+ <div class="col-md-4">
+<p><li>Soft Tone Ink </li>
+<li>Red Ink</li>
+<li>Purple Ink</li>
+</div>
+<!-- /.col-md-4 -->
+ 
 <p><a href="http://www.manticgames.com/mantic-shop.html" class="btn btn-danger">Buy paints at the Mantic Shop</a></p>
 
 </div>
