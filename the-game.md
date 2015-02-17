@@ -73,7 +73,7 @@ Every model comes match-ready and can be used straight out of the box – no ass
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Coloured Hex Bases</h3>
-<img src="../img/Grogan.png" class="pull-left img-responsive " />
+<img src="../img/DBX-bases.png" class="pull-left img-responsive " />
 <p>12 yellow and 12 blue hex bases that the miniatures slot onto to help distinguish between the two teams</p>
 </div>
 <!-- /.col-md-4 -->
