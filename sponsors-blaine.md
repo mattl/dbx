@@ -40,7 +40,7 @@ The blue skinned Kalysians are an aggressive and wild sub sect of the Asterian r
 <div class="row">
 <div class="col-md-4">
 <h3>Striker</h3>
-<a href=""><img src="../img/kalyshi.png" class="pull-left img-responsive " /></a>
+<img src="../img/kalyshi.png" class="pull-left img-responsive " /></a>
 <p>Fast moving and skilful, the Kalysian Striker can leap over any friends, enemies or obsticles that stand in their path to score. </p>
 </div>
 <!-- /.col-md-4 -->
