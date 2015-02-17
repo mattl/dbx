@@ -59,8 +59,7 @@ Below you can find the list of Army Painter paints required though you can use a
 
 </div>
 <!-- /.row -->
-
-      </div>
+     </div>
     </div>
   </div>
   <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
@@ -68,11 +67,30 @@ Below you can find the list of Army Painter paints required though you can use a
     <div class="panel-heading" role="tab" id="headingTwo">
       <h2 class="panel-title">
 	<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseOne">
-	  Prison Jump Suit
+	  Priming
 	</a>
       </h2>
     </div>
     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+      <div class="panel-body">
+      
+    <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
+    <li><strong>Basecoat:</strong> Ash Grey</li>
+
+I primed my miniature using Ash Grey as it would provide a good base of color in which to add the lighter colors to.. I applied this basecoat with an airbrush, however if you don't have access to an airbrush you could use the Uniform Grey or Matt White Spray Primers. Alternatively you could prime the miniature by painting on Ash Grey with a brush however this will be time consuming and not provide an even coat
+      </div>
+    </div>
+  </div>
+  <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h2 class="panel-title">
+	<a data-toggle="collapse" data-parent="#accordion" href="#collapsethree" aria-expanded="true" aria-controls="collapseOne">
+	  Prison Jump Suit
+	</a>
+      </h2>
+    </div>
+    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
       <div class="panel-body">
       
     <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
@@ -90,12 +108,12 @@ The convicts trousers can be painted with Jumpsuit Orange which is a part of the
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingTwo">
       <h2 class="panel-title">
-	<a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+	<a data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
 	  Armour - Glaive
 	</a>
       </h2>
     </div>
-    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+    <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
       <div class="panel-body">
      
     <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
@@ -110,4 +128,21 @@ The first step of painting the armor is to basecoat it with Uniform Grey, this w
       </div>
     </div>
   </div>
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingFive">
+      <h2 class="panel-title">
+	<a data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
+	  Vest
+	</a>
+      </h2>
+    </div>
+    <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+      <div class="panel-body">
+     
+    <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
+    <li><strong>Basecoat:</strong> Wolf Grey + Matt White 50/50 mix</li>
+    <li><strong>Wash:</strong> Matt White</li>
+ 
+To start with, paint the vest in the 50/50 mix of Wolf Grey + Matt White, you could use the same batch from the previous step. Finally a layer of Matt White should be applied. It is advised that several thin layers be applied as this will provide a much smoother finish.
 
