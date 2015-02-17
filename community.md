@@ -31,7 +31,7 @@ There are lots of ways to get involved and find out more about your favourite ga
 	<div class="row">
 <div class="col-md-4">
 <h3>Mantic Forum</h3>
-<a href="/sponsors/blaine/"><img src="../img/forum.png" class="pull-left img-responsive " /></a>
+<a href="http://manticforum.com/forum/dreadball-the-futuristic-sports-game/dreadball-xtreme"><img src="../img/forum.png" class="pull-left img-responsive " /></a>
 <p>A community run forum, written by the fans for the fans!
 This is led by our elite team 0f Pathfinders, some of our most brilliant and dedicated hobbyists, and is a great place to discuss tactics, team selection, what’s going on and what you want to see!
 </p>
@@ -40,14 +40,14 @@ This is led by our elite team 0f Pathfinders, some of our most brilliant and ded
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Facebook & Twitter</h3>
-<a href="/sponsors/warden/"><img src="../img/socialmedia.png" class="pull-left img-responsive " /></a>
+<a href="https://www.facebook.com/manticgames"><img src="../img/socialmedia.png" class="pull-left img-responsive " /></a>
 <p>A great way to get official Mantic updates! Sign up for all the latest exciting news in events, new releases, blogs, sneak peeks and reviews. </p>
 <a class="btn btn-default" href="/sponsors/warden/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Blog</h3>
-<a href="/the-game/freeagents//"><img src="../img/blog.png" class="pull-left img-responsive " /></a>
+<a href="http://manticblog.com/"><img src="../img/blog.png" class="pull-left img-responsive " /></a>
 <p>Your way to find out what’s going on behind the doors at Mantic HQ. This is where we share all the inside news and secrets of what’s going on and what’s coming up- all delivered to you in that special Mantic way!</p>
 <a class="btn btn-default" href="/the-game/freeagents/">More Info</a>
 </div>
