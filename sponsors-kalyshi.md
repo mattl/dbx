@@ -65,7 +65,7 @@ As well as the two different teams, there are a wide range of crazy aliens, vici
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Zee Buccaneer</h3>
-<img src="/img/.png" class="pull-left img-responsive " /></a>
+<img src="/img/zee-free-agent-1.png" class="pull-left img-responsive " /></a>
 <p>Small, agile and sneaky, they often work in teams to bring down larger and more powerful opponents.</p>
 </div>
 <!-- /.col-md-4 -->
