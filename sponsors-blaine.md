@@ -40,13 +40,13 @@ The blue skinned Kalysians are an aggressive and wild sub sect of the Asterian r
 <div class="row">
 <div class="col-md-4">
 <h3>Striker</h3>
-<a href="warden/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<a href=""><img src="../img/kalyshi.png" class="pull-left img-responsive " /></a>
 <p>Fast moving and skilful, the Kalysian Striker can leap over any friends, enemies or obsticles that stand in their path to score. </p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Jack</h3>
-<a href="warden/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<a href=""><img src="../img/elf-jack-1-c.png" class="pull-left img-responsive " /></a>
 <p>With no refs or rules, the Jacks can use thier deadly Backstab ability to exploit any weaknesses in their foes armour.  </p>
 </div>
 <!-- /.col-md-4 -->
@@ -73,19 +73,19 @@ As well as the two different teams, there is a wide range of crazy aliens, vicio
 <div class="row">
 <div class="col-md-4">
 <h3>Nameless Bloodsucker</h3>
-<a href="warden/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<a href=""><img src="../img/bloodsucker-free-agent.png" class="pull-left img-responsive " /></a>
 <p>The Xtreme crowd love these alien monstrosities as they have the truly horrifying ability of snatching their victims up into their tentacled mouthpieces and draining the vital fluids from their bodies.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Pusk Rampager</h3>
-<a href="warden/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<a href=""><img src="../img/pusk-free-agent.png" class="pull-left img-responsive " /></a>
 <p>An almost unstoppable juggernaut as it crashes around the pitch, crushing everything in its path.   </p>
 </div>
 <!-- /.col-md-4 -->
 <div class="col-md-4">
 <h3>Vlorox Spinpede</h3>
-<a href="warden/"><img src="../img/Zee Pirate_color-head.png" class="pull-left img-responsive " /></a>
+<a href=""><img src="../spinpede-free-agent.png" class="pull-left img-responsive " /></a>
 <p>These asteroid dwelling insectoids are almost invulnerable to pain as they curl themselves around the ball and roll towards the strike zone. </p>
 </div>
 <!-- /.col-md-4 -->
