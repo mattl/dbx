@@ -31,7 +31,7 @@ There are lots of ways to get involved and find out more about your favourite ga
 	<div class="row">
 <div class="col-md-4">
 <h3>Mantic Forum</h3>
-<a href="/sponsors/blaine/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
+<a href="/sponsors/blaine/"><img src="../img/forum.png" class="pull-left img-responsive " /></a>
 <p>A community run forum, written by the fans for the fans!
 This is led by our elite team 0f Pathfinders, some of our most brilliant and dedicated hobbyists, and is a great place to discuss tactics, team selection, what’s going on and what you want to see!
 </p>
@@ -40,7 +40,7 @@ This is led by our elite team 0f Pathfinders, some of our most brilliant and ded
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Facebook & Twitter</h3>
-<a href="/sponsors/warden/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
+<a href="/sponsors/warden/"><img src="../img/socialmedia.png" class="pull-left img-responsive " /></a>
 <p>A great way to get official Mantic updates! Sign up for all the latest exciting news in events, new releases, blogs, sneak peeks and reviews. </p>
 <a class="btn btn-default" href="/sponsors/warden/">More Info</a>
 </div>
