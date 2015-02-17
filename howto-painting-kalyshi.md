@@ -59,16 +59,59 @@ Below you can find the list of Army Painter paints required though you can use a
 
 </div>
 <!-- /.row -->
+
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingOne">
+      <h2 class="panel-title">
+	<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+	  Paints Required
+	</a>
+      </h2>
+    </div>
+    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+      <div class="panel-body">
+
+Below you can find the list of Army Painter paints required though you can use any equivalent water-based acrylics to paint DreadBall Xtreme miniatures. 
+
+<!-- Content Row -->
+<div class="row">
+<div class="col-md-4">
+<p><li>Lava Orange</li>
+<li>Monster Brown </li>
+<li>Desert Yellow</li>
+<li>Skeleton Bone</li></p>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<p><li>Uniform Grey</li>
+<li>Ash Grey</li>
+<li>Matt White</li>
+<li>Matt Black</li>
+</p>
+</div>
+<!-- /.col-md-4 -->
+ <div class="col-md-4">
+<p><li>Dark Tone Ink</li>
+<li>Soft Tone Ink</li>
+<li>Strong Tone Ink</li>
+<li>Red Ink</li></p>
+</div>
+<!-- /.col-md-4 -->
+
+<p><a href="http://www.manticgames.com/mantic-shop.html" class="btn btn-danger">Buy paints at the Mantic Shop</a></p>
+
+</div>
+<!-- /.row -->
      </div>
     </div>
   </div>
-  <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingTwo">
       <h2 class="panel-title">
-	<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseOne">
-	  Stage 1: Priming
-	</a>
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Stage 1: Priming
+        </a>
       </h2>
     </div>
     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
@@ -82,13 +125,12 @@ I primed my miniature using Ash Grey as it would provide a good base of color in
       </div>
     </div>
   </div>
-  <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  <div class="panel panel-default">
+<div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h2 class="panel-title">
-	<a data-toggle="collapse" data-parent="#accordion" href="#collapsethree" aria-expanded="true" aria-controls="collapseThree">
-	 Stage 2: Prison Jump Suit
-	</a>
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          Stage 2: Prison Jump-Suit
+        </a>
       </h2>
     </div>
     <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
@@ -105,13 +147,12 @@ The convicts trousers can be painted with Jumpsuit Orange which is a part of the
       </div>
     </div>
   </div>
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingTwo">
+<div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingFour">
       <h2 class="panel-title">
-	<a data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-	 Stage 3: Armour - Glaive
-	</a>
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+          Stage 3: Armour Glaive
+        </a>
       </h2>
     </div>
     <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
@@ -129,13 +170,12 @@ The first step of painting the armor is to basecoat it with Uniform Grey, this w
       </div>
     </div>
   </div>
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  <div class="panel panel-default">
+ <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingFive">
       <h2 class="panel-title">
-	<a data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
 	 Stage 4: Vest
-	</a>
+        </a>
       </h2>
     </div>
     <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
@@ -150,13 +190,12 @@ To start with, paint the vest in the 50/50 mix of Wolf Grey + Matt White, you co
       </div>
     </div>
   </div>
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  <div class="panel panel-default">
+ <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingSix">
       <h2 class="panel-title">
-	<a data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
 	 Stage 5: Skin
-	</a>
+       </a>
       </h2>
     </div>
     <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
@@ -171,11 +210,10 @@ The basecoat of Barbarian Flesh should cover quite nicely over the lighter tone 
 </div>
     </div>
   </div>
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  <div class="panel panel-default">
+ <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingSeven">
       <h2 class="panel-title">
-	<a data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
 	 Stage 6: Straps & Boots
 	</a>
       </h2>
@@ -191,11 +229,10 @@ When basecoating the armor straps, boots and belt with Matt Black take care not 
 </div>
     </div>
   </div>
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  <div class="panel panel-default">
+ <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingEight">
       <h2 class="panel-title">
-	<a data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="true" aria-controls="collapseEight">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
 	 Stage 7: Face Mask
 	</a>
       </h2>
@@ -211,4 +248,3 @@ When basecoating the armor straps, boots and belt with Matt Black take care not 
 The first step to painting the face mask on the helmet is to basecoat it with Monster Brown.  This should then be followed by a Dark Tone wash, make sure that the wash gets into all of the holes on the mask. The final step is to highlight the edges of the mask with Desert Yellow
 
 While this tutorial focused on just a Con (Jack) these steps could also be followed for any of the convict players. 
-
