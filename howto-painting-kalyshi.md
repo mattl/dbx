@@ -75,7 +75,7 @@ Below you can find the list of Army Painter paints required though you can use a
     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
       <div class="panel-body">
       
-    <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
+    <img class="img-thumbnail img-responsive pull-left" src="/k001.png" />
     <li><strong>Basecoat:</strong> Ash Grey</li>
 
 
@@ -94,7 +94,7 @@ I primed my miniature using Ash Grey as it would provide a good base of color in
     <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
       <div class="panel-body">
       
-    <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
+    <img class="img-thumbnail img-responsive pull-left" src="/k002.png" />
     <li><strong>Basecoat:</strong> Chaotic Red</li>
     <li><strong>Layer:</strong> Dragon Red</li>
     <li><strong>Wash:</strong> Red Ink</li>
@@ -116,7 +116,7 @@ The armor should be basecoated with Chaotic Red followed by a layer of Dragon Re
     <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
       <div class="panel-body">
      
-    <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
+    <img class="img-thumbnail img-responsive pull-left" src="/img/k003.png" />
     <li><strong>Basecoat:</strong> Wolf Grey</li>
     <li><strong>Layer:</strong> Wolf Grey + Ash Grey 50/50 mix</li>
     <li><strong>Highlight:</strong> Ash Grey</li>
@@ -137,7 +137,7 @@ The basecoat of Wolf Grey should cover nicely over the grey primer however thinn
     <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
       <div class="panel-body">
      
-    <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
+    <img class="img-thumbnail img-responsive pull-left" src="/img/k004.png" />
     <li><strong>Layer:</strong> Ultramarine Blue</li>
  
 The tattoos should follow and 'tribal' like style and be applied with a thin brush for best results. Thinning down the paint slightly will also allow you to get a much finer point and an easier application.
@@ -156,7 +156,7 @@ The tattoos should follow and 'tribal' like style and be applied with a thin bru
     <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
       <div class="panel-body">
      
-    <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
+    <img class="img-thumbnail img-responsive pull-left" src="/img/k005.png" />
     <li><strong>Basecoat:</strong> Monster Brown</li>
     <li><strong>Wash:</strong> Soft Tone Ink</li>
    <li><strong>Layer:</strong> Desert Yellow</li>
@@ -177,7 +177,7 @@ The bandages should first be painted with Monster Brown followed by a Soft Tone 
     <div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
       <div class="panel-body">
      
-    <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
+    <img class="img-thumbnail img-responsive pull-left" src="/img/k006.png" />
     <li><strong>Basecoat:</strong> Alien Purple</li>
      <li><strong>Layer:</strong> Toxic Boils </li>
      <li><strong>Wash:</strong> Purple Ink</li>
@@ -197,7 +197,7 @@ The first step to painting the hair is to cover the entire Mohawk with the Alien
     <div id="collapseEight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEight">
       <div class="panel-body">
      
-    <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
+    <img class="img-thumbnail img-responsive pull-left" src="/img/k007.png" />
     <li><strong>Basecoat:</strong> Desert Yellow</li>
     <li><strong>Wash:</strong> Soft Tone Ink</li>
    <li><strong>Layer:</strong> Daemonic Yellow</li>
