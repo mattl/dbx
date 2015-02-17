@@ -198,7 +198,7 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <div class="row">
 <div class="col-md-4">
 <h3>Xtreme Xpansion</h3>
-<img src="../img/Grogan.png" class="pull-left img-responsive " />
+<img src="../img/xpansion.png" class="pull-left img-responsive " />
 <p>All the awesome, fun rules for the game rules are clearly explained in a brilliant 64 page full colour rulebook, including a really useful Getting Started section. </p>
 </div>
 <!-- /.col-md-4 -->
