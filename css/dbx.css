@@ -47,8 +47,7 @@ footer {
 
 #content {
 
-    min-height: 400px;
-    padding-bottom: 170px;
+
 
     font-size: 120%;
 
@@ -63,10 +62,12 @@ footer {
     padding: 3px;
 }
 
-.col-md-3 h2, .col-md-4 h1, .col-md-4 h2, .col-md-4 h3, .post-content h2, .btn,  .post-title, .nav li, footer p, footer h2 { 
+.col-md-3 h2, .col-md-4 h1, .col-md-4 h2, .col-md-4 h3, .post-content h2, .btn,  .post-title, .nav li, footer h2 { 
     text-transform: uppercase; 
     font-family: "Flaticon", sans-serif;			 
 }
+
+footer p {font-weight: bold;}
 
 .panel {
     background: rgb(0,0,0);
