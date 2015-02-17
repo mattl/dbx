@@ -9,6 +9,7 @@ DreadBall Xtreme will prove you with countless hours and hours of fun and enjoym
 Some of our very talented partners have put together some fantastic guides to share their excitment, experience and top tips to help you get started, meaning you can begin enjoy playing and painting- Fast!
 
 
+
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingOne">
@@ -21,9 +22,11 @@ Some of our very talented partners have put together some fantastic guides to sh
     <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
       <div class="panel-body">
 
-	Dreadball Xtreme is an exciting, fun and fast paced game where two players pit themselves against each other. In this section, learn how to play DreadBall Xtreme.
+In DreadBall Xtreme the rules are carefully written to ensure that game play is fast, fun, and brutaly savage. 
 
-Like all games the best way to learn is to find a friend and play!
+You win by either scoring the most points or by destroying all of the opposing teams players- using brilliant tactics, vicious cunning and dirty tricks to achieve glorious victory at all cost. 
+
+Mantic have put together a collection of tutorials that help you get to grips with what you are doing as fast as possible so you can get playing quickly and crack on with the violence!
 
 	<!-- Content Row -->
 	<div class="row">
