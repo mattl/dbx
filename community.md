@@ -78,7 +78,8 @@ There are loads of fantastic videos available to give you even more information 
 <div class="row">
 <div class="col-md-4">
 <h3>Bell of Lost Souls</h3>
-<img src="../img/Grogan.png" class="pull-left img-responsive " />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9u1r66vyEsI" frameborder="0" allowfullscreen></iframe>
+<a class="btn btn-danger" target="_blank" href="http://youtu.be/9u1r66vyEsI">Watch the video on YouTube</a>
 <p>Bell of Lost Souls have got their hands on the new DreadBall Xtreme boxed game and open it up for all to see.</p>
 </div>
 <!-- /.col-md-4 -->
