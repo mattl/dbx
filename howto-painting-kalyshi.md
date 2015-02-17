@@ -190,7 +190,7 @@ The first step to painting the hair is to cover the entire Mohawk with the Alien
     <div class="panel-heading" role="tab" id="headingEight">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-	 Stage 7: Eyes and Glaive Light
+	 Stage 7: Eyes and Glove Light
 	</a>
       </h2>
     </div>
