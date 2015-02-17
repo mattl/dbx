@@ -7,6 +7,8 @@ nexttitle: The Universe
 ---
 DreadBall Xtreme is  a fast pace and fun tabletop boardgame where you take on the role of a savage Sponsor controlling a team of the Universes most vicious athletes competing in a nonstop contest  of skill, tactics and ruthless violence for fame and glory! Your players strive to score points getting the ball into in their opponents Strike Zone, either though elegant tactics and subtle moves, or the brutal bludgeoning of anyone who stands in their way.
 
+<img class="img-responsive pull-right" src="/img/board.png" alt="">
+
 <p><li>Play in a claustrophobic arena littered with interactive deadly bobby-trapped scenery </li>
 <li>Build your own bespoke team of savage thugs and deadly aliens to crush your opponents </li>
 <li>Dynamic game play allows you to finish a breathless match in under and hour!</li>
@@ -16,8 +18,6 @@ DreadBall Xtreme is  a fast pace and fun tabletop boardgame where you take on th
 
 The best way to begin playing Dreadball Xtreme is to get yourself a copy of the awesome, fun boxed game.
 It contains everything that you will need to start playing:
-
-<img src="/img/homepage-board.png" alt="">
 
 <div class="clearfix">&nbsp;</div>
 
