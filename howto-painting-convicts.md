@@ -62,13 +62,12 @@ Below you can find the list of Army Painter paints required though you can use a
      </div>
     </div>
   </div>
-  <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingTwo">
       <h2 class="panel-title">
-	<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseOne">
-	  Stage 1: Priming
-	</a>
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Stage 1: Priming
+        </a>
       </h2>
     </div>
     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
@@ -82,13 +81,12 @@ I primed my miniature using Ash Grey as it would provide a good base of color in
       </div>
     </div>
   </div>
-  <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h2 class="panel-title">
-	<a data-toggle="collapse" data-parent="#accordion" href="#collapsethree" aria-expanded="true" aria-controls="collapseThree">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
 	 Stage 2: Prison Jump Suit
-	</a>
+     </a>
       </h2>
     </div>
     <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
