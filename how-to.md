@@ -33,19 +33,19 @@ Mantic have put together a collection of tutorials that help you get to grips wi
 	  <div class="col-md-4">
 	    <h3>Video Tutorial</h3>
 	    <img src="../img/Grogan.png" />
-	    <p>The game is played on a beautifully</p>
+	    <p>Our friends at Beasts of War have put together a video guide, showing you the rules and explaining how to use them in your games.</p>
 	    <a class="btn btn-default" href="#">Coming Soon</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
 	    <h3>Free Downloads</h3>
 	    <img src="../img/Grogan.png" />
-	    <p>Download our free sample of the DreadBall Xtreme rulebook, showing you an example of the first couple of turns.</p>
+	    <p>The DreadBall Xtreme rulebook has a brilliant step by step example that clearly walks you through a section of a game. Click here to download it as a free PDF!</p>
 	    <a class="btn btn-default" href="#">Download</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
-	    <h3>Go Digital</h3>
+	    <h3>On the Mantic Digital site there is all sorts of great downladable content that supports your favourite games.
 	    <img src="../img/Grogan.png" />
 	    <p>Coming soon</p>
 	    <a class="btn btn-default" href="#">Coming Soon</a>
