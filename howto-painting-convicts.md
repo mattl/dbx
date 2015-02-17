@@ -75,10 +75,11 @@ Below you can find the list of Army Painter paints required though you can use a
     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
       <div class="panel-body">
       
-      
-    Basecoat: Jumpsuit Orange / Lava Orange
-    Wash: Red Ink
-    Highlight: Jumpsuit Orange & Skeleton Bone 50/50 mix.
+    <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
+    <li><strong>Basecoat:</strong> Jumpsuit Orange / Lava Orange</li>
+    <li><strong>Wash:</strong> Red Ink</li>
+    <li><strong>Highlight:</strong> Jumpsuit Orange & Skeleton Bone 50/50 mix</li>
+
 
 The convicts trousers can be painted with Jumpsuit Orange which is a part of the Army Painters Zombicide War Paints. Alternatively you could use Lava Orange but Jumpsuit Orange will give you a color similar to that seen on the example convicts. This should then be followed with a Red Ink wash to provide some definition. Finally a highlight should be applied to the raised edges of the trousers. The highlight I used was a 50/50 mix of Jumpsuit Orange and Skeleton Bone. 
 
