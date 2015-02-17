@@ -32,21 +32,21 @@ Mantic have put together a collection of tutorials that help you get to grips wi
 	<div class="row">
 	  <div class="col-md-4">
 	    <h3>Video Tutorial</h3>
-	    <img src="../img/Grogan.png" />
+	    <img src="../img/videotutorial.png" />
 	    <p>Our friends at Beasts of War have put together a video guide, showing you the rules and explaining how to use them in your games.</p>
 	    <a class="btn btn-default" href="#">Coming Soon</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
 	    <h3>Free Downloads</h3>
-	    <img src="../img/Grogan.png" />
+	    <img src="../img/download.png" />
 	    <p>The DreadBall Xtreme rulebook has a brilliant step by step example that clearly walks you through a section of a game. Click here to download it as a free PDF!</p>
 	    <a class="btn btn-default" href="#">Download</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
 	    <h3>Digital</h3>
-	    <img src="../img/Grogan.png" />
+	    <img src="../img/manticdigital.png" />
 	   
 	  On the Mantic Digital site there is all sorts of great downladable content that supports your favourite games.
 
@@ -80,21 +80,21 @@ Mantic have put together a collection of tutorials that help you get to grips wi
 	<div class="row">
 	  <div class="col-md-4">
 	    <h3>Painting Convicts</h3>
-	    <img src="../img/Grogan.png" />
+	    <img src="../img/paintingconvicts001.png" />
 	   
 	    <a class="btn btn-default" href="painting-convicts/">More Info</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
 	    <h3>Painting Kalyshi</h3>
-	    <img src="../img/Grogan.png" />
+	    <img src="../img/kalyshi002.png" />
 
 	    <a class="btn btn-default" href="painting-kalyshi/">More Info</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
 	    <h3>Painting Free Agents</h3>
-	     <img src="../img/Grogan.png" />
+	     <img src="../img/avaran-thing.png" />
 
 	    <a class="btn btn-default" href="#">Coming Soon</a>
 	  </div>
