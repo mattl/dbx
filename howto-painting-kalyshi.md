@@ -157,7 +157,7 @@ To start with, paint the vest in the 50/50 mix of Wolf Grey + Matt White, you co
     <div class="panel-heading" role="tab" id="headingSix">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-	 Stage 5: Skin
+	 Stage 5: Skum
        </a>
       </h2>
     </div>
