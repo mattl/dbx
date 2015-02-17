@@ -5,6 +5,7 @@ permalink: /the-game/
 nexturl: /dbx/the-universe/
 nexttitle: The Universe
 ---
+<img class="img-thumbnail img-responsive pull-right" src="/img/xtreme-promo-image-12.png" />
 
 DreadBall Xtreme is the competitive underground sports game for 2 players, ages 13 and up. A match lasts around 30 minutes. 
 
