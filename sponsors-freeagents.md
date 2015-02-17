@@ -9,6 +9,10 @@ permalink: /the-game/freeagents/
 
 As well as the two different teams, there are a wide range of crazy aliens, vicious mercenaries and assorted scum that a Sponsor can hire to help them win the game, each with their own individual skill and strengths.
 
+<a class="btn btn-danger" target="_blank" href="https://www.youtube.com/watch?v=B8PJO4fee3k">Watch the video directly on YouTube</a>
+
+<a href="http://dreadballxtremethegame.com/the-game/" class="btn btn-danger">Back to the game</a>
+
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
@@ -71,9 +75,3 @@ As well as the two different teams, there are a wide range of crazy aliens, vici
 <!-- /.col-md-4 -->
 </div>
 <!-- /.row -->
-
-<div class="clearfix">&nbsp;</div>
-
-<a class="btn btn-danger" target="_blank" href="https://www.youtube.com/watch?v=B8PJO4fee3k">Watch the video directly on YouTube</a>
-
-<a href="http://dreadballxtremethegame.com/the-game/" class="btn btn-danger">Back to the game</a>
