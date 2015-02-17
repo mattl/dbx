@@ -103,12 +103,11 @@ The convicts trousers can be painted with Jumpsuit Orange which is a part of the
       </div>
     </div>
   </div>
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  <div class="panel panel-default">
+<div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingFour">
       <h2 class="panel-title">
-	<a data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-	 Stage 3: Armour - Glaive
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+          Stage 3: Armour Glaive
         </a>
       </h2>
     </div>
