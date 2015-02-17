@@ -5,9 +5,14 @@ permalink: /the-game/
 nexturl: /dbx/the-universe/
 nexttitle: The Universe
 ---
-DreadBall Xtreme is the competitive underground sports game for 2 players, ages 13 and up. A match lasts around 30 minutes. 
+DreadBall Xtreme is  a fast pace and fun tabletop boardgame where you take on the role of a savage Sponsor controlling a team of the Universes most vicious athletes competing in a nonstop contest  of skill, tactics and ruthless violence for fame and glory! Your players strive to score points getting the ball into in their opponents Strike Zone, either though elegant tactics and subtle moves, or the brutal bludgeoning of anyone who stands in their way.
 
-Two teams clash over a makeshift play area, seeking as much to wipe each other out as to score points! Pick a Sponsor, assemble your team of desperadoes, and unleash them on each other to see who will be the last one standing! 
+<p><li>Play in a claustrophobic arena littered with interactive deadly bobby-trapped scenery </li>
+<li>Build your own bespoke team of savage thugs and deadly aliens to crush your opponents </li>
+<li>Dynamic game play allows you to finish a breathless match in under and hour!</li>
+<li>Magnificent Mantic miniatures are ready assembled to allow instant play</li>
+<li>Have enormous fun playing dirty tricks, sneaky weapons and brutal fouls on your friends to win the match</li></p>
+ 
 
 The best way to begin playing Dreadball Xtreme is to get yourself a copy of the awesome, fun boxed game.
 It contains everything that you will need to start playing:
