@@ -12,7 +12,7 @@ Two teams clash over a makeshift play area, seeking as much to wipe each other o
 The best way to begin playing Dreadball Xtreme is to get yourself a copy of the awesome, fun boxed game.
 It contains everything that you will need to start playing:
 
-<img class="img-responsive img-rounded" src="/img/homepage-board.png" alt="">
+<img src="/img/homepage-board.png" alt="">
 
 <div class="clearfix">&nbsp;</div>
 
