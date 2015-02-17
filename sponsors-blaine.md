@@ -85,7 +85,7 @@ As well as the two different teams, there is a wide range of crazy aliens, vicio
 <!-- /.col-md-4 -->
 <div class="col-md-4">
 <h3>Vlorox Spinpede</h3>
-<a href=""><img src="/spinpede-free-agent.png" class="pull-left img-responsive " /></a>
+<a href=""><img src="/img/spinpede-free-agent.png" class="pull-left img-responsive " /></a>
 <p>These asteroid dwelling insectoids are almost invulnerable to pain as they curl themselves around the ball and roll towards the strike zone. </p>
 </div>
 <!-- /.col-md-4 -->
