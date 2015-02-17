@@ -16,7 +16,18 @@ Making use of the Army Painters war paints we have a step by step guide for achi
 <!-- leave this in for mobile users -->
 <a class="btn btn-danger" target="_blank" href="https://www.youtube.com/watch?v=B8PJO4fee3k">Watch the video directly on YouTube</a>
 
-<h2>Paints Required</h2>
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingOne">
+      <h2 class="panel-title">
+	<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+	  Paints Required
+	</a>
+      </h2>
+    </div>
+    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+      <div class="panel-body">
+
 Below you can find the list of Army Painter paints required though you can use any equivalent water-based acrylics to paint DreadBall Xtreme miniatures. 
 
 <!-- Content Row -->
@@ -48,3 +59,9 @@ Below you can find the list of Army Painter paints required though you can use a
 
 </div>
 <!-- /.row -->
+
+      </div>
+    </div>
+  </div>
+
+
