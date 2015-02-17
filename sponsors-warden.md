@@ -39,19 +39,19 @@ The prison planets of the GCP area never ending pool of desperate and dangerous 
 <div class="row">
 <div class="col-md-4">
 <h3>Runner</h3>
-<img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
+<img src="/img/Grogan.png" class="pull-left img-responsive " /></a>
 <p>The lightest armoured and most skillful players on the team, the Runners specialise in fast plays to score Strikes</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Thug</h3>
-<img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
+<img src="/img/Grogan.png" class="pull-left img-responsive " /></a>
 <p>Battering the opposition into submission with vicious efficency, the Thugs are the brutal sledgehammers of the team.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Con</h3>
-<img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
+<img src="/img/Grogan.png" class="pull-left img-responsive " /></a>
 <p>Able to take on any role that their coach needs them to in order to cause maximum damage and points</p>
 </div>
 <!-- /.col-md-4 -->
