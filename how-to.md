@@ -4,9 +4,10 @@ title: How to...
 permalink: /how-to/
 ---
 
-To be the best, you need to beat the best. 
+DreadBall Xtreme will prove you with countless hours and hours of fun and enjoyment!
 
-Learn how to prepare your team for the tabletop by clicking the buttons below.
+Some of our very talented partners have put together some fantastic guides to share their excitment, experience and top tips to help you get started, meaning you can begin enjoy playing and painting- Fast!
+
 
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
