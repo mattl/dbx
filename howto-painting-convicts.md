@@ -86,7 +86,7 @@ I primed my miniature using Ash Grey as it would provide a good base of color in
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
 	 Stage 2: Prison Jump Suit
-     </a>
+        </a>
       </h2>
     </div>
     <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
@@ -105,11 +105,11 @@ The convicts trousers can be painted with Jumpsuit Orange which is a part of the
   </div>
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingTwo">
+    <div class="panel-heading" role="tab" id="headingFour">
       <h2 class="panel-title">
 	<a data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
 	 Stage 3: Armour - Glaive
-	</a>
+        </a>
       </h2>
     </div>
     <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
@@ -132,7 +132,7 @@ The first step of painting the armor is to basecoat it with Uniform Grey, this w
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
 	 Stage 4: Vest
-	</a>
+        </a>
       </h2>
     </div>
     <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
@@ -152,7 +152,7 @@ To start with, paint the vest in the 50/50 mix of Wolf Grey + Matt White, you co
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
 	 Stage 5: Skin
-	</a>
+       </a>
       </h2>
     </div>
     <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
