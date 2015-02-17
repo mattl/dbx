@@ -49,8 +49,7 @@ Mantic have put together a collection of tutorials that help you get to grips wi
 	    <img src="../img/Grogan.png" />
 	   
 	  On the Mantic Digital site there is all sorts of great downladable content that supports your favourite games.
-	    
-	    <p>Coming soon</p>
+
 	    <a class="btn btn-default" href="#">Coming Soon</a>
 	  </div>
 	  <!-- /.col-md-4 -->
