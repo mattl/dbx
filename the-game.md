@@ -128,7 +128,7 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <div class="row">
 <div class="col-md-4">
 <h3>Special Move Cards</h3>
-<img src="../img/Grogan.png" class="pull-left img-responsive " />
+<img src="../img/DBX-cards.png" class="pull-left img-responsive " />
 <p>Gain extra advantages either getting players to put in that extra burst of effort to gain an added action, or by whipping up the crowd to an even greater frenzy through flashy moves</p>
 </div>
 <!-- /.col-md-4 -->
