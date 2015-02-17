@@ -72,7 +72,7 @@ This is led by our elite team 0f Pathfinders, some of our most brilliant and ded
 
 
 
-There are loads of fantastic videos available to give you even more information about Xtreme. Come back regularly to see more of the awesome things that people are doing… 
+There are loads of fantastic videos available to give you even more information about Xtreme. Come back regularly to see more of the awesome things that fans are doing in their favourite hobby!
 
 <!-- Content Row -->
 <div class="row">
@@ -152,19 +152,19 @@ There are loads of fantastic videos available to give you even more information 
 <div class="col-md-4">
 <h3>Community</h3>
 <img src="../img/Grogan.png" class="pull-left img-responsive " />
-<p>All the awesome, fun rules for the game rules are clearly explained in a brilliant 64 page full colour rulebook, including a really useful Getting Started section. </p>
+<p>Nothing inspires and delights us more than seeing marvellous Mantic miniatures beautifully painted- and here is a collection of the best!  </p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Concept Art</h3>
 <img src="../img/Grogan.png" class="pull-left img-responsive " />
-<p>All of the counters and tokens that you need to keep track of how the game is progressing- and most importantly who is winning!</p>
+<p>Get a peek at the pictures that inspired some of your favourite models</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Wallpapers</h3>
 <img src="../img/Grogan.png" class="pull-left img-responsive " />
-<p>There are three colours of dice, the home team have blue, the visitors have yellow, and red dice are used as Coaching dice to use in special plays</p>
+<p>A selection of fantastic Xtreme pictures for you to enjoy.</p>
 </div>
 <!-- /.col-md-4 -->
 </div>
