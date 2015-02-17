@@ -98,10 +98,10 @@ The convicts trousers can be painted with Jumpsuit Orange which is a part of the
       <div class="panel-body">
      
     <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
-    Basecoat: Uniform Grey
-    Wash: Dark Tone
-    Highlight: Wolf Grey
-    Highlight: Wolf Grey + Matt White 50/50 mix
+    <li><strong>Basecoat:</strong> Uniform Grey</li>
+    <li><strong>Wash:</strong> Dark Tone</li>
+    <li><strong>Highlight:</strong> Wolf Grey</li>
+    <li><strong>Highlight:</strong> Wolf Grey + Matt White 50/50 mix</li>
 
 
 The first step of painting the armor is to basecoat it with Uniform Grey, this will give it a darker base color once the next step, a Dark Tone Ink wash, is applied. With the basecoat and wash completed the first highlight can be done with Wolf Grey. This should be thinly applied along the edges of the armor and glaive. The final step for the armor is an extreme highlight of Wolf Grey and Matt White mixed in 50/50 quantities. This highlight should only be applied to the upper edges of the armor or on the corners.
