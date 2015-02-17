@@ -75,7 +75,7 @@ Below you can find the list of Army Painter paints required though you can use a
     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
       <div class="panel-body">
       
-    <img class="img-thumbnail img-responsive pull-left" src="/k001.png" />
+    <img class="img-thumbnail img-responsive pull-left" src="/img/k001.png" />
     <li><strong>Basecoat:</strong> Ash Grey</li>
 
 
@@ -94,7 +94,7 @@ I primed my miniature using Ash Grey as it would provide a good base of color in
     <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
       <div class="panel-body">
       
-    <img class="img-thumbnail img-responsive pull-left" src="/k002.png" />
+    <img class="img-thumbnail img-responsive pull-left" src="/img/k002.png" />
     <li><strong>Basecoat:</strong> Chaotic Red</li>
     <li><strong>Layer:</strong> Dragon Red</li>
     <li><strong>Wash:</strong> Red Ink</li>
