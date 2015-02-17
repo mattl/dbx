@@ -7,7 +7,7 @@ permalink: /sponsors/blaine/
 
 <!-- for each faction -->
 
-<img class="img-thumbnail img-responsive pull-right" src="/img/xtreme-promo-image-11.jpg" />
+<img class="img-thumbnail img-responsive pull-right" src="/img/xtreme-promo-image-12.png" />
 
 <strong>"You don't get asked to play for him - you get summoned..."</strong>
 
