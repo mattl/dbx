@@ -73,7 +73,7 @@ Below you can find the list of Army Painter paints required though you can use a
     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
       <div class="panel-body">
       
-    <img class="img-thumbnail img-responsive pull-left" src="/img/armour.jpg" />
+    <img class="img-thumbnail img-responsive pull-left" src="/img/basecoat.png" />
     <li><strong>Basecoat:</strong> Ash Grey</li>
 
 
@@ -92,7 +92,7 @@ I primed my miniature using Ash Grey as it would provide a good base of color in
     <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
       <div class="panel-body">
       
-    <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
+    <img class="img-thumbnail img-responsive pull-left" src="/img/jumpsuit.png" />
     <li><strong>Basecoat:</strong> Jumpsuit Orange / Lava Orange</li>
     <li><strong>Wash:</strong> Red Ink</li>
     <li><strong>Highlight:</strong> Jumpsuit Orange & Skeleton Bone 50/50 mix</li>
@@ -114,7 +114,7 @@ The convicts trousers can be painted with Jumpsuit Orange which is a part of the
     <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
       <div class="panel-body">
      
-    <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
+    <img class="img-thumbnail img-responsive pull-left" src="/img/armour.png" />
     <li><strong>Basecoat:</strong> Uniform Grey</li>
     <li><strong>Wash:</strong> Dark Tone</li>
     <li><strong>Highlight:</strong> Wolf Grey</li>
@@ -137,7 +137,7 @@ The first step of painting the armor is to basecoat it with Uniform Grey, this w
     <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
       <div class="panel-body">
      
-    <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
+    <img class="img-thumbnail img-responsive pull-left" src="/img/vest.png" />
     <li><strong>Basecoat:</strong> Wolf Grey + Matt White 50/50 mix</li>
     <li><strong>Highlight:</strong> Matt White</li>
  
@@ -157,7 +157,7 @@ To start with, paint the vest in the 50/50 mix of Wolf Grey + Matt White, you co
     <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
       <div class="panel-body">
      
-    <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
+    <img class="img-thumbnail img-responsive pull-left" src="/img/skin.png" />
     <li><strong>Basecoat:</strong> Barbarian Flesh</li>
     <li><strong>Wash:</strong> Red Ink + Soft Tone Ink 50/50 mix</li>
    <li><strong>Highlight:</strong> Barbarian Flesh</li>
@@ -177,7 +177,7 @@ The basecoat of Barbarian Flesh should cover quite nicely over the lighter tone 
     <div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
       <div class="panel-body">
      
-    <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
+    <img class="img-thumbnail img-responsive pull-left" src="/img/boots.png" />
     <li><strong>Basecoat:</strong> Matt Black </li>
     <li><strong>Highlight:</strong> Uniform Grey</li>
  
@@ -196,7 +196,7 @@ When basecoating the armor straps, boots and belt with Matt Black take care not 
     <div id="collapseEight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEight">
       <div class="panel-body">
      
-    <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
+    <img class="img-thumbnail img-responsive pull-left" src="/img/facemask.png" />
     <li><strong>Basecoat:</strong> Monster Brown</li>
     <li><strong>Wash:</strong> Strong Tone Wash</li>
    <li><strong>Highlight:</strong> Desert Yellow</li>
