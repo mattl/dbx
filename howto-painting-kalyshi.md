@@ -36,7 +36,8 @@ Below you can find the list of Army Painter paints required though you can use a
 <p><li>Ash Grey</li>
 <li>Chaotic Red</li>
 <li>Dragon Red</li>
-<li>Toxic Boils</li></p>
+<li>Toxic Boils</li>
+<li>Soft Tone Ink </li></p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
@@ -44,21 +45,15 @@ Below you can find the list of Army Painter paints required though you can use a
 <li>Ultramarine Blue</li>
 <li>Monster Brown</li>
 <li>Desert Yellow</li>
-</p>
+<li>Red Ink</li></p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <p><li>Skeleton Bone</li>
 <li>Alien Purple</li>
 <li>Daemonic Yellow</li>
-<li>Matt White</li></p>
-</p>
-</div>
-<!-- /.col-md-4 -->
- <div class="col-md-4">
-<p><li>Soft Tone Ink </li>
-<li>Red Ink</li>
-<li>Purple Ink</li>
+<li>Matt White</li>
+<li>Purple Ink</li></p>
 </div>
 <!-- /.col-md-4 -->
  
