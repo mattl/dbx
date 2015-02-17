@@ -67,7 +67,7 @@ Below you can find the list of Army Painter paints required though you can use a
     <div class="panel-heading" role="tab" id="headingTwo">
       <h2 class="panel-title">
 	<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseOne">
-	  Stade 1: Priming
+	  Stage 1: Priming
 	</a>
       </h2>
     </div>
@@ -76,6 +76,7 @@ Below you can find the list of Army Painter paints required though you can use a
       
     <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
     <li><strong>Basecoat:</strong> Ash Grey</li>
+
 
 I primed my miniature using Ash Grey as it would provide a good base of color in which to add the lighter colors to.. I applied this basecoat with an airbrush, however if you don't have access to an airbrush you could use the Uniform Grey or Matt White Spray Primers. Alternatively you could prime the miniature by painting on Ash Grey with a brush however this will be time consuming and not provide an even coat
       </div>
