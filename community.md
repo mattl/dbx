@@ -115,19 +115,19 @@ There are loads of fantastic videos available to give you even more information 
 <div class="col-md-4">
 <h3>Rulebook</h3>
 <img src="../img/Grogan.png" class="pull-left img-responsive " />
-<p>All the awesome, fun rules for the game rules are clearly explained in a brilliant 64 page full colour rulebook, including a really useful Getting Started section. </p>
+<p>Find out more about the story behind DreadBall Xtreme in this articel from our Blog!</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Counters</h3>
 <img src="../img/Grogan.png" class="pull-left img-responsive " />
-<p>All of the counters and tokens that you need to keep track of how the game is progressing- and most importantly who is winning!</p>
+<p>Blood, Beards and Brass Knuckles: A Tale of Xtreme Violence! Read part 1 of a Match Report between Luke and Alex.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Dice</h3>
 <img src="../img/Grogan.png" class="pull-left img-responsive " />
-<p>There are three colours of dice, the home team have blue, the visitors have yellow, and red dice are used as Coaching dice to use in special plays</p>
+<p>5 Reasons to be excited by Xtreme! If you weren't excited enough, here's an article to tell you more.</p>
 </div>
 <!-- /.col-md-4 -->
 </div>
