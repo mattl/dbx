@@ -78,7 +78,7 @@ There are loads of fantastic videos available to give you even more information 
 <div class="row">
 <div class="col-md-4">
 <h3>Bell of Lost Souls</h3>
-<iframe width="150" height="84" src="https://www.youtube.com/embed/9u1r66vyEsI" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="169" src="https://www.youtube.com/embed/9u1r66vyEsI" frameborder="0" allowfullscreen></iframe>
 <a class="btn btn-danger" target="_blank" href="http://youtu.be/9u1r66vyEsI">Watch the video on YouTube</a>
 <p>Bell of Lost Souls have got their hands on the new DreadBall Xtreme boxed game and open it up for all to see.</p>
 </div>
