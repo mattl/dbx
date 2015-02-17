@@ -47,7 +47,7 @@ This is led by our elite team 0f Pathfinders, some of our most brilliant and ded
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Blog</h3>
-<a href="/the-game/freeagents//"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
+<a href="/the-game/freeagents//"><img src="../img/blog.png" class="pull-left img-responsive " /></a>
 <p>Your way to find out what’s going on behind the doors at Mantic HQ. This is where we share all the inside news and secrets of what’s going on and what’s coming up- all delivered to you in that special Mantic way!</p>
 <a class="btn btn-default" href="/the-game/freeagents/">More Info</a>
 </div>
@@ -151,19 +151,19 @@ There are loads of fantastic videos available to give you even more information 
 <div class="row">
 <div class="col-md-4">
 <h3>Community</h3>
-<img src="../img/Grogan.png" class="pull-left img-responsive " />
+<img src="../img/community.png" class="pull-left img-responsive " />
 <p>Nothing inspires and delights us more than seeing marvellous Mantic miniatures beautifully painted- and here is a collection of the best!  </p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Concept Art</h3>
-<img src="../img/Grogan.png" class="pull-left img-responsive " />
+<img src="../img/conceptart.png" class="pull-left img-responsive " />
 <p>Get a peek at the pictures that inspired some of your favourite models</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Wallpapers</h3>
-<img src="../img/Grogan.png" class="pull-left img-responsive " />
+<img src="../img/wallpaper.png" class="pull-left img-responsive " />
 <p>A selection of fantastic Xtreme pictures for you to enjoy.</p>
 </div>
 <!-- /.col-md-4 -->
