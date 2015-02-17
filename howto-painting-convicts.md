@@ -85,7 +85,7 @@ I primed my miniature using Ash Grey as it would provide a good base of color in
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h2 class="panel-title">
-	<a data-toggle="collapse" data-parent="#accordion" href="#collapsethree" aria-expanded="true" aria-controls="collapseOne">
+	<a data-toggle="collapse" data-parent="#accordion" href="#collapsethree" aria-expanded="true" aria-controls="collapseThree">
 	 Stage 2: Prison Jump Suit
 	</a>
       </h2>
@@ -142,7 +142,7 @@ The first step of painting the armor is to basecoat it with Uniform Grey, this w
      
     <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
     <li><strong>Basecoat:</strong> Wolf Grey + Matt White 50/50 mix</li>
-    <li><strong>Wash:</strong> Matt White</li>
+    <li><strong>Highlight:</strong> Matt White</li>
  
 To start with, paint the vest in the 50/50 mix of Wolf Grey + Matt White, you could use the same batch from the previous step. Finally a layer of Matt White should be applied. It is advised that several thin layers be applied as this will provide a much smoother finish.
 
@@ -153,7 +153,7 @@ To start with, paint the vest in the 50/50 mix of Wolf Grey + Matt White, you co
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingSix">
       <h2 class="panel-title">
-	<a data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="true" aria-controls="collapseSix">
+	<a data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
 	 Stage 5: Skin
 	</a>
       </h2>
@@ -164,7 +164,7 @@ To start with, paint the vest in the 50/50 mix of Wolf Grey + Matt White, you co
     <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
     <li><strong>Basecoat:</strong> Barbarian Fleshx</li>
     <li><strong>Wash:</strong> Red Ink + Soft Tone Ink 50/50 mix</li>
-   <li><strong>Wash:</strong> Barbarian Fleshx</li>
+   <li><strong>Highlight:</strong> Barbarian Fleshx</li>
 
 The basecoat of Barbarian Flesh should cover quite nicely over the lighter tone of the Ash Grey primer, however you may still need a couple of thin coats to achieve the best finish. The next step is to apply a 'flesh wash' which consists of a 50/50  mix of Red Tone Ink and Strong Tone Quick-shade Ink. Once the wash has dried it is then time to for a final layer of Barbarian Flesh, you could also mix in a little Skeleton Bone in order to lighten the flesh color slightly.
 </div>
@@ -187,3 +187,26 @@ The basecoat of Barbarian Flesh should cover quite nicely over the lighter tone 
     <li><strong>Highlight:</strong> Uniform Grey</li>
  
 When basecoating the armor straps, boots and belt with Matt Black take care not to over spill onto other already painted areas of the model. With the first layer completed you can the apply a highlight of Uniform Grey paying particular attention to the laces and panels on the boots.
+</div>
+    </div>
+  </div>
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingEight">
+      <h2 class="panel-title">
+	<a data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="true" aria-controls="collapseEight">
+	 Stage 7: Face Mask
+	</a>
+      </h2>
+    </div>
+    <div id="collapseEight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEight">
+      <div class="panel-body">
+     
+    <img class="img-thumbnail img-responsive pull-left" src="/img/xtreme-promo-image-04.jpg" />
+    <li><strong>Basecoat:</strong> Monster Brown</li>
+    <li><strong>Wash:</strong> Strong Tone Wash</li>
+   <li><strong>Highlight:</strong> Desert Yellow</li>
+
+The first step to painting the face mask on the helmet is to basecoat it with Monster Brown.  This should then be followed by a Dark Tone wash, make sure that the wash gets into all of the holes on the mask. The final step is to highlight the edges of the mask with Desert Yellow
+
+While this tutorial focused on just a Con (Jack) these steps could also be followed for any of the convict players. 
