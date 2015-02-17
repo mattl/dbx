@@ -59,50 +59,6 @@ Below you can find the list of Army Painter paints required though you can use a
 
 </div>
 <!-- /.row -->
-
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingOne">
-      <h2 class="panel-title">
-	<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-	  Paints Required
-	</a>
-      </h2>
-    </div>
-    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
-      <div class="panel-body">
-
-Below you can find the list of Army Painter paints required though you can use any equivalent water-based acrylics to paint DreadBall Xtreme miniatures. 
-
-<!-- Content Row -->
-<div class="row">
-<div class="col-md-4">
-<p><li>Lava Orange</li>
-<li>Monster Brown </li>
-<li>Desert Yellow</li>
-<li>Skeleton Bone</li></p>
-</div>
-<!-- /.col-md-4 -->
- <div class="col-md-4">
-<p><li>Uniform Grey</li>
-<li>Ash Grey</li>
-<li>Matt White</li>
-<li>Matt Black</li>
-</p>
-</div>
-<!-- /.col-md-4 -->
- <div class="col-md-4">
-<p><li>Dark Tone Ink</li>
-<li>Soft Tone Ink</li>
-<li>Strong Tone Ink</li>
-<li>Red Ink</li></p>
-</div>
-<!-- /.col-md-4 -->
-
-<p><a href="http://www.manticgames.com/mantic-shop.html" class="btn btn-danger">Buy paints at the Mantic Shop</a></p>
-
-</div>
-<!-- /.row -->
      </div>
     </div>
   </div>
