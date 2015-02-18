@@ -32,8 +32,7 @@ There are lots of ways to get involved and find out more about your favourite ga
 <div class="col-md-4">
 <h3>Mantic Forum</h3>
 <a href="http://manticforum.com/forum/dreadball-the-futuristic-sports-game/dreadball-xtreme"><img src="../img/forum.png" class="pull-left img-responsive " /></a>
-<p>A community run forum, written by the fans for the fans!
-Led by our elite team of Pathfinders, our Forum is a great place to discuss tactics, team selection, what’s going on and what you want to see!
+<p>A community run forum, written by the fans for the fans! Our Forum is a great place to discuss tactics, team selection, or find a game in a local area.
 </p>
 <a class="btn btn-danger" href="http://manticforum.com/forum/dreadball-the-futuristic-sports-game/dreadball-xtreme">Click Here</a>
 </div>
@@ -50,7 +49,7 @@ Led by our elite team of Pathfinders, our Forum is a great place to discuss tact
  <div class="col-md-4">
 <h3>Blog</h3>
 <a href="http://manticblog.com/"><img src="../img/blog.png" class="pull-left img-responsive " /></a>
-<p>Your way to find out what’s going on behind the doors at Mantic HQ. This is where we share all the inside news and secrets of what’s going on and what’s coming up - all delivered to you in that special Mantic way!</p>
+<p>Find out what’s going on behind the doors at Mantic HQ. This is where we share all the insider secrets of what’s going on and what’s coming up - all delivered to you in that special Mantic way!</p>
 <a class="btn btn-danger" href="/the-game/freeagents/">Read more</a>
 </div>
 <!-- /.col-md-4 -->
