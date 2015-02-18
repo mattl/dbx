@@ -205,4 +205,14 @@ The first step to painting the hair is to cover the entire Mohawk with the Alien
 
 The eyes and the small disc on the glaive should be first painted with Desert Yellow which can then be followed by a Soft Tone Ink wash. Daemonic Yellow should then be applied in a crescent shape around the disc. Finally specks of Matt White should be painted onto the opposite side of the crescent to create a glass effect.
 
-While this tutorial focused on a Striker these steps could also be followed for any of the Khalysi players. 
+While this tutorial focused on a Striker these steps could also be followed for any of the Kalyshi players. 
+
+<div class="clearfix">&nbsp;</div>
+
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<p><a href="http://dreadballxtremethegame.com/how-to/" class="btn btn-danger">Back to How To</a></p>
