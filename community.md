@@ -80,21 +80,21 @@ There are loads of fantastic videos available to give you even more information 
 <div class="col-md-4">
 <h3>Bell of Lost Souls</h3>
 <iframe width="300" height="169" src="https://www.youtube.com/embed/9u1r66vyEsI" frameborder="0" allowfullscreen></iframe>
-<a class="btn btn-danger" target="_blank" href="http://youtu.be/9u1r66vyEsI">Watch on YouTube ></a>
+<p><a class="btn btn-danger" target="_blank" href="http://youtu.be/9u1r66vyEsI">Watch on YouTube ></a></p>
 <p>Bell of Lost Souls have got their hands on the new DreadBall Xtreme boxed game and open it up for all to see.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Fan Video</h3>
 <iframe width="300" height="169" src="https://www.youtube.com/embed/H27OXQ5KILM" frameborder="0" allowfullscreen></iframe>
-<a class="btn btn-danger" target="_blank" href="http://youtu.be/H27OXQ5KILM">Watch on YouTube ></a>
+<p><a class="btn btn-danger" target="_blank" href="http://youtu.be/H27OXQ5KILM">Watch on YouTube ></a></p>
 <p>Spooney J takes a look through a copy of DreadBall Xtreme and gives us his thoughts on the game!</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Fan Video</h3>
 <iframe width="300" height="169" src="https://www.youtube.com/embed/zexXiw47bgI" frameborder="0" allowfullscreen></iframe>
-<a class="btn btn-danger" target="_blank" href="http://youtu.be/zexXiw47bgI">Watch on YouTube ></a>
+<p><a class="btn btn-danger" target="_blank" href="http://youtu.be/zexXiw47bgI">Watch on YouTube ></a></p>
 <p>Gerrcinn unleashes his review on the pre-release Kickstarter edition of DreadBall Xtreme.</p>
 </div>
 <!-- /.col-md-4 -->
