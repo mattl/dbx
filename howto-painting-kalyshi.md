@@ -215,4 +215,4 @@ While this tutorial focused on a Striker these steps could also be followed for 
   </div>
 </div>
 
-<p><a href="http://dreadballxtremethegame.com/how-to/" class="btn btn-danger">Back to How To</a></p>
+<p><a href="http://dreadballxtremethegame.com/how-to/" class="btn btn-danger">Back to How To ></a></p>
