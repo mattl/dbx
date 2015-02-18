@@ -32,7 +32,7 @@ There are lots of ways to get involved and find out more about your favourite ga
 <div class="col-md-4">
 <h3>Mantic Forum</h3>
 <a href="http://manticforum.com/forum/dreadball-the-futuristic-sports-game/dreadball-xtreme"><img src="../img/forum.png" class="pull-left img-responsive " /></a>
-<p>A community run forum, written by the fans for the fans! Our Forum is a great place to discuss tactics, team selection, or find a game in a local area.
+<p>Our community run forum, written by the fans for the fans! The Forum is a great place to discuss tactics, team selection, find a game in a local area or just simply show off piccies of your teams.
 </p>
 <a class="btn btn-danger" href="http://manticforum.com/forum/dreadball-the-futuristic-sports-game/dreadball-xtreme">Join the Forum ></a>
 </div>
