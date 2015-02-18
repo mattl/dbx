@@ -82,21 +82,21 @@ Mantic have put together a collection of tutorials that help you get to grips wi
 	    <h3>Painting Convicts</h3>
 	    <a href="http://dreadballxtremethegame.com/how-to/painting-convicts/"><img src="../img/paintingconvicts001.png" /><a>
 	   
-	 <p><a class="btn btn-danger" href="painting-convicts/">Find Out How</a></p>
+	 <a class="btn btn-danger" href="painting-convicts/">Find Out How</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
 	    <h3>Painting Kalyshi</h3>
 	   <a href="http://dreadballxtremethegame.com/how-to/painting-kalyshi/"> <img src="../img/kalyshi002.png" /></a>
 
-	    <p><a class="btn btn-danger" href="painting-kalyshi/">Find Out How</a></p>
+	    <a class="btn btn-danger" href="painting-kalyshi/">Find Out How</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
 	    <h3>Painting Free Agents</h3>
 	     <img src="../img/avaran-thing.png" />
 
-	    <p><a class="btn btn-default" href="#">Coming Soon</a></p>
+	    <a class="btn btn-default" href="#">Coming Soon</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	</div>
