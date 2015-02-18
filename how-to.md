@@ -87,9 +87,9 @@ Mantic have put together a collection of tutorials that help you get to grips wi
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
 	    <h3>Painting Kalyshi</h3>
-	     	   <img src="../img/videotutorial.png" />
+	     	   <a href="http://dreadballxtremethegame.com/how-to/painting-kalyshi/"> <img src="../img/paintingconvicts001.png" /></a>
 	    <p>Our friends at Beasts of War have put together a video guide, showing you the rules and explaining how to use them in your games.</p>
-	    <a class="btn btn-danger" href="#">Find out how ></a>
+	    <a class="btn btn-danger" href="painting-kalyshi/">Find out how ></a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
