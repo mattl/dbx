@@ -203,4 +203,13 @@ When basecoating the armor straps, boots and belt with Matt Black take care not 
 
 The first step to painting the face mask on the helmet is to basecoat it with Monster Brown.  This should then be followed by a Dark Tone wash, make sure that the wash gets into all of the holes on the mask. The final step is to highlight the edges of the mask with Desert Yellow
 
-While this tutorial focused on just a Con (Jack) these steps could also be followed for any of the convict players. 
+While this tutorial focused on just a Con (Jack) these steps could also be followed for any of the convict players.
+<div class="clearfix">&nbsp;</div>
+
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<p><a href="http://dreadballxtremethegame.com/how-to/" class="btn btn-danger">Back to How To</a></p>
