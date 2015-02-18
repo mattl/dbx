@@ -33,7 +33,7 @@ Below is a sample of the players this sponsor prefers to field in their team, an
 
 <!-- for each faction -->
 
-The prison planets of the GCP area never ending pool of desperate and dangerous individuals who, with no future or hope of release, are willing to risk everything in the unlicensed arenas. With such easy access to these scum it is easy for unscrupulous wardens to recruit their teams from amongst them- and there is always the high explosive blast-collars that they wear to keep them in line (and maybe take out opponents with a well-timed detonation!)
+The prison planets of the GCPS area never ending pool of desperate and dangerous individuals who, with no future or hope of release, are willing to risk everything in the unlicensed arenas. With such easy access to these scum it is easy for unscrupulous wardens to recruit their teams from amongst them- and there is always the high explosive blast-collars that they wear to keep them in line (and maybe take out opponents with a well-timed detonation!)
 
 <!-- Content Row -->
 <div class="row">
