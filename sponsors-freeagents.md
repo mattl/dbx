@@ -60,7 +60,7 @@ As well as the two different teams, there are a wide range of crazy aliens, vici
 <div class="col-md-4">
 <h3>Yndij Reaver</h3>
 <img src="/img/yndig-reaver.png" class="pull-left img-responsive " /></a>
-<p>Natural hunters with the grace, speed and a total and utter contempt for the rules, the Ynoij are natural Xtreme players.</p>
+<p>Natural hunters with the grace, speed and a total and utter contempt for the rules, the Yndij are natural Xtreme players.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
