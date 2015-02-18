@@ -80,24 +80,19 @@ Mantic have put together a collection of tutorials that help you get to grips wi
 	<div class="row">
 	  <div class="col-md-4">
 	    <h3>Painting Convicts</h3>
-	    <img src="../img/videotutorial.png" />
-	    <p>Our friends at Beasts of War have put together a video guide, showing you the rules and explaining how to use them in your games.</p>
-	    <a class="btn btn-default" href="#">Coming Soon</a>
+	    <a href="http://dreadballxtremethegame.com/how-to/painting-convicts/"><img src="../img/paintingconvicts001.png"/><a>
+	 <a class="btn btn-danger" href="painting-convicts/">Find Out How</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
 	    <h3>Painting Kalyshi</h3>
-	     <a href="http://www.manticgames.com/SiteData/Root/File/DreadBall-Xtreme-Example-Rush.pdf"><img src="../img/download.png" /></a>
-	    <p>The DreadBall Xtreme rulebook has a brilliant step by step example that clearly walks you through a section of a game.</p>
-	    <a class="btn btn-danger" href="http://www.manticgames.com/SiteData/Root/File/DreadBall-Xtreme-Example-Rush.pdf">Download Free!</a>
+	     	   <a href="http://dreadballxtremethegame.com/how-to/painting-kalyshi/"> <img src="../img/kalyshi002.png" /> </a>
+	    <a class="btn btn-danger" href="painting-kalyshi/">Find Out How</a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
 	    <h3>Painting Free Agents</h3>
-	    <img src="../img/manticdigital.png" />
-	   
-	  <p>On the Mantic Digital site there is all sorts of great downladable content that supports your favourite games.</p>
-
+	    <img src="../img/avaran-thing.png" />
 	    <a class="btn btn-default" href="#">Coming Soon</a>
 	  </div>
 	  <!-- /.col-md-4 -->
