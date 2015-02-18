@@ -125,7 +125,7 @@ There are loads of fantastic videos available to give you even more information 
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Blood, Beards and Brass Knuckles</h3>
-<a href="http://manticblog.com/2015/02/16/dreadball-xtreme-match-report-part-1/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
+<a href="http://manticblog.com/2015/02/16/dreadball-xtreme-match-report-part-1/"><img src="../img/beards.png" class="pull-left img-responsive " target="_blank" /></a>
 <p> Read part 1 of an awesome, brutal Match Report between Community Manager Luke and Pathfinder Alex.</p>
 <a class="btn btn-danger" target="_blank" href="http://manticblog.com/2015/02/16/dreadball-xtreme-match-report-part-1/">Read now ></a>
 </div>
