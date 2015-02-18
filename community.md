@@ -133,7 +133,7 @@ There are loads of fantastic videos available to give you even more information 
  <div class="col-md-4">
 <h3>5 Reasons to be excited by Xtreme! </h3>
 <a href="http://manticblog.com/2015/01/27/5-reasons-to-be-excited-about-dreadball-xtreme/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
-<p>If you weren't excited enough, here's our top five reasons why we love DreadBall Xtreme. Let us know what yours are!.</p>
+<p>If you weren't excited enough, here's our top five reasons why we love DreadBall Xtreme. Let us know what your's are!</p>
 <a class="btn btn-danger" target="_blank" href="http://manticblog.com/2015/01/27/5-reasons-to-be-excited-about-dreadball-xtreme/">Read now ></a>
 </div>
 <!-- /.col-md-4 -->
@@ -165,7 +165,7 @@ There are loads of fantastic videos available to give you even more information 
  <div class="col-md-4">
 <h3>Concept Art</h3>
 <img src="../img/conceptart.png" class="pull-left img-responsive " />
-<p>Get a peek at the pictures that inspired some of your favourite models</p>
+<p>Get a peek at the pictures that inspired some of your favourite models.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
