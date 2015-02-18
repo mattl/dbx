@@ -83,6 +83,7 @@ Mantic have put together a collection of tutorials that help you get to grips wi
 	    <a href="http://dreadballxtremethegame.com/how-to/painting-convicts/"><img src="../img/paintingconvicts001.png" /><a>
 	   
 	 <a class="btn btn-danger" href="painting-convicts/">Find Out How</a>
+	 vdvx
 	  </div>
 	  <!-- /.col-md-4 -->
 	  <div class="col-md-4">
