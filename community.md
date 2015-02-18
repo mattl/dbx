@@ -41,8 +41,10 @@ Led by our elite team of Pathfinders, our Forum is a great place to discuss tact
  <div class="col-md-4">
 <h3>Facebook & Twitter</h3>
 <a href="https://www.facebook.com/manticgames"><img src="../img/socialmedia.png" class="pull-left img-responsive " /></a>
-<p>Like or follow us for up-to-the-minute Mantic updates! Sign up for all the latest enews in events, new releases, blogs, sneak peeks, competitions and reviews. </p>
-<a class="btn btn-danger" href="https://www.facebook.com/manticgames">Sign Up</a>
+<p>Like or follow us for up-to-the-minute Mantic updates! Sign up for all the latest news in events, new releases, blogs, sneak peeks, competitions and reviews. </p>
+<a class="btn btn-danger" href="https://www.facebook.com/manticgames">Like us on Facebook</a>
+
+<a class="btn btn-danger" href="https://www.twitter.com/manticgames">Follow us on Twitter</a>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
