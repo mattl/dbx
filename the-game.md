@@ -9,11 +9,11 @@ DreadBall Xtreme is  a fast pace and fun tabletop boardgame where you take on th
 
 <img class="img-responsive pull-right" src="/img/homepage-board.png" alt="">
 
-<p><li>Play in a claustrophobic arena littered with interactive deadly bobby-trapped scenery </li>
-<li>Build your own bespoke team of savage thugs and deadly aliens to crush your opponents </li>
-<li>Dynamic game play allows you to finish a breathless match in under and hour!</li>
-<li>Magnificent Mantic miniatures are ready assembled to allow instant play</li>
-<li>Have enormous fun playing dirty tricks, sneaky weapons and brutal fouls on your friends to win the match</li></p>
+<p><li>Play in a claustrophobic arena littered with interactive <strong>deadly bobby-trapped scenery </strong></li>
+<li><strong>Build your own bespoke team</strong> of savage thugs and deadly aliens to crush your opponents </li>
+<li>Dynamic game play allows you to finish a <strong>breathless match in under an hour!</strong></li>
+<li>Magnificent Mantic miniatures are <strong>ready assembled to allow instant play</strong></li>
+<li>Have enormous fun playing <strong>dirty tricks</strong>, sneaky weapons and brutal fouls on your friends to win the match</li></p>
  
 
 The best way to begin playing Dreadball Xtreme is to get yourself a copy of the awesome, fun boxed game.
@@ -124,7 +124,7 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
  <div class="col-md-4">
 <h3>Exploding Crates</h3>
 <img src="../img/crate01-isolated.png" class="pull-left img-responsive " />
-<p>Arenas are littered with debris and obstacles, many of which are booby trapped with explosives that detonate when a player gets too close- all for the benefit and enjoyment of the cred paying crowds!</p>
+<p>Arenas are littered with debris and obstacles, many of which are booby trapped with explosives that detonate when a player gets too close - all for the benefit and enjoyment of the cred paying crowds!</p>
 </div>
 <!-- /.col-md-4 -->
 </div>
@@ -134,7 +134,7 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <div class="col-md-4">
 <h3>Special Move Cards</h3>
 <img src="../img/DBX-cards.png" class="pull-left img-responsive " />
-<p>Gain extra advantages either getting players to put in that extra burst of effort to gain an added action, or by whipping up the crowd to an even greater frenzy through flashy moves</p>
+<p>Gain extra advantages either getting players to put in that extra burst of effort to gain an added action, or by whipping up the crowd to an even greater frenzy through flashy moves.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
@@ -182,7 +182,7 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
  <div class="col-md-4">
 <h3>Dice</h3>
 <img src="../img/DBX-dice.png" class="pull-left img-responsive " />
-<p>There are three colours of dice, the home team have blue, the visitors have yellow, and red dice are used as Coaching dice to use in special plays</p>
+<p>There are three colours of dice, the home team have blue, the visitors have yellow, and red dice are used as Coaching dice to use in special plays.</p>
 </div>
 <!-- /.col-md-4 -->
 </div>
