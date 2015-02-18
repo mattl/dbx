@@ -72,7 +72,7 @@ As well as the two different teams, there is a wide range of crazy aliens, vicio
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
-<h3>Nameless Bloodsucker</h3>
+<h3>Bloodsucker</h3>
 <a href=""><img src="/img/bloodsucker-free-agent.png" class="pull-left img-responsive " /></a>
 <p>The Xtreme crowd love these alien monstrosities as they have the truly horrifying ability of snatching their victims up into their tentacled mouthpieces and draining the vital fluids from their bodies.</p>
 </div>
