@@ -119,7 +119,7 @@ There are loads of fantastic videos available to give you even more information 
 <div class="col-md-4">
 <h3>The Story Behind DreadBall Xtreme</h3>
 <a href="http://manticblog.com/2015/01/23/dreadball-xtreme-the-galaxys-most-brutal-sport/"><img src="../img/Grogan.png" class="pull-left img-responsive " /></a>
-<p>Find out more about how it all happened in this article from our Blog!</p>
+<p>Did you know Xtreme was originally conceived as an expansion for DreadBall? Find out more about how it all happened in this article from our Blog!</p>
 <a class="btn btn-danger" target="_blank" href="http://manticblog.com/2015/01/23/dreadball-xtreme-the-galaxys-most-brutal-sport/">Read now ></a>
 </div>
 <!-- /.col-md-4 -->
