@@ -212,4 +212,4 @@ While this tutorial focused on just a Con (Jack) these steps could also be follo
   </div>
 </div>
 
-<p><a href="http://dreadballxtremethegame.com/how-to/" class="btn btn-danger">Back to How To</a></p>
+<p><a href="http://dreadballxtremethegame.com/how-to/" class="btn btn-danger">Back to How To ></a></p>
