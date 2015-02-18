@@ -50,7 +50,7 @@ Every model comes match-ready and can be used straight out of the box – no ass
  <div class="col-md-4">
 <h3>The Warden- Sponsor</h3>
 <a href="/sponsors/warden/"><img src="../img/prison-warden-isolated.png" class="pull-left img-responsive " /></a>
-<p>With a whole prison planet of degenerate scum at his mercy, The Warden Rasulov can take his pick of the best (or worse) the Universe has to offer. </p>
+<p>With a whole prison planet of degenerate scum at his mercy, The Warden Rasulov can take his pick of the best (or worse) the Universe has to offer and field them on the pitch. </p>
 <a class="btn btn-danger" href="/sponsors/warden/">More Info</a>
 </div>
 <!-- /.col-md-4 -->
