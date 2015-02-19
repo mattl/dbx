@@ -213,7 +213,7 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
  <div class="col-md-4">
 <h3>New Sponsors</h3>
 <img src="../img/newsponsor.png" class="pull-left img-responsive " />
-<p>Coming Soon! You will not believe the roll call of insane, callous and downright deranged Sponsors that Mantic have lined to recruit and lead your players. Each one will give you the opportunity to create a bespoke and individual team with exciting challenges and styles of play.</p>
+<p>Coming Soon! You will not believe the roll call of insane, callous and downright deranged Sponsors that Mantic have lined up to hire and lead your players. Each one will give you the opportunity to create a bespoke and individual team with exciting challenges and styles of play.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
