@@ -170,7 +170,7 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
 <div class="col-md-4">
 <h3>Rulebook</h3>
 <img src="../img/xtremebook.png" class="pull-left img-responsive " />
-<p>All the awesome, fun rules for the game rules are clearly explained in a brilliant 64 page full colour rulebook, including a really useful Getting Started section. </p>
+<p>All the awesome, fun rules for the game rules are clearly explained in a brilliant 64 page full colour rulebook, including a really useful 'Getting Started' section. </p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
