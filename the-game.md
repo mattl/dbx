@@ -5,7 +5,7 @@ permalink: /the-game/
 nexturl: /dbx/the-universe/
 nexttitle: The Universe
 ---
-DreadBall Xtreme is  a fast pace and fun tabletop boardgame where you take on the role of a savage Sponsor controlling a team of the Universes most vicious athletes competing in a nonstop contest  of skill, tactics and ruthless violence for fame and glory! Your players strive to score points getting the ball into in their opponents Strike Zone, either though elegant tactics and subtle moves, or the brutal bludgeoning of anyone who stands in their way.
+DreadBall Xtreme is  a fast paced and fun tabletop boardgame where you take on the role of a savage Sponsor controlling a team of the Universes most vicious athletes competing in a nonstop contest  of skill, tactics and ruthless violence for fame and glory! Your players strive to score points by getting the ball into in their opponents Strike Zone, either though elegant tactics and subtle moves, or the brutal bludgeoning of anyone who stands in their way.
 
 <img class="img-responsive pull-right" src="/img/homepage-board.png" alt="">
 
@@ -27,14 +27,14 @@ It contains everything that you will need to start playing:
     <div class="panel-heading" role="tab" id="headingOne">
       <h2 class="panel-title">
 	<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-	  Choose your sponsor and assemble your team!
+	  Choose your sponsor and assemble your team!>
 	</a>
       </h2>
     </div>
     <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
       <div class="panel-body">
 
-Assume the role of sponsor and assemble your team from convicted felons, alien psychopaths or bloodthirsty mercenaries. The game contains two complete teams of Convicts and Asterians, including characterful prone figures. There is also a bizarre assortment of free agents for you to include in your team, such as the robotic training drones and bloodsucking aliens!
+Assume the role of Sponsor and assemble your team from convicted felons, alien psychopaths or bloodthirsty mercenaries. The box contains two complete teams of Convicts and Asterians, including characterful prone figures. There is also an incredible assortment of free agents for you to include in your team, such as the robotic training drones and bloodsucking aliens!
 
 Every model comes match-ready and can be used straight out of the box – no assembly required!
 
@@ -96,7 +96,7 @@ Every model comes match-ready and can be used straight out of the box – no ass
     <div class="panel-heading" role="tab" id="headingTwo">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          Deadly Sports Arena
+          Deadly Sports Arena >
         </a>
       </h2>
     </div>
@@ -195,7 +195,7 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
     <div class="panel-heading" role="tab" id="headingFour">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-          Beyond the core game...
+          Beyond the core game...>
         </a>
       </h2>
     </div>
