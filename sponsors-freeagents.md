@@ -26,7 +26,7 @@ As well as the two different teams there are a wide range of crazy aliens, vicio
  <div class="col-md-4">
 <h3>Jetari SL22 "Thrower"</h3>
 <img src="/img/jetari-b-free-agent.png" class="pull-left img-responsive " /></a>
-<p>Jetari SL22 “Thrower”- Thrower Drones are reprogrammed to cheaply add some extra skills if a Sponsors needs to hire some flair to their teams.</p>
+<p>Jetari SL22 “Thrower”- Thrower Drones are reprogrammed to cheaply add some extra skills if a Sponsors needs to hire some additional flair for their teams.</p>
 </div>
 <!-- /.col-md-4 -->
 </div>
