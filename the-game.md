@@ -182,7 +182,7 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
  <div class="col-md-4">
 <h3>Dice</h3>
 <img src="../img/DBX-dice.png" class="pull-left img-responsive " />
-<p>There are three colours of dice, the home team have blue, the visitors have yellow, and red dice are used as Coaching dice to use in special plays.</p>
+<p>There are three colours of dice- the home team have blue, the visitors have yellow, and red dice are used as Coaching dice to use in special plays.</p>
 </div>
 <!-- /.col-md-4 -->
 </div>
