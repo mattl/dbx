@@ -7,14 +7,14 @@ permalink: /the-game/freeagents/
 <p><a href="http://dreadballxtremethegame.com/how-to/" class="btn btn-danger">Back to How To ></a></p>
 <!-- for each faction -->
 
-As well as the two different teams, there are a wide range of crazy aliens, vicious mercenaries and assorted scum that a Sponsor can hire to help them win the game, each with their own individual skill and strengths.
+As well as the two different teams there are a wide range of crazy aliens, vicious mercenaries and assorted scum that a Sponsor can hire to help them win the game, each with their own individual skill and strengths.
 
 <!-- Content Row -->
 <div class="row">
 <div class="col-md-4">
 <h3>Avaran Treebeast</h3>
 <img src="/img/avaran-thing.png" class="pull-left img-responsive " /></a>
-<p>These sly and malevolent forms are the ultimate hunters on their homeworld. Their poisonous and barbed prehensile tongues can lash out from a distance, at great speed, great for picking up a ball or to slam an opponent at a greater distance.</p>
+<p>These sly and malevolent forms are the ultimate hunters on their homeworld. Their poisonous and barbed prehensile tongues can lash out from a distance at an incredible speed, great for picking up a ball or to slam an opponent from a safe distance.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
@@ -26,7 +26,7 @@ As well as the two different teams, there are a wide range of crazy aliens, vici
  <div class="col-md-4">
 <h3>Jetari SL22 "Thrower"</h3>
 <img src="/img/jetari-b-free-agent.png" class="pull-left img-responsive " /></a>
-<p>Jetari SL22 “Thrower”- Thrower Drones are reprogrammed to cheaply add some extra skills to a Sponsors want to add some flair to their teams.</p>
+<p>Jetari SL22 “Thrower”- Thrower Drones are reprogrammed to cheaply add some extra skills if a Sponsors needs to hire some flair to their teams.</p>
 </div>
 <!-- /.col-md-4 -->
 </div>
