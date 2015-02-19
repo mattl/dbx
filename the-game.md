@@ -27,7 +27,7 @@ It contains everything that you will need to start playing:
     <div class="panel-heading" role="tab" id="headingOne">
       <h2 class="panel-title">
 	<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-	  Choose your sponsor and assemble your team!>
+	  Choose your sponsor and assemble your team!  >
 	</a>
       </h2>
     </div>
@@ -96,7 +96,7 @@ Every model comes match-ready and can be used straight out of the box – no ass
     <div class="panel-heading" role="tab" id="headingTwo">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          Deadly Sports Arena >
+          Deadly Sports Arena  >
         </a>
       </h2>
     </div>
@@ -158,7 +158,7 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
     <div class="panel-heading" role="tab" id="headingThree">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          Rules Material
+          Rules Material  >
         </a>
       </h2>
     </div>
@@ -195,7 +195,7 @@ Play ball on a makeshift arena littered with jagged obstacles and exploding trap
     <div class="panel-heading" role="tab" id="headingFour">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-          Beyond the core game...>
+          Beyond the core game...  >
         </a>
       </h2>
     </div>
