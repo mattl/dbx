@@ -39,7 +39,7 @@ The prison planets of the GCPS area never ending pool of desperate and dangerous
 <div class="row">
 <div class="col-md-4">
 <h3>Runner</h3>
-<img src="/img/convict-jack-2-c.png" class="pull-left img-responsive " /></a>
+<img src="/img/convict-striker-a.png" class="pull-left img-responsive " /></a>
 <p>The lightest armoured and most skillful players on the team, the Runners specialise in fast plays to score Strikes</p>
 </div>
 <!-- /.col-md-4 -->
@@ -51,7 +51,7 @@ The prison planets of the GCPS area never ending pool of desperate and dangerous
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Con</h3>
-<img src="/img/convict-striker-a.png" class="pull-left img-responsive " /></a>
+<img src="/img/convict-jack-2-c.png" class="pull-left img-responsive " /></a>
 <p>Able to take on any role that their coach needs them to in order to cause maximum damage and points</p>
 </div>
 <!-- /.col-md-4 -->
