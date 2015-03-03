@@ -41,8 +41,6 @@ Below you can find the list of Army Painter paints required though you can use a
  <div class="col-md-4">
 <p><li>Green Ink</li>
 <li>Strong Tone Ink</li>
-<li>Matt White</li>
-<li>Matt Black</li>
 </p>
 </div>
 
