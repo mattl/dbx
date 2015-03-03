@@ -45,14 +45,6 @@ Below you can find the list of Army Painter paints required though you can use a
 <li>Matt Black</li>
 </p>
 </div>
-<!-- /.col-md-4 -->
- <div class="col-md-4">
-<p><li>Dark Tone Ink</li>
-<li>Soft Tone Ink</li>
-<li>Strong Tone Ink</li>
-<li>Red Ink</li></p>
-</div>
-<!-- /.col-md-4 -->
 
 <p><a href="http://www.manticgames.com/mantic-shop.html" class="btn btn-danger">Buy paints at the Mantic Shop</a></p>
 
