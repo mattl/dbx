@@ -63,10 +63,10 @@ Below you can find the list of Army Painter paints required though you can use a
       <div class="panel-body">
       
     <img class="img-thumbnail img-responsive pull-left" src="/img/basecoat.png" />
-    <li><strong>Basecoat:</strong> Ash Grey</li>
+    <li><strong>Basecoat:</strong> Leather Brown</li>
 
 
-I primed my miniature using Ash Grey as it would provide a good base of color in which to add the lighter colors to.. I applied this basecoat with an airbrush, however if you don't have access to an airbrush you could use the Uniform Grey or Matt White Spray Primers. Alternatively you could prime the miniature by painting on Ash Grey with a brush however this will be time consuming and not provide an even coat
+I primed my miniature using Leather Brown as it would be the most dominant color of the bark. I applied this basecoat with an airbrush, however if you don't have access to an airbrush you could use the Leather Brown Spray Primer available from the Army Painter. Alternatively you could prime the miniature with a generic primer and brush paint on Leather Brown. However this will be more time consuming and not provide an even coat
       </div>
     </div>
   </div>
@@ -74,7 +74,7 @@ I primed my miniature using Ash Grey as it would provide a good base of color in
     <div class="panel-heading" role="tab" id="headingThree">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          Stage 2: Prison Jump-Suit
+          Stage 2: Bark
         </a>
       </h2>
     </div>
@@ -82,12 +82,11 @@ I primed my miniature using Ash Grey as it would provide a good base of color in
       <div class="panel-body">
       
     <img class="img-thumbnail img-responsive pull-left" src="/img/jumpsuit.png" />
-    <li><strong>Basecoat:</strong> Jumpsuit Orange / Lava Orange</li>
-    <li><strong>Wash:</strong> Red Ink</li>
-    <li><strong>Highlight:</strong> Jumpsuit Orange & Skeleton Bone 50/50 mix</li>
+    <li><strong>Wash:</strong> Strong Tone Ink</li>
+    <li><strong>Drybrush:</strong> Fur Brown</li>
 
 
-The convicts trousers can be painted with Jumpsuit Orange which is a part of the Army Painters Zombicide War Paints. Alternatively you could use Lava Orange but Jumpsuit Orange will give you a color similar to that seen on the example convicts. This should then be followed with a Red Ink wash to provide some definition. Finally a highlight should be applied to the raised edges of the trousers. The highlight I used was a 50/50 mix of Jumpsuit Orange and Skeleton Bone. 
+Due to the complex mass of the branches the easiest way to pick out the detail is with a Strong Tone Ink wash across the entirety of the miniature. Once this has thoroughly dried a dry brush of Fur Brown should be applied. When doing this pay particular attention to the upper parts of the miniature. 
 
       </div>
     </div>
@@ -96,7 +95,7 @@ The convicts trousers can be painted with Jumpsuit Orange which is a part of the
     <div class="panel-heading" role="tab" id="headingFour">
       <h2 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-          Stage 3: Armour & Glove
+          Stage 3: Vines
         </a>
       </h2>
     </div>
@@ -104,13 +103,12 @@ The convicts trousers can be painted with Jumpsuit Orange which is a part of the
       <div class="panel-body">
      
     <img class="img-thumbnail img-responsive pull-left" src="/img/armour.png" />
-    <li><strong>Basecoat:</strong> Uniform Grey</li>
-    <li><strong>Wash:</strong> Dark Tone</li>
-    <li><strong>Highlight:</strong> Wolf Grey</li>
-    <li><strong>Highlight:</strong> Wolf Grey + Matt White 50/50 mix</li>
+    <li><strong>Layer:</strong> Army Green</li>
+    <li><strong>Wash:</strong> Green Ink</li>
+    <li><strong>Highlight:</strong> Army Green + Necrotic Flesh 1:1 mix</li>
 
 
-The first step of painting the armor is to basecoat it with Uniform Grey, this will give it a darker base color once the next step, a Dark Tone Ink wash, is applied. With the basecoat and wash completed the first highlight can be done with Wolf Grey. This should be thinly applied along the edges of the armor and glove. The final step for the armor is an extreme highlight of Wolf Grey and Matt White mixed in 50/50 quantities. This highlight should only be applied to the upper edges of the armor or on the corners.
+The vines which crawl across the entire miniature as well as the 'teeth' should be picked out with Army Green. Keep your DreadBall Xtreme handy in case you miss out any of the vines. I wash of Green Ink can then be applied to help the vines stand out a little better. Do not worry too much if this over spills onto the bark as the brown and green tones blend nicely. Finally, the vines should be highlighted with Army Green and Necrotic Flesh in a 1:1 mix.
 
       </div>
     </div>
