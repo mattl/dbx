@@ -19,13 +19,13 @@ As well as the two different teams there are a wide range of crazy aliens, vicio
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Jetari GL14 "Brawler"</h3>
-<img src="/img/jetari-b-free-agent.png" class="pull-left img-responsive " /></a>
+<img src="/img/jetari-a-free-agent.png" class="pull-left img-responsive " /></a>
 <p>Jetari GL14 “Brawler”- Originally a sparring and training robots, these brutal machines are loved by Sponsors as they batter and brawl their way through the opposition players, leaving a trail of broken bodies and pulped flesh behind them.</p>
 </div>
 <!-- /.col-md-4 -->
  <div class="col-md-4">
 <h3>Jetari SL22 "Thrower"</h3>
-<img src="/img/jetari-a-free-agent.png" class="pull-left img-responsive " /></a>
+<img src="/img/jetari-b-free-agent.png" class="pull-left img-responsive " /></a>
 <p>Jetari SL22 “Thrower”- Thrower Drones are reprogrammed to cheaply add some extra skills if a Sponsors needs to hire some additional flair for their teams.</p>
 </div>
 <!-- /.col-md-4 -->
