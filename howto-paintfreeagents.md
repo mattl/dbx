@@ -82,7 +82,7 @@ I primed my miniature using Leather Brown as it would be the most dominant color
       <div class="panel-body">
       
     <img class="img-thumbnail img-responsive pull-left" src="/img/vlcsnap-002.png" />
-    <li><strong>Wash:</strong> Strong Tone Ink</li>
+    <li><strong>Wash:</strong> Strong Tone Ink</li> 
     <li><strong>Drybrush:</strong> Fur Brown</li>
 
 
