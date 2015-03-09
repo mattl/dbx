@@ -62,8 +62,10 @@ Below you can find the list of Army Painter paints required though you can use a
     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
       <div class="panel-body">
       
-    <img class="img-thumbnail img-responsive pull-left" src="/img/vlcsnap-001.png" />
+    <ul>
+<li><img class="img-thumbnail img-responsive pull-left" src="/img/vlcsnap-001.png" /></li>
     <li><strong>Basecoat:</strong> Leather Brown</li>
+</ul>
 
 
 I primed my miniature using Leather Brown as it would be the most dominant color of the bark. I applied this basecoat with an airbrush, however if you don't have access to an airbrush you could use the Leather Brown Spray Primer available from the Army Painter. Alternatively you could prime the miniature with a generic primer and brush paint on Leather Brown. However this will be more time consuming and not provide an even coat
