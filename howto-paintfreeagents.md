@@ -62,7 +62,7 @@ Below you can find the list of Army Painter paints required though you can use a
     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
       <div class="panel-body">
       
-    <img class="img-thumbnail img-responsive pull-left" src="/img/basecoat.png" />
+    <img class="img-thumbnail img-responsive pull-left" src="/img/vlcsnap-001.png" />
     <li><strong>Basecoat:</strong> Leather Brown</li>
 
 
@@ -81,7 +81,7 @@ I primed my miniature using Leather Brown as it would be the most dominant color
     <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
       <div class="panel-body">
       
-    <img class="img-thumbnail img-responsive pull-left" src="/img/jumpsuit.png" />
+    <img class="img-thumbnail img-responsive pull-left" src="/img/vlcsnap-002.png" />
     <li><strong>Wash:</strong> Strong Tone Ink</li>
     <li><strong>Drybrush:</strong> Fur Brown</li>
 
@@ -102,7 +102,7 @@ Due to the complex mass of the branches the easiest way to pick out the detail i
     <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
       <div class="panel-body">
      
-    <img class="img-thumbnail img-responsive pull-left" src="/img/armour.png" />
+    <img class="img-thumbnail img-responsive pull-left" src="/img/vlcsnap-003.png" />
     <li><strong>Layer:</strong> Army Green</li>
     <li><strong>Wash:</strong> Green Ink</li>
     <li><strong>Highlight:</strong> Army Green + Necrotic Flesh 1:1 mix</li>
