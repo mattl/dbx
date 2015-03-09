@@ -95,7 +95,7 @@ Mantic have put together a collection of tutorials that help you get to grips wi
 	  <div class="col-md-4">
 	    <h3>Painting Free Agents</h3>
 	    <img src="../img/avaran-thing.png" />
-	    <a class="btn btn-default" href="#">Coming Soon</a>
+	   <a class="btn btn-danger" href="painting-freeagents/">Find out how ></a>
 	  </div>
 	  <!-- /.col-md-4 -->
 	</div>
