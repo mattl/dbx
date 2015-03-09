@@ -63,7 +63,7 @@ Below you can find the list of Army Painter paints required though you can use a
       <div class="panel-body">
       
    
-<li><img class="img-thumbnail img-responsive pull-left" src="/img/vlcsnap-001.png" /></li>
+<img class="img-thumbnail img-responsive pull-left" src="/img/vlcsnap-001.png" />
     <li><strong>Basecoat:</strong> Leather Brown</li>
 
 
